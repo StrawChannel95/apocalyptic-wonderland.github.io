@@ -131,6 +131,39 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 -   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer) (Load Order Priority 225).
 -   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description) (Install the Patcher into your Root folder, let it run, and then FNV will be patched).
 
+# Q&A
+
+Q: Wabbajack tells me I'm missing a file from game!
+A: Verify the game through steam and then run it through to the launcher and exit. The game must be a non PCR version on Steam with ALL of the DLC and the language must be in English.
+
+Q: I have missing masters when I run the game! Help!
+A: The list requires you to download and Install TTW separately. See the install instructions on the Begin Again Nexus page for full step by step instructions.
+
+Q: I have installed TTW as shown but the ESMS still are not there!
+A: This version of MO2 can sometimes not refresh properly. Double check you have enabled the mod by ticking it and exit and reload MO2. Also check that the install of TTW totals 15.7GB. If its less than this its gone wrong somewhere.
+
+Q: The TTW install page tells me to install a load of other mods as well, do I need these?
+A: No, all of these are included in the list.
+
+Q: I get these weird Triangles with exclamation marks in the game!
+A: Missing assets caused by having an incorrect TTW setup. See above.
+
+Q: I get this weird message in game about a script overwrite?
+A: You need to make sure YUPTTW is enabled in MO2 and DIRECTLY underneath the main ESMS in the plugin load order as shown in the instructions.
+
+Q: I get no DLC messages appearing? Are they installed correctly?
+A: Yes, The list has a mod that delays the DLCs and does not spam you with the message boxes at the beginning of the game. Just explore the game normally and you will stumble on to them.
+
+Q: My saves have disappeared!
+A: The list uses profile specific saving. They are located in the directory where you installed the list under "profiles" then "Old Old World".
+
+Q: I cant ALT-TAB? It just crashes or freezes.
+A: Without going too deep into technicalities, this is intentional when not using DXVK and Flip mode as outlined in the guide. Begin Agains default mode is DX9
+and Fullscreen with an improved RAM management from the mod NVTF. One of these RAM improvements makes ALT-TABbing impossible in this mode.
+
+Q: Is "{INSERT MOD NAME HERE}" compatible with the list?
+A: Short answer, If you have to ask then no. Long answer, If you know your way around XEdit and can see what I have done in regards to patching the list for consistency, then absolutely.
+
 # Credits
 - The NVSE team for NVSE and xNVSE.
 - lStewieAl for the amazing lStewieAl's Tweaks mod.
