@@ -130,3 +130,22 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 -   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281) (Load Order Priority 302, 303 and 304 respectively. Just load the mod in 302 and then load the patches after).
 -   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer) (Load Order Priority 225).
 -   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description) (Install the Patcher into your Root folder, let it run, and then FNV will be patched).
+
+# Credits
+- The NVSE team for NVSE and xNVSE.
+- lStewieAl for the amazing lStewieAl's Tweaks mod.
+- Salamand3r for NVVR.
+- Vish for Viva New Vegas.
+- NMC for his awesome texture work.
+- Sweet6Shooter for the perks and gameplay.
+- Bale for his Physically Based series.
+- JanuarySnow for being an amazing, kind and helping person.
+- Althro for everything that he has done.
+- Luca, fucking madman maniac.
+- TDarkShadow, knowledgeable as hell.
+- ElminsterAU for xEdit.
+- Audixas for being the lead at the Wasteland Survival Guide.
+- WallSoGB for being a "crazy code monkey."
+- Total, I sto--I mean borrowed some of his own README.
+- SpringHeelJon, same story.
+- And so many more that I just couldn't list even if I tried. Don't forget to endorse these mod authors, they deserve it.
