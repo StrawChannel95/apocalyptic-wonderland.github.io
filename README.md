@@ -43,14 +43,14 @@ A complete README for the Wabbajack TTW list "Old Old World."
 
  - [Where to Ask for Support](#where-to-ask-for-support)
 
- - [Updating](#updating)
-
    - [Don't Ask in the Wabbajack Server](#dont-ask-in-the-wabbajack-server)
 
    - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)
   
    - [Ask in My Discord Server](#ask-in-my-discord-server)
-  
+ 
+ - [Updating](#updating)
+
 - [Credits](#credits)
 
 # The Why
