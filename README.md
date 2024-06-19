@@ -79,7 +79,7 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 -   Old Old World does all this, while having no NSFW. (This is a Fallout game; gore is everywhere).
 
 # System Requirements
-> I can run the list at around 30 FPS with a cheap ass laptop that has intergreated graphics. Your setup can most likely run this at 60 FPS. I reccommend reading on [DXVK](https://performance.moddinglinked.com/falloutnv.html#DXVK) if you have a CPU that is newer than 2015.
+> I can run the list at around 30 FPS with a cheap ass laptop that has intergrated graphics. Your setup can most likely run this at 60 FPS. I recommend reading on [DXVK](https://performance.moddinglinked.com/falloutnv.html#DXVK) if you have a CPU that is newer than 2015.
 
 # Installation
 
@@ -157,7 +157,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 
 ### Running the Game
 
-Select the Old Old World option from the dropdown menu and launch the game. If everything works, congratualtions, you can now play the list, if not, then head into the [Q&A](#qa) section.
+Select the Old Old World option from the dropdown menu and launch the game. If everything works, congratulations! You can now play the list; if you can't, then head into the [Q&A](#qa) section.
 
 # Q&A
 
@@ -220,6 +220,20 @@ A: Without going too deep into technicalities, this is intentional when not usin
 Q: Is "{INSERT MOD NAME HERE}" compatible with the list?
 
 A: Short answer. If you have to ask, then no. Long answer: If you know your way around XEdit and can see what I have done in regards to patching the list for consistency, then absolutely.
+
+# Where to Ask for Support
+
+### Don't Ask in the Wabbajack Server
+
+They cannot help you, they will tell you to head over and ask the modlist author (me).
+
+### Don't DM Me or Anyone Regarding the List
+
+Ask in the support channels, more people see it, and it makes my life easier.
+
+### Ask in My Discord Server
+
+Here is the link (there is also one in [The Why](#the-why) section and another one in the [Q&A](#qa) section.
 
 # Credits
 - The NVSE team for NVSE and xNVSE.
