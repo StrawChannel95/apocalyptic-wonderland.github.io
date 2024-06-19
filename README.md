@@ -1,59 +1,59 @@
 # Old Old World
 A complete README for the Wabbajack TTW list "Old Old World."
 
- - [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list)
- 
- - [What is Wabbajack](#what-is-wabbajack)
- 
- - [Old Old World Features](#old-old-world-features)
+ - [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list)
+ 
+ - [What is Wabbajack](#what-is-wabbajack)
+ 
+ - [Old Old World Features](#old-old-world-features)
 
- - [System Requirements](#system-requirements)
-  
- - [Installation](#installation)
-   
-   - [Clean Installation](#clean-installation)
+ - [System Requirements](#system-requirements)
+  
+ - [Installation](#installation)
+   
+   - [Clean Installation](#clean-installation)
 
-    - [INI Folders](#ini-folders)
+    - [INI Folders](#ini-folders)
 
-    - [Installing Microsoft Visual C++ Redistributable Package](#installing-the-microsoft-visual-c-redistributable-package)
- 
- - [Steam Config](#steam-config)
+    - [Installing Microsoft Visual C++ Redistributable Package](#installing-the-microsoft-visual-c-redistributable-package)
+ 
+ - [Steam Config](#steam-config)
 
-    - [Reinstallation](#reinstallation)
+    - [Reinstallation](#reinstallation)
 
-    - [Steam Library](#steam-library)
+    - [Steam Library](#steam-library)
 
-    - [Setting the Game language to English](#setting-the-game-language-to-english)
+    - [Setting the Game language to English](#setting-the-game-language-to-english)
 
 - [GOG Config](#gog-config)
- 
- - [Using Wabbajack](#using-wabbajack)
-  
-   - [Preparations](#preparations)
-  
-   - [Downloading and Installing](#downloading-and-installing)
+ 
+ - [Using Wabbajack](#using-wabbajack)
+  
+   - [Preparations](#preparations)
+  
+   - [Downloading and Installing](#downloading-and-installing)
 
-   - [Problems with Wabbajack](#problems-with-wabbajack)
+   - [Problems with Wabbajack](#problems-with-wabbajack)
 
- - [Installing TTW](#installing-ttw)
+ - [Installing TTW](#installing-ttw)
 
- - [Manually Installed Mods](#manually-installed-mods)
+ - [Manually Installed Mods](#manually-installed-mods)
 
- - [Post-Installation](#post-installation)
+ - [Post-Installation](#post-installation)
 
- - [Q&A](#qa)
+ - [Q&A](#qa)
 
- - [Where to Ask for Support](#where-to-ask-for-support)
+ - [Where to Ask for Support](#where-to-ask-for-support)
 
-   - [Don't Ask in the Wabbajack Server](#dont-ask-in-the-wabbajack-server)
+   - [Don't Ask on the Wabbajack Server](#dont-ask-in-the-wabbajack-server)
 
-   - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)
-  
-   - [Ask in My Discord Server](#ask-in-my-discord-server)
- 
- - [Updating](#updating)
+   - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)
+  
+   - [Ask in My Discord Server](#ask-in-my-discord-server)
+ 
+ - [Updating](#updating)
 
- - [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
+ - [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
 
 - [Credits](#credits)
 
@@ -80,7 +80,7 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 **This isn't a complete list. This list just has some of the highlights. I will leave it to you to find the rest of the hundreds of features that this list adds.**
 
--   All mods are Rootbuilded, meaning that the Root folder is completely clean. (This is what allows us to install the list and then TTW).
+-   Old Old World makes use of the Root Builder MO2 plugin, which ensures the game installation folder doesn't get modified.
 
 -   A complete UI overhaul thanks to [Vanilla UI Plus](https://www.nexusmods.com/newvegas/mods/80642](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)) by [Axonis](https://www.moddb.com/members/axonis).
 
@@ -96,11 +96,11 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 -   Old Old World supports both `Steam` and `GOG` stores.
 
--   Old Old World does all this, while having no NSFW. (This is a Fallout game; gore is everywhere).
+-   Old Old World does all this while having no NSFW. (This is a Fallout game; gore is everywhere).
 
 # Requirements
 
-**I cannot provide support with different specifications and setups. I do not know how to improve FPS on other devices. Do not ask me about it. You can however ask in the support server but no matter what you have, you need either Windows 10 or Windows 11.**
+**I cannot provide support for different specifications and setups. I do not know how to improve FPS on other devices. Do not ask me about it. You can, however, ask on the support server, but no matter what you have, you need either Windows 10 or Windows 11.**
 
 ### Specifications
 
@@ -114,26 +114,26 @@ My specs are the following:
 
 - TTW running on an SSD.
 
-I capped the FPS to 60 using the [Special K](https://www.special-k.info/) program (I don't use any of its other features)  and the game is very smooth with minimal crashes. Again, if you want to increase performance, please ask in the support channel and I personally will not be able to help you.
+I capped the FPS to 60 using the [Special K](https://www.special-k.info/) program (I don't use any of its other features), and the game is very smooth with minimal crashes. Again, if you want to increase performance, please ask in the support channel, and I personally will not be able to help you.
 
 ### Steam/GOG requirements
 
 A legal copy of Fallout 3 with all DLCs from either [Steam](https://store.steampowered.com/app/22370/Fallout_3_Game_of_the_Year_Edition/) or [GOG](https://www.gog.com/en/game/fallout_3_game_of_the_year_edition).
 
-A legal copy of Fallout: New Vegas with all DLCs from either Steam.
+A legal copy of Fallout: New Vegas with all DLCs from either [Steam](https://store.steampowered.com/sub/13435/) or [GOG](https://www.gog.com/en/game/fallout_new_vegas_ultimate_edition).
 
-**(I cannot provide support for any other version including the PCR version)**
+**(I cannot provide support for any other version, including the PCR version)**
 
 ### Extra Requirements
 
-A [Nexus Mods](https://nexusmods.com) account (Premium not necessary but recommended for automated downloads).
+A [Nexus Mods](https://nexusmods.com) account (Premium is not necessary but recommended for automated downloads).
 A [ModPub](https://mod.pub/) account.
 
 # Installation
 
 ### Clean Installation
 
-**If you use GOG then please skip to the [GOG Config](#gog-config) section of the README.**
+**If you use GOG, then please skip to the [GOG Config](#gog-config) section of the README.**
 
 In order to ensure that your Fallout: New Vegas and Fallout 3 installations are pristine and vanilla, we are going to completely re-install the game. This is especially important if you have modded the game previously, as left-over files might interfere with your installation. If you never modded Fallout: New Vegas and Fallout 3 and/or never installed other Wabbajack lists, you may skip this step. However, I still recommend you verify the game files through Steam in that case.
 
@@ -156,7 +156,6 @@ I doubt you need to do this since you likely already have it installed. The pack
 
 # Steam Config
 
-
 ### Reinstallation
 
 The reinstallation also serves the purpose of relocating the game files to a better directory. Using `UAC-protected folders` for the game or any modding tools has a risk of causing issues down the line. It is best to avoid those folders to begin with. Most Wabbajack list authors, myself included, will not provide support for people who disregard this warning and use UAC-protected folders anyway. Note that this does not include the `Steam client`. Additionally, Fallout: New Vegas and Mod Organizer 2 should be installed on the same hard drive. Ideally, that hard drive would be an SSD to reduce loading times and eliminate stuttering. 
@@ -173,9 +172,9 @@ Open the `Steam Properties` window, navigate to the `Language` tab, and select `
 
 # GOG Config
 
-Inside the game folders of both Fallout 3 and New Vegas there will be a file known as `unins000`. Run it and it will activate the uninstaller, completely uninstall the game, and then reinstall it from GOG (Make sure to delete any extra INI files in Documents:\My Games:\Fallout3 and Documents:\My Games:\FalloutNV).
+Inside the game folders of both Fallout 3 and New Vegas, there will be a file known as `unins000`. Run it, and it will activate the uninstaller, completely uninstall the game, and then reinstall it from GOG. (Make sure to delete any extra INI files in Documents:\My Games:\Fallout3 and Documents:\My Games:\FalloutNV).
 
-_This section is not verifiable, I have written this section from word of mouth. If someone knows the rest of the steps that GOG users have to take, please DM me @ StrawChannel95 on Discord._
+_This section is not verifiable; I have written it from word of mouth. If someone knows the rest of the steps that GOG users have to take, please DM me at StrawChannel95 on Discord._
 
 # Using Wabbajack
 
@@ -185,7 +184,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 ### Downloading and Installing
 
-The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest number of threads and, thus, the fastest speed, it is advised to have the working folder on an SSD. You can have the Old Old World and Downloads folders on separate drives without issue, aside from being limited by the slowest drive during Wabbajack installation. Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
+The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest number of threads and, thus, the fastest speed, it is advised to have the working folder on an SSD. You can have the Old Old World and Downloads folders on separate drives without issue, aside from being limited by the slowest drive during Wabbajack installation. Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated, regardless of your account status.
 
 1. Open Wabbajack.
 2. Load the Modlist from Disk.
@@ -203,14 +202,14 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 -   You then want to head over to [ModPub](https://mod.pub/) and download the [TTW 3.3.2 Installer](https://mod.pub/ttw/133-tale-of-two-wastelands).
 -   Extract the downloaded archive to a folder of your choosing.
 -   You then want to run the installer as Adminstrator and set the path to where the empty mod called `[No Delete] Tale of Two Wastelands` is.
--   Then you wait for the installer. (This will take from 30 minutes to 3 hours).
+-   Then you wait for the installer (This will take from 30 minutes to 3 hours).
 
 # Manually Installed Mods
 -   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and simply drag and drop the 3 files on the right that you just downloaded into the main mod menu that is on the left.
 
--   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file in on the right, you want to to drag and drop it to the left.
+-   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to drag and drop it to the left.
 
--   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description). You want to press on the `Manual Download` button. After it's done downloading, you want to extract the archive into where your Fallout: New Vegas is located (Put it in the normal game folder, and do not put it in the data folder). After that, you want to run the `FNVpatch.exe` as adminstrator. It should say "FalloutNV Patched."
+-   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description). You want to press the `Manual Download` button. After it's done downloading, you want to extract the archive to where your Fallout: New Vegas is located (Put it in the normal game folder and do not put it in the data folder). After that, you want to run `FNVpatch.exe` as Adminstrator. It should say "FalloutNV Patched."
 
 # Post-Installation
 
@@ -220,7 +219,7 @@ Select the Old Old World option from the dropdown menu and launch the game. If e
 
 # Q&A
 
-Q: Wabbajack tells me I'm missing a file from game!
+Q: Wabbajack tells me I'm missing a file from the game!
 
 A: Verify the game through Steam, then run it through the launcher and exit. The game must be a non-PCR version on Steam with all of the DLC, and the language must be English.
 
@@ -230,7 +229,7 @@ A: The list requires you to download and install TTW separately. Reread the [Ins
 
 Q: Why are the DLCs so different?
 
-A: I felt that the mods made the DLCs better and more enjoyable while still not taking away anything from the vanilla aestithic.
+A: I felt that the mods made the DLCs better and more enjoyable while still not taking away anything from the vanilla aesthetic.
 
 Q: The intro of Fallout 3 is weird!
 
@@ -260,7 +259,7 @@ Q: I get these weird triangles with exclamation marks in the game!
 
 A: Missing assets are caused by having an incorrect TTW setup. See the [Installing TTW](#installing-ttw) section.
 
-Q: I get this weird message in game about a script overwrite?
+Q: I get this weird message in-game about a script overwrite?
 
 A: You need to make sure YUPTTW is enabled in MO2 and directly underneath the main ESMS in the plugin load order, as shown in the instructions.
 
@@ -282,13 +281,13 @@ A: Short answer. If you have to ask, then no. Long answer: If you know your way 
 
 # Where to Ask for Support
 
-### Don't Ask in the Wabbajack Server
+### Don't Ask on the Wabbajack Server
 
-They cannot help you, they will tell you to head over and ask the modlist author (me).
+They cannot help you; they will tell you to head over and ask the modlist author (me).
 
 ### Don't DM Me or Anyone Regarding the List
 
-Ask in the support channels, more people see it, and it makes my life easier.
+Ask in the support channels; more people see it, and it makes my life easier.
 
 ### Ask in My Discord Server
 
@@ -302,9 +301,9 @@ Old Old World updates are based on a [Semantic Versioning](https://en.wikipedia.
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-Generally speaking:  
-- Full x.0 (2.0, 3.0, etc) updates requires a new game.  
-- Major x.x (2.1, 2.2 etc) updates requires a new game.  
+Generally speaking: 
+- Full x.0 (2.0, 3.0, etc) updates requires a new game.  
+- Major x.x (2.1, 2.2, etc) updates requires a new game.  
 - Minor x.x.x (2.1.1, 2.1.2) updates can be applied to an ongoing playthrough.
 
 # How to Keep Extra Mods After Updating
@@ -328,22 +327,22 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 - Lizzy for being a modlist messiah.
 - matortheeternal for zEdit.
 - reyqune for having a sense of humor in these dark times.
-- Lartza because he's Finnish and he is literally about to be finished from people like me asking stupid questions.
+- Lartza because he's Finnish and he is literally about to be finished by people like me asking stupid questions.
 - ElminsterAU for xEdit and The Method.
 - Audixas for being the lead at the Wasteland Survival Guide.
 - WallSoGB for being a "crazy code monkey."
-- Total becasue I sto---I mean borrowed some of his own README.
+- Total because I sto---I mean borrowed some of his own README.
 - SpringHeelJon, same story.
 - Lively, same story as Jon and Total.
 - Cangar & Kvitekvist, same story (This is getting old).
-- Everyone at Scenic Route for the idea to include user comments. (I will include them once the list has actually been played by people)
+- Everyone at Scenic Route for the idea to include user comments. (I will include them once the list has actually been played by people).
 - Apoapse for founding Scenic Route Games and being the lead of Librum.
 - Bethesda for the engine and Fallout 3.
 - Obsidian for Fallout: New Vegas.
-- RoyBatty for being the best New Vegas moddder to ever live.
+- RoyBatty for being the best New Vegas modder to ever live.
 - Axonis for Vanilla UI Plus.
 - Jazzisparis for JIP NVSE.
-- Halgari for Wabbajack, without him, this list and countless others wouldn't be possible.
+- Halgari for Wabbajack; without him, this list and countless others wouldn't be possible.
 - YOU for reading this.
 - And so many others that I just couldn't list even if I tried. Don't forget to endorse these mod authors; they deserve it.
 
