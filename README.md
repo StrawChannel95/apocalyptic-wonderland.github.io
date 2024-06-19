@@ -178,7 +178,7 @@ A: For general questions not regarding the list and chatting, yes. For anything 
 
 Q: Where is your Discord server?
 
-A: [Here](https://discord.gg/ez3dsBub8Q) 
+A: [Here](https://discord.gg/ez3dsBub8Q).
 
 Q: I have installed TTW as shown, but the ESMs are still not there!
 
