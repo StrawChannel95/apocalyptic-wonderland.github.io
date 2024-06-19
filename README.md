@@ -286,6 +286,8 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 - TDarkShadow, knowledgeable as hell.
 - Lizzy for being a modlist messiah.
 - matortheeternal for zEdit.
+- reyqune for having a sense of humor in these dark times.
+- Lartza because he's Finnish and he is literally about to be finished from people like me asking stupid questions.
 - ElminsterAU for xEdit and The Method.
 - Audixas for being the lead at the Wasteland Survival Guide.
 - WallSoGB for being a "crazy code monkey."
