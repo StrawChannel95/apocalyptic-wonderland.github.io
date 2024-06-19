@@ -57,21 +57,23 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 -   Lore-friendly, hard, and includes a cluster of new content. (I will leave you to find the new content).
 
+-   Old Old World supports both Steam and GOG stores.
+
 -   Old Old World does all this, while having no NSFW. (This is a Fallout game, gore is everywhere).
 
 ## Installation
 
 ### Clean Installation
 
-In order to ensure that your Fallout New Vegas and Fallout 3 installation is pristine and vanilla, we are going to completely re-install the game. This is especially important if you have modded the game previously as left-over files might interfere with your installation. If you never modded Fallout New Vegas and Fallout 3 and/or never installed other Wabbajack lists, you may skip this step. However, I still recommend you verify the game files through Steam in that case.
+In order to ensure that your Fallout New Vegas and Fallout 3 installation is pristine and vanilla, we are going to completely re-install the game. This is especially important if you have modded the game previously as left-over files might interfere with your installation. If you never modded Fallout: New Vegas and Fallout 3 and/or never installed other Wabbajack lists, you may skip this step. However, I still recommend you verify the game files through Steam in that case.
 
--   Uninstall Fallout New Vegas and Fallout 3 through Steam
+-   Uninstall Fallout: New Vegas and Fallout 3 through Steam
 -   Navigate to your Steam directory.
--   If there is still a Fallout New Vegas and Fallout 3 folder there, delete it.
+-   If there is still a Fallout: New Vegas and Fallout 3 folder there, delete it.
 
 ### INI Folders
 
-More Fallout-related files are located inside the so-called INI Folder which needs to be cleaned out as well. It contains your save games as well as the game’s INI files and, if you modded Fallout New Vegas before, NVSE plugin logs.
+More Fallout-related files are located inside the so-called INI Folder which needs to be cleaned out as well. It contains your save games as well as the game’s INI files and, if you modded Fallout: New Vegas before, NVSE plugin logs.
 
 -   Navigate to the INI Folder, this is found under Documents/My Games.
 -   If you have an ongoing vanilla playthrough, back up the Saves folder.
@@ -134,34 +136,64 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 # Q&A
 
 Q: Wabbajack tells me I'm missing a file from game!
-A: Verify the game through steam and then run it through to the launcher and exit. The game must be a non PCR version on Steam with ALL of the DLC and the language must be in English.
+
+A: Verify the game through Steam and then run it through to the launcher and exit. The game must be a non PCR version on Steam with ALL of the DLC and the language must be in English.
 
 Q: I have missing masters when I run the game! Help!
-A: The list requires you to download and Install TTW separately. See the install instructions on the Begin Again Nexus page for full step by step instructions.
+
+A: The list requires you to download and Install TTW separately. Reread the [Installing TTW](#installing-ttw) step.
+
+Q: Why are the DLCs so different?
+
+A: My list, if you want, you could remove the 3 DLC-changing mods, but you're going to be on your own.
+
+Q: The intro of Fallout 3 is weird!
+
+A: I know minor clipping and the cart that holds you doesn't move, I will try finding a fix. Also, TTW quickstart is enabled, so you should not be able to see this.
+
+Q: The white screens that say "X Years Later" are not there.
+
+A: I know, another thing I'll have to fix. Also, TTW quickstart is enabled by default, so, you just disabled it. Yes, if you ask this question on Discord, I'll not respond.
+
+Q: Are your DMs open?
+
+A: For general questions not regarding the list and chatting, yes. For anything regarding the list, no.
+
+Q: Where is your Discord server?
+
+A: [Here]((https://discord.gg/ez3dsBub8Q)) 
 
 Q: I have installed TTW as shown but the ESMS still are not there!
+
 A: This version of MO2 can sometimes not refresh properly. Double check you have enabled the mod by ticking it and exit and reload MO2. Also check that the install of TTW totals 15.7GB. If its less than this its gone wrong somewhere.
 
 Q: The TTW install page tells me to install a load of other mods as well, do I need these?
+
 A: No, all of these are included in the list.
 
-Q: I get these weird Triangles with exclamation marks in the game!
+Q: I get these weird triangles with exclamation marks in the game!
+
 A: Missing assets caused by having an incorrect TTW setup. See above.
 
 Q: I get this weird message in game about a script overwrite?
+
 A: You need to make sure YUPTTW is enabled in MO2 and DIRECTLY underneath the main ESMS in the plugin load order as shown in the instructions.
 
 Q: I get no DLC messages appearing? Are they installed correctly?
+
 A: Yes, The list has a mod that delays the DLCs and does not spam you with the message boxes at the beginning of the game. Just explore the game normally and you will stumble on to them.
 
 Q: My saves have disappeared!
+
 A: The list uses profile specific saving. They are located in the directory where you installed the list under "profiles" then "Old Old World".
 
-Q: I cant ALT-TAB? It just crashes or freezes.
-A: Without going too deep into technicalities, this is intentional when not using DXVK and Flip mode as outlined in the guide. Begin Agains default mode is DX9
+Q: I can't ALT-TAB? It just crashes or freezes.
+
+A: Without going too deep into technicalities, this is intentional when not using DXVK and Flip mode as outlined in the guide. Old Old World's default mode is DX9
 and Fullscreen with an improved RAM management from the mod NVTF. One of these RAM improvements makes ALT-TABbing impossible in this mode.
 
 Q: Is "{INSERT MOD NAME HERE}" compatible with the list?
+
 A: Short answer, If you have to ask then no. Long answer, If you know your way around XEdit and can see what I have done in regards to patching the list for consistency, then absolutely.
 
 # Credits
@@ -176,9 +208,11 @@ A: Short answer, If you have to ask then no. Long answer, If you know your way a
 - Althro for everything that he has done.
 - Luca, fucking madman maniac.
 - TDarkShadow, knowledgeable as hell.
-- ElminsterAU for xEdit.
+- Lizzy for being a modlist messiah.
+- matortheeternal for zEdit.
+- ElminsterAU for xEdit and The Method.
 - Audixas for being the lead at the Wasteland Survival Guide.
 - WallSoGB for being a "crazy code monkey."
-- Total, I sto--I mean borrowed some of his own README.
+- Total becasue I sto--I mean borrowed some of his own README.
 - SpringHeelJon, same story.
 - And so many more that I just couldn't list even if I tried. Don't forget to endorse these mod authors, they deserve it.
