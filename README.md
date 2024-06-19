@@ -51,7 +51,7 @@ A complete README for the Wabbajack TTW list "Old Old World."
  
  - [Updating](#updating)
 
- - [Extra Mods](#how-to-keep-extra-mods)
+ - [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
 
 - [Credits](#credits)
 
