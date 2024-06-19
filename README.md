@@ -121,7 +121,7 @@ Open the Steam Properties window, navigate to the Language tab, and select Engli
 
 ### Preparations
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in X:\Wabbajack
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in X:\Wabbajack.
 
 ### Downloading and Installing
 
