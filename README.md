@@ -6,7 +6,7 @@ A complete README for the Wabbajack TTW list "Old Old World."
  - [What is Wabbajack](#what-is-wabbajack)
  
  - [Old Old World Features](#old-old-world-features)
- 
+  
  - [Installation](#installation)
    
    - [Clean Installation](#clean-installation)
@@ -78,7 +78,10 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 -   Old Old World does all this, while having no NSFW. (This is a Fallout game; gore is everywhere).
 
-## Installation
+# System Requirements
+> I can run the list at around 30 FPS with a cheap ass laptop that has intergreated graphics. Your setup can most likely run this at 60 FPS. I reccommend reading on [DXVK](https://performance.moddinglinked.com/falloutnv.html#DXVK) if you have a CPU that is newer than 2015.
+
+# Installation
 
 ### Clean Installation
 
@@ -149,6 +152,12 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 -   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281) (Load Order Priority 302, 303, and 304, respectively. Just load the mod in 302 and then load the patches after).
 -   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer) (Load Order Priority 225).
 -   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description) (Install the Patcher into your Root folder, let it run, and then FNV will be patched).
+
+# Post-Installation
+
+### Running the Game
+
+Select the Old Old World option from the dropdown menu and launch the game. If everything works, congratualtions, you can now play the list, if not, then head into the [Q&A](#qa) section.
 
 # Q&A
 
