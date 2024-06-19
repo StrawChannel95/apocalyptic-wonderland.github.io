@@ -120,7 +120,7 @@ More Fallout-related files are located inside the so-called INI folder, which ne
 
 ### Installing the Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have it installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017, and 2019".Here is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+I doubt you need to do this since you likely already have it installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017, and 2019". Here is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
 # Steam Config
 
