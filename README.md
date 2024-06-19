@@ -1,7 +1,7 @@
 # Old Old World
 A complete README for the Wabbajack TTW list "Old Old World."
 
-- [The Why](#the-why)
+- [The Why](#the-why) (This segment is completely optional to read, it just details how I made the list)
 - [What is Wabbajack](#what-is-wabbajack)
 - [Old Old World Features](#old-old-world-features)
 - [Installation](#installation)
