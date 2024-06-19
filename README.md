@@ -84,19 +84,19 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 -   A complete UI overhaul thanks to [Vanilla UI Plus](https://www.nexusmods.com/newvegas/mods/80642](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)) by [Axonis](https://www.moddb.com/members/axonis).
 
--   A tweaks menu, featuring a full selection of engine fixes and personal tweaks, thanks to [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347) by [lStewieAl](https://next.nexusmods.com/profile/lStewieAl/about-me?gameId=130). 
+-   A tweaks menu, featuring a full selection of engine fixes and personal tweaks, thanks to [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347) by [lStewieAl](https://next.nexusmods.com/profile/lStewieAl/about-me?gameId=130). 
 
--   A full suite of graphical improvements thanks to [NVVR](https://salamand3r.fail/new-vegas-visual-renewal) by [Salamand3r](https://next.nexusmods.com/profile/5al4mand3r/about-me?gameId=130).
+-   A full suite of graphical improvements thanks to [NVVR](https://salamand3r.fail/new-vegas-visual-renewal) by [Salamand3r](https://next.nexusmods.com/profile/5al4mand3r/about-me?gameId=130).
 
--   Custom patching exclusive to the list.
+-   Custom patching exclusive to the list.
 
--   An extraordinary amount of gameplay tweaks and improvements thanks to [Xilandro](https://next.nexusmods.com/profile/Xilandro/mods?gameId=130), [Sweet6Shooter](https://next.nexusmods.com/profile/Sweet6Shooter/about-me?gameId=130), and many more people I couldn't remember.
+-   An extraordinary amount of gameplay tweaks and improvements thanks to [Xilandro](https://next.nexusmods.com/profile/Xilandro/mods?gameId=130), [Sweet6Shooter](https://next.nexusmods.com/profile/Sweet6Shooter/about-me?gameId=130), and many more people I couldn't remember.
 
--   Lore-friendly, hard, and includes a cluster of new content. (I will leave you to find the new content).
+-   Lore-friendly, hard, and includes a cluster of new content. (I will leave you to find the new content).
 
--   Old Old World supports both `Steam` and `GOG` stores.
+-   Old Old World supports both `Steam` and `GOG` stores.
 
--   Old Old World does all this while having no NSFW. (This is a Fallout game; gore is everywhere).
+-   Old Old World does all this while having no NSFW. (This is a Fallout game; gore is everywhere).
 
 # Requirements
 
