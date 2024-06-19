@@ -43,6 +43,8 @@ A complete README for the Wabbajack TTW list "Old Old World."
 
  - [Where to Ask for Support](#where-to-ask-for-support)
 
+ - [Updating](#updating)
+
    - [Don't Ask in the Wabbajack Server](#dont-ask-in-the-wabbajack-server)
 
    - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)
@@ -142,7 +144,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 ### Downloading and Installing
 
-The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest number of threads and, thus, the fastest speed, it is advised to have the working folder on an SSD. You can have the Old Old World and Downloads folders on separate drives without issue, aside from being limited by the slowest drive during Wabbajack installation.
+The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest number of threads and, thus, the fastest speed, it is advised to have the working folder on an SSD. You can have the Old Old World and Downloads folders on separate drives without issue, aside from being limited by the slowest drive during Wabbajack installation. Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
 
 1. Open Wabbajack.
 2. Load the Modlist from Disk.
@@ -152,7 +154,7 @@ The download and installation process can take a very long time, depending on yo
 
 ### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. If you do not see an installation failure warning, do not worry about it. If you feel like Wabbajack is stuck or a download is hanging, just restart Wabbajack; it will pick up from exactly where you left off. Please rerun Wabbajack at least twice and try to manually download the file from Nexus first before posting about a failed download.
+There are a lot of different scenarios where Wabbajack will produce an error. If you do not see an installation failure warning, do not worry about it. If you feel like Wabbajack is stuck or a download is hanging, just restart Wabbajack; it will pick up from exactly where you left off. Please rerun Wabbajack at least twice and try to manually download the file from Nexus first before posting about a failed download. Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Installation](#installation) section.
 
 # Installing TTW
 
@@ -249,6 +251,25 @@ Ask in the support channels, more people see it, and it makes my life easier.
 
 Here is the [link](https://discord.gg/ez3dsBub8Q) (there is also one in [The Why](#the-why) section and another one in the [Q&A](#qa) section).
 
+# Updating
+
+If this Modlist receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
+
+Old Old World updates based on a [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning) system.
+
+Generally speaking:  
+- Full x.0 (2.0, 3.0, etc) updates requires a new game.  
+- Major x.x (2.1, 2.2 etc) updates requires a new game.  
+- Minor x.x.x (2.1.1, 2.1.2) updates can be applied to an ongoing playthrough.
+
+# Extra Mods
+
+Any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+
+If you wish for Wabbajack to ignore any additional mods you've installed, rename them to say `[NoDelete]` at the beginning of the name.
+
+Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
 # Credits
 - The NVSE team for NVSE and xNVSE.
 - lStewieAl for the amazing lStewieAl's Tweaks mod.
@@ -268,4 +289,5 @@ Here is the [link](https://discord.gg/ez3dsBub8Q) (there is also one in [The Why
 - WallSoGB for being a "crazy code monkey."
 - Total becasue I sto---I mean borrowed some of his own README.
 - SpringHeelJon, same story.
+- Lively, same story as Jon and Total.
 - And so many more that I just couldn't list even if I tried. Don't forget to endorse these mod authors; they deserve it.
