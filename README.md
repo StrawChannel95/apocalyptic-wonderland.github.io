@@ -80,7 +80,7 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 -   All mods are Rootbuilded, meaning that the Root folder is completely clean. (This is what allows us to install the list and then TTW).
 
--   A complete UI overhaul thanks to [M.U.X. Interface Overhaul](https://www.nexusmods.com/newvegas/mods/80642) by [Anro19](https://next.nexusmods.com/profile/Anro19/).
+-   A complete UI overhaul thanks to [Vanilla UI Plus](https://www.nexusmods.com/newvegas/mods/80642](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)) by [Axonis](https://www.moddb.com/members/axonis).
 
 -   A tweaks menu, featuring a full selection of engine fixes and personal tweaks, thanks to [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347) by [lStewieAl](https://next.nexusmods.com/profile/lStewieAl/about-me?gameId=130). 
 
@@ -92,7 +92,7 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 -   Lore-friendly, hard, and includes a cluster of new content. (I will leave you to find the new content).
 
--   Old Old World supports both Steam and GOG stores.
+-   Old Old World supports both `Steam` and `GOG` stores.
 
 -   Old Old World does all this, while having no NSFW. (This is a Fallout game; gore is everywhere).
 
@@ -111,7 +111,7 @@ In order to ensure that your Fallout: New Vegas and Fallout 3 installations are 
 
 ### INI Folders
 
-More Fallout-related files are located inside the so-called INI folder, which needs to be cleaned out as well. It contains your save games as well as the game’s INI files and, if you modded Fallout: New Vegas before, NVSE plugin logs.
+More Fallout-related files are located inside the so-called `INI folder`, which needs to be cleaned out as well. It contains your save games as well as the game’s INI files and, if you modded Fallout: New Vegas before, NVSE plugin logs.
 
 -   Navigate to the INI folder; this is found under Documents/My Games.
 -   If you have an ongoing vanilla playthrough, back up the Saves folder.
@@ -120,17 +120,17 @@ More Fallout-related files are located inside the so-called INI folder, which ne
 
 ### Installing the Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have it installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017, and 2019". Here is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+I doubt you need to do this since you likely already have it installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under `Visual Studio 2015, 2017, and 2019`. Here is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
 # Steam Config
 
 ### Reinstallation
 
-The reinstallation also serves the purpose of relocating the game files to a better directory. Using UAC-protected folders for the game or any modding tools has a risk of causing issues down the line. It is best to avoid those folders to begin with. Most Wabbajack list authors, myself included, will not provide support for people who disregard this warning and use UAC-protected folders anyway. Note that this does not include the `Steam client`. Additionally, Fallout: New Vegas and Mod Organizer 2 should be installed on the same hard drive. Ideally, that hard drive would be an SSD to reduce loading times and eliminate stuttering. 
+The reinstallation also serves the purpose of relocating the game files to a better directory. Using `UAC-protected folders` for the game or any modding tools has a risk of causing issues down the line. It is best to avoid those folders to begin with. Most Wabbajack list authors, myself included, will not provide support for people who disregard this warning and use UAC-protected folders anyway. Note that this does not include the `Steam client`. Additionally, Fallout: New Vegas and Mod Organizer 2 should be installed on the same hard drive. Ideally, that hard drive would be an SSD to reduce loading times and eliminate stuttering. 
 
 ### Steam Library
 
-In order to prevent some confusion, I will refer to the Library in Steam as the `Game Library`. It is the second of four items in the top menu in the Steam client and contains a list of all your games. A Steam Library, on the other hand, is a folder on your hard drive into which Steam games are installed. Since we do not want to have files inside a UAC-protected folder, we should not install Fallout: New Vegas in the default directory. A new `Steam Library` is required.
+In order to prevent some confusion, I will refer to the Library in Steam as the `Game Library`. It is the second of four items in the top menu in the Steam client and contains a list of all your games. A `Steam Library`, on the other hand, is a folder on your hard drive into which Steam games are installed. Since we do not want to have files inside a `UAC-protected folder`, we should not install Fallout: New Vegas in the default directory. A new `Steam Library` is required.
 
 ### Setting the Game language to English
 
