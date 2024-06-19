@@ -257,6 +257,8 @@ If this Modlist receives an update, please check the Changelog before doing anyt
 
 Old Old World updates based on a [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning) system.
 
+Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
 Generally speaking:  
 - Full x.0 (2.0, 3.0, etc) updates requires a new game.  
 - Major x.x (2.1, 2.2 etc) updates requires a new game.  
@@ -264,11 +266,9 @@ Generally speaking:
 
 # Extra Mods
 
-Any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+When updating, any additional mods you have installed on top of Old Old World will be deleted. Your downloads folder will not be touched!
 
 If you wish for Wabbajack to ignore any additional mods you've installed, rename them to say `[NoDelete]` at the beginning of the name.
-
-Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
 # Credits
 - The NVSE team for NVSE and xNVSE.
