@@ -6,6 +6,8 @@ A complete README for the Wabbajack TTW list "Old Old World."
  - [What is Wabbajack](#what-is-wabbajack)
  
  - [Old Old World Features](#old-old-world-features)
+
+ - [System Requirements](#system-requirements)
   
  - [Installation](#installation)
    
@@ -31,11 +33,23 @@ A complete README for the Wabbajack TTW list "Old Old World."
 
    - [Problems with Wabbajack](#problems-with-wabbajack)
 
-
  - [Installing TTW](#installing-ttw)
 
  - [Manually Installed Mods](#manually-installed-mods)
- 
+
+ - [Post-Installation](#post-installation)
+
+ - [Q&A](#qa)
+
+ - [Where to Ask for Support](#where-to-ask-for-support)
+
+   - [Don't Ask in the Wabbajack Server](#dont-ask-in-the-wabbajack-server)
+
+   - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)
+  
+   - [Ask in My Discord Server](#ask-in-my-discord-server)
+  
+- [Credits](#credits)
 
 # The Why
 **This segment is entirely optional to read. These are just the events leading up to the creation of Old Old World.**
@@ -102,7 +116,7 @@ More Fallout-related files are located inside the so-called INI folder, which ne
 
 ### Installing the Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have it installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017, and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+I doubt you need to do this since you likely already have it installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017, and 2019".Here is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
 # Steam Config
 
@@ -233,7 +247,7 @@ Ask in the support channels, more people see it, and it makes my life easier.
 
 ### Ask in My Discord Server
 
-Here is the link (there is also one in [The Why](#the-why) section and another one in the [Q&A](#qa) section.
+Here is the [link](https://discord.gg/ez3dsBub8Q) (there is also one in [The Why](#the-why) section and another one in the [Q&A](#qa) section).
 
 # Credits
 - The NVSE team for NVSE and xNVSE.
