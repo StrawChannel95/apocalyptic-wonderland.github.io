@@ -51,6 +51,8 @@ A complete README for the Wabbajack TTW list "Old Old World."
  
  - [Updating](#updating)
 
+ - [Extra Mods](#extra-mods)
+
 - [Credits](#credits)
 
 # The Why
