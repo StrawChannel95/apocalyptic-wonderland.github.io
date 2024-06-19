@@ -4,84 +4,57 @@ A complete README for the Wabbajack TTW list "Old Old World."
  
  - [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list)
  
- 
  - [What is Wabbajack](#what-is-wabbajack)
- 
  
  - [Old Old World Features](#old-old-world-features)
 
- 
  - [System Requirements](#system-requirements)
   
- 
  - [Installation](#installation)
    
-
     - [Clean Installation](#clean-installation)
 
-    
     - [INI Folders](#ini-folders)
 
-    
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-the-microsoft-visual-c-redistributable-package)
  
- 
  - [Steam Config](#steam-config)
-
     
     - [Reinstallation](#reinstallation)
 
-    
     - [Steam Library](#steam-library)
-
     
     - [Setting the Game language to English](#setting-the-game-language-to-english)
 
-
 - [GOG Config](#gog-config)
  
-
 - [Using Wabbajack](#using-wabbajack)
   
-
     - [Preparations](#preparations)
   
-
     - [Downloading and Installing](#downloading-and-installing)
-
-    
+  
     - [Problems with Wabbajack](#problems-with-wabbajack)
-
  
  - [Installing TTW](#installing-ttw)
-
  
  - [Manually Installed Mods](#manually-installed-mods)
-
  
  - [Post-Installation](#post-installation)
 
- 
  - [Q&A](#qa)
-
  
  - [Where to Ask for Support](#where-to-ask-for-support)
-
-   
+  
    - [Don't Ask on the Wabbajack Server](#dont-ask-in-the-wabbajack-server)
-
-   
+ 
    - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)
-  
-   
-   - [Ask in My Discord Server](#ask-in-my-discord-server)
+   
+   - [Ask in My Discord Server](#ask-in-my-discord-server) 
+ 
+- [Updating](#updating)
  
- 
- - [Updating](#updating)
-
- 
- - [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
-
+- [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
 
 - [Credits](#credits)
 
