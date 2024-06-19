@@ -97,7 +97,20 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 -   Old Old World does all this, while having no NSFW. (This is a Fallout game; gore is everywhere).
 
 # System Requirements
-> I can run the list at around 30 FPS with a cheap ass laptop that has intergrated graphics. Your setup can most likely run this at 60 FPS. I recommend reading on [DXVK](https://performance.moddinglinked.com/falloutnv.html#DXVK) if you have a CPU that is newer than 2015.
+
+**I cannot provide support with differnt specifications and setups. I do not know how to improve FPS on other devices. Do not ask me about it. You can however ask in the support server.**
+
+My specs are the following:
+
+- RTX 4090
+
+- Intel 13900K
+
+- 256GB of DDR5
+
+- TTW running on an SSD.
+
+I capped the FPS to 60 using the [Special K](https://www.special-k.info/) (I don't use any of its other features) program and the game is very smooth with minimal crashes. Again, if you want to increase performance, please ask in the support channel and I personally will not be able to help you.
 
 # Installation
 
@@ -124,6 +137,8 @@ I doubt you need to do this since you likely already have it installed. The pack
 
 # Steam Config
 
+**If you use GOG then please skip to the [GOG Config](#gog-config) section of the README.
+
 ### Reinstallation
 
 The reinstallation also serves the purpose of relocating the game files to a better directory. Using `UAC-protected folders` for the game or any modding tools has a risk of causing issues down the line. It is best to avoid those folders to begin with. Most Wabbajack list authors, myself included, will not provide support for people who disregard this warning and use UAC-protected folders anyway. Note that this does not include the `Steam client`. Additionally, Fallout: New Vegas and Mod Organizer 2 should be installed on the same hard drive. Ideally, that hard drive would be an SSD to reduce loading times and eliminate stuttering. 
@@ -137,6 +152,10 @@ In order to prevent some confusion, I will refer to the Library in Steam as the 
 You must do this for Wabbajack to work. If your game was previously set to non-English, make sure to verify your files on Steam after fixing it. There is no support for non-English TTW.
 
 Open the `Steam Properties` window, navigate to the `Language` tab, and select `English` from the dropdown menu.
+
+# GOG Config
+
+Inside the game folders of both Fallout 3 and New Vegas there will be a file known as `unins000`. Run it and it will activate the uninstaller, completely uninstall the game, and then reinstall it from GOG (Make sure to delete any extra INI files in Documents:\My Games:\Fallout3 and Documents:\My Games:\FalloutNV).
 
 # Using Wabbajack
 
@@ -296,11 +315,13 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 - Lively, same story as Jon and Total.
 - Cangar & Kvitekvist, same story (This is getting old).
 - Everyone at Scenic Route for the idea to include user comments. (I will include them once the list has actually been played by people)
+- Apoapse for founding Scenic Route Games and being the lead of Librum.
 - Bethesda for the engine and Fallout 3.
 - Obsidian for Fallout: New Vegas.
 - RoyBatty for being the best New Vegas moddder to ever live.
 - Axonis for Vanilla UI Plus.
 - Jazzisparis for JIP NVSE.
+- Halgari for Wabbajack, without him, this list and countless others wouldn't be possible.
 - YOU for reading this.
 - And so many others that I just couldn't list even if I tried. Don't forget to endorse these mod authors; they deserve it.
 
