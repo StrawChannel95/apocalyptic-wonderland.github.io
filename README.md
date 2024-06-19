@@ -8,7 +8,7 @@ A complete README for the Wabbajack TTW list "Old Old World."
  
  - [Old Old World Features](#old-old-world-features)
 
- - [System Requirements](#system-requirements)
+ - [Requirements](#requirements)
   
  - [Installation](#installation)
    
