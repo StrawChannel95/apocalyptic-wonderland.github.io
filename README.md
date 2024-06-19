@@ -317,6 +317,7 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 - lStewieAl for the amazing lStewieAl's Tweaks mod.
 - Salamand3r for NVVR.
 - Vish for Viva New Vegas.
+- Biggie for his amazing guides.
 - NMC for his awesome texture work.
 - Sweet6Shooter for the perks and gameplay.
 - Bale for his Physically Based series.
