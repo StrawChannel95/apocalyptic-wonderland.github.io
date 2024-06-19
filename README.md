@@ -344,6 +344,7 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 - Axonis for Vanilla UI Plus.
 - Jazzisparis for JIP NVSE.
 - Halgari for Wabbajack; without him, this list and countless others wouldn't be possible.
+- All the other code contributors for helping Halgari.
 - YOU for reading this.
 - And so many others that I just couldn't list even if I tried. Don't forget to endorse these mod authors; they deserve it.
 
