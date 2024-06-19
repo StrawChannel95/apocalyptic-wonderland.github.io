@@ -51,7 +51,7 @@ A complete README for the Wabbajack TTW list "Old Old World."
  
  - [Updating](#updating)
 
- - [Extra Mods](#extra-mods)
+ - [Extra Mods](#how-to-keep-extra-mods)
 
 - [Credits](#credits)
 
@@ -266,7 +266,7 @@ Generally speaking:
 - Major x.x (2.1, 2.2 etc) updates requires a new game.  
 - Minor x.x.x (2.1.1, 2.1.2) updates can be applied to an ongoing playthrough.
 
-# Extra Mods
+# How to Keep Extra Mods After Updating
 
 When updating, any additional mods you have installed on top of Old Old World will be deleted. Your downloads folder will not be touched!
 
