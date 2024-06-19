@@ -127,6 +127,7 @@ A legal copy of Fallout: New Vegas with all DLCs from either [Steam](https://sto
 ### Extra Requirements
 
 A [Nexus Mods](https://nexusmods.com) account (Premium is not necessary but recommended for automated downloads).
+
 A [ModPub](https://mod.pub/) account.
 
 # Installation
