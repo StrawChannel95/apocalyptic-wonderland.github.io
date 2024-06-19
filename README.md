@@ -139,7 +139,7 @@ I doubt you need to do this since you likely already have it installed. The pack
 
 # Steam Config
 
-**If you use GOG then please skip to the [GOG Config](#gog-config) section of the README.
+**If you use GOG then please skip to the [GOG Config](#gog-config) section of the README.**
 
 ### Reinstallation
 
