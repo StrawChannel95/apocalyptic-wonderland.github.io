@@ -162,7 +162,7 @@ A: The list requires you to download and install TTW separately. Reread the [Ins
 
 Q: Why are the DLCs so different?
 
-A: My list, if you want, you could remove the 3 DLC-changing mods, but you're going to be on your own.
+A: It's my list, if you want, you could remove the 3 DLC-changing mods, but you're going to be on your own.
 
 Q: The intro of Fallout 3 is weird!
 
