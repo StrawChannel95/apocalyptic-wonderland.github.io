@@ -25,11 +25,11 @@ A complete README for the Wabbajack TTW list "Old Old World."
  
  - [Using Wabbajack](#using-wabbajack)
   
-  - [Preparations](#preparations)
+   - [Preparations](#preparations)
   
-  - [Downloading and Installing](#downloading-and-installing)
+   - [Downloading and Installing](#downloading-and-installing)
   
-  - [Problems with Wabbajack](#problems-with-wabbajack)
+   - [Problems with Wabbajack](#problems-with-wabbajack)
 
  - [Installing TTW](#installing-ttw)
 
