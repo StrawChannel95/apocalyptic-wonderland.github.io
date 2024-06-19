@@ -161,7 +161,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 # Installing TTW
 
 -   Now, after the list is fully installed, you want to create a mod in MO2 called "[No Delete] Tale of Two Wastelands".
--   You then want to head over to [ModPub](https://mod.pub/) and download the [TTW 3.3.2 Installer](https://mod.pub/ttw/133-tale-of-two-wastelands)
+-   You then want to head over to [ModPub](https://mod.pub/) and download the [TTW 3.3.2 Installer](https://mod.pub/ttw/133-tale-of-two-wastelands).
 -   Extract the downloaded archive to a folder of your choosing.
 -   You then want to run the installer as Adminstrator and set the path to where the empty mod called "[No Delete] Tale of Two Wastelands" is.
 -   Then you wait for the installer. (This will take quite some time, depending on your CPU).
