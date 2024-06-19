@@ -106,11 +106,11 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 My specs are the following:
 
-- RTX 4090
+- RTX 4090.
 
-- Intel 13900K
+- Intel 13900K.
 
-- 256GB of DDR5
+- 256GB of DDR5.
 
 - TTW running on an SSD.
 
