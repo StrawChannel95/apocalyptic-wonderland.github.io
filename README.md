@@ -17,11 +17,11 @@ A complete README for the Wabbajack TTW list "Old Old World."
  
  - [Steam Config](#steam-config)
 
-  - [Reinstallation](#reinstallation)
+    - [Reinstallation](#reinstallation)
 
-  - [Steam Library](#steam-library)
+    - [Steam Library](#steam-library)
 
-  - [Set the Game language to English](#setting-the-game-langauage-to-english)
+    - [Set the Game language to English](#setting-the-game-langauage-to-english)
  
  - [Using Wabbajack](#using-wabbajack)
   
@@ -31,9 +31,9 @@ A complete README for the Wabbajack TTW list "Old Old World."
   
   - [Problems with Wabbajack](#problems-with-wabbajack)
 
-  - [Installing TTW](#installing-ttw)
+ - [Installing TTW](#installing-ttw)
 
-  - [Manually Installed Mods](#manually-installed-mods)
+ - [Manually Installed Mods](#manually-installed-mods)
  
 
 # The Why
