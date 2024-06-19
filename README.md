@@ -82,7 +82,7 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 -   Old Old World makes use of the Root Builder MO2 plugin, which ensures the game installation folder doesn't get modified.
 
--   A complete UI overhaul thanks to [Vanilla UI Plus](https://www.nexusmods.com/newvegas/mods/80642](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)) by [Axonis](https://www.moddb.com/members/axonis).
+-   A complete UI overhaul thanks to [Vanilla UI Plus](https://www.nexusmods.com/newvegas/mods/80642](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)) by [Axonis](https://www.moddb.com/members/axonis).
 
 -   A tweaks menu, featuring a full selection of engine fixes and personal tweaks, thanks to [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347) by [lStewieAl](https://next.nexusmods.com/profile/lStewieAl/about-me?gameId=130). 
 
