@@ -13,7 +13,7 @@ A complete README for the Wabbajack TTW list "Old Old World."
 
     - [INI Folders](#ini-folders)
 
-    - [Installing Microsoft Visual C++ Redistributable Package](#installing-the-microsoft-visual-c++-redistributable-package)
+    - [Installing Microsoft Visual C++ Redistributable Package](#installing-the-microsoft-visual-c-redistributable-package)
  
  - [Steam Config](#steam-config)
 
