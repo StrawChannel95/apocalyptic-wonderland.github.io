@@ -24,6 +24,8 @@ A complete README for the Wabbajack TTW list "Old Old World."
     - [Steam Library](#steam-library)
 
     - [Setting the Game language to English](#setting-the-game-language-to-english)
+
+- [GOG Config](#gog-config)
  
  - [Using Wabbajack](#using-wabbajack)
   
