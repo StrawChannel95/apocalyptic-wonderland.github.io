@@ -255,7 +255,7 @@ Here is the [link](https://discord.gg/ez3dsBub8Q) (there is also one in [The Why
 
 # Updating
 
-If this Modlist receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
+If this Old Old World receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
 Old Old World updates based on a [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning) system.
 
@@ -292,4 +292,5 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 - Total becasue I sto---I mean borrowed some of his own README.
 - SpringHeelJon, same story.
 - Lively, same story as Jon and Total.
+- Cangar & Kvitekvist, same story (This is getting old).
 - And so many more that I just couldn't list even if I tried. Don't forget to endorse these mod authors; they deserve it.
