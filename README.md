@@ -98,9 +98,11 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 -   Old Old World does all this, while having no NSFW. (This is a Fallout game; gore is everywhere).
 
-# System Requirements
+# Requirements
 
-**I cannot provide support with different specifications and setups. I do not know how to improve FPS on other devices. Do not ask me about it. You can however ask in the support server.**
+**I cannot provide support with different specifications and setups. I do not know how to improve FPS on other devices. Do not ask me about it. You can however ask in the support server but no matter what you have, you need either Windows 10 or Windows 11.**
+
+### Specifications
 
 My specs are the following:
 
@@ -114,9 +116,24 @@ My specs are the following:
 
 I capped the FPS to 60 using the [Special K](https://www.special-k.info/) program (I don't use any of its other features)  and the game is very smooth with minimal crashes. Again, if you want to increase performance, please ask in the support channel and I personally will not be able to help you.
 
+### Steam/GOG requirements
+
+A legal copy of Fallout 3 with all DLCs from either [Steam](https://store.steampowered.com/app/22370/Fallout_3_Game_of_the_Year_Edition/) or [GOG](https://www.gog.com/en/game/fallout_3_game_of_the_year_edition).
+
+A legal copy of Fallout: New Vegas with all DLCs from either Steam.
+
+**(I cannot provide support for any other version including the PCR version)**
+
+### Extra Requirements
+
+A [Nexus Mods](https://nexusmods.com) account (Premium not necessary but recommended for automated downloads).
+A [ModPub](https://mod.pub/) account.
+
 # Installation
 
 ### Clean Installation
+
+**If you use GOG then please skip to the [GOG Config](#gog-config) section of the README.**
 
 In order to ensure that your Fallout: New Vegas and Fallout 3 installations are pristine and vanilla, we are going to completely re-install the game. This is especially important if you have modded the game previously, as left-over files might interfere with your installation. If you never modded Fallout: New Vegas and Fallout 3 and/or never installed other Wabbajack lists, you may skip this step. However, I still recommend you verify the game files through Steam in that case.
 
@@ -139,7 +156,6 @@ I doubt you need to do this since you likely already have it installed. The pack
 
 # Steam Config
 
-**If you use GOG then please skip to the [GOG Config](#gog-config) section of the README.**
 
 ### Reinstallation
 
@@ -158,6 +174,8 @@ Open the `Steam Properties` window, navigate to the `Language` tab, and select `
 # GOG Config
 
 Inside the game folders of both Fallout 3 and New Vegas there will be a file known as `unins000`. Run it and it will activate the uninstaller, completely uninstall the game, and then reinstall it from GOG (Make sure to delete any extra INI files in Documents:\My Games:\Fallout3 and Documents:\My Games:\FalloutNV).
+
+_This section is not verifiable, I have written this section from word of mouth. If someone knows the rest of the steps that GOG users have to take, please DM me @ StrawChannel95 on Discord._
 
 # Using Wabbajack
 
@@ -185,12 +203,14 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 -   You then want to head over to [ModPub](https://mod.pub/) and download the [TTW 3.3.2 Installer](https://mod.pub/ttw/133-tale-of-two-wastelands).
 -   Extract the downloaded archive to a folder of your choosing.
 -   You then want to run the installer as Adminstrator and set the path to where the empty mod called `[No Delete] Tale of Two Wastelands` is.
--   Then you wait for the installer. (This will take quite some time, depending on your CPU).
+-   Then you wait for the installer. (This will take from 30 minutes to 3 hours).
 
 # Manually Installed Mods
--   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281) (Load Order Priority 302, 303, and 304, respectively. Just load the mod in 302 and then load the patches after).
--   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer) (Load Order Priority 225).
--   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description) (Install the Patcher into your Root folder, let it run, and then FNV will be patched).
+-   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and simply drag and drop the 3 files on the right that you just downloaded into the main mod menu that is on the left.
+
+-   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file in on the right, you want to to drag and drop it to the left.
+
+-   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description). You want to press on the `Manual Download` button. After it's done downloading, you want to extract the archive into where your Fallout: New Vegas is located (Put it in the normal game folder, and do not put it in the data folder). After that, you want to run the `FNVpatch.exe` as adminstrator. It should say "FalloutNV Patched."
 
 # Post-Installation
 
@@ -210,15 +230,15 @@ A: The list requires you to download and install TTW separately. Reread the [Ins
 
 Q: Why are the DLCs so different?
 
-A: It's my list, if you want, you could remove the 3 DLC-changing mods, but you're going to be on your own.
+A: I felt that the mods made the DLCs better and more enjoyable while still not taking away anything from the vanilla aestithic.
 
 Q: The intro of Fallout 3 is weird!
 
-A: I know there is minor clipping, and the cart that holds you doesn't move. I will try finding a fix. Also, TTW quickstart is enabled, so you should not be able to see this.
+A: I know there is minor clipping, and the cart that holds you doesn't move. I will try finding a fix. Also, TTW Quickstart is enabled, so you should not be able to see this.
 
 Q: The white screens that say "X Years Later" are not there.
 
-A: I know, another thing I'll have to fix. Also, TTW quickstart is enabled by default, so you just disabled it. Yes, if you ask this question on Discord, I'll not respond.
+A: I know, another thing I'll have to fix. Also, TTW Quickstart is enabled by default, so you just disabled it. Yes, if you ask this question on Discord, I'll not respond.
 
 Q: Are your DMs open?
 
@@ -278,7 +298,7 @@ Here is the [link](https://discord.gg/ez3dsBub8Q) (there is also one in [The Why
 
 If this Old Old World receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
-Old Old World updates based on a [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning) system.
+Old Old World updates are based on a [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning) system.
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
