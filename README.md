@@ -100,7 +100,7 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 # System Requirements
 
-**I cannot provide support with differnt specifications and setups. I do not know how to improve FPS on other devices. Do not ask me about it. You can however ask in the support server.**
+**I cannot provide support with different specifications and setups. I do not know how to improve FPS on other devices. Do not ask me about it. You can however ask in the support server.**
 
 My specs are the following:
 
