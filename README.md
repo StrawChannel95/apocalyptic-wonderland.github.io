@@ -68,7 +68,7 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 -   A full suite of graphical improvements thanks to [NVVR](https://salamand3r.fail/new-vegas-visual-renewal) by [Salamand3r](https://next.nexusmods.com/profile/5al4mand3r/about-me?gameId=130).
 
--   Some custom patching, though the list in general doesn't need a ton of custom patches.
+-   Custom patching exclusive to the list.
 
 -   An extraordinary amount of gameplay tweaks and improvements thanks to [Xilandro](https://next.nexusmods.com/profile/Xilandro/mods?gameId=130), [Sweet6Shooter](https://next.nexusmods.com/profile/Sweet6Shooter/about-me?gameId=130), and many more people I couldn't remember.
 
