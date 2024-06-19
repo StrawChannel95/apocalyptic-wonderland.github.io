@@ -64,7 +64,7 @@ That is when I found [Wabbajack](https://www.wabbajack.org/). I was scrolling an
 
 Now, one Reddit user known as [xBlue69](https://www.reddit.com/user/xblue555x/) convinced me to try Wabbajack. I joined the Wabbajack [Discord server](https://discord.com/invite/wabbajack), and I was a moron. I barely understood anything. I spoke with JanuarySnow, Althro, Luca, TDarkShadow, and Reyqune (they are all amazing) for hours. I was the most ignorant person on the planet. 
 
-I didn't know [Stock Game](https://wiki.wabbajack.org/modlist_author_documentation/Keeping%20the%20Game%20Folder%20clean.html#stock-game), [Rootbuilder](https://wiki.wabbajack.org/modlist_author_documentation/Keeping%20the%20Game%20Folder%20clean.html#rootbuilder) and so many other things. They set me on the right path, and I continued. I eventually found Salamand3r's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) guide, which then led me to the [Wasteland Survival Guide](https://wastelandsurvivalguide.github.io/). This guide is the [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html) of TTW modding. Amazing. I love it. I used it, and then I came back for the texture guide. After that, I began browsing [Additions](https://wastelandsurvivalguide.github.io/docs/additions), adding mods as I went. I then added [STARS](https://wastelandsurvivalguide.github.io/docs/stars), downloaded a LOT of extra mods, merged like 25 ESPs using [zEdit](https://github.com/z-edit/zedit/releases), and finally generated some LOD using [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-114-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/). That was the last piece of the puzzle. I was ready to make a list. Of course, I still had to setup this README and my [Discord server](https://discord.gg/ez3dsBub8Q) before I published it, so I had to wait a little longer. In the meantime, I made some patches using [xEdit](https://www.nexusmods.com/newvegas/mods/34703) by following [Biggie Boss'](https://www.youtube.com/@biggie_boss) guide on patching ESPs (love you, Biggie!).
+I didn't know `[Stock Game](https://wiki.wabbajack.org/modlist_author_documentation/Keeping%20the%20Game%20Folder%20clean.html#stock-game)`, `[Rootbuilder](https://wiki.wabbajack.org/modlist_author_documentation/Keeping%20the%20Game%20Folder%20clean.html#rootbuilder)` and so many other things. They set me on the right path, and I continued. I eventually found Salamand3r's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) guide, which then led me to the [Wasteland Survival Guide](https://wastelandsurvivalguide.github.io/). This guide is the [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html) of TTW modding. Amazing. I love it. I used it, and then I came back for the texture guide. After that, I began browsing [Additions](https://wastelandsurvivalguide.github.io/docs/additions), adding mods as I went. I then added [STARS](https://wastelandsurvivalguide.github.io/docs/stars), downloaded a LOT of extra mods, merged like 25 ESPs using [zEdit](https://github.com/z-edit/zedit/releases), and finally generated some LOD using [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-114-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/). That was the last piece of the puzzle. I was ready to make a list. Of course, I still had to setup this README and my [Discord server](https://discord.gg/ez3dsBub8Q) before I published it, so I had to wait a little longer. In the meantime, I made some patches using [xEdit](https://www.nexusmods.com/newvegas/mods/34703) by following [Biggie Boss'](https://www.youtube.com/@biggie_boss) guide on patching ESPs (love you, Biggie!).
 
 This is it: the full story. Of course, I had like 14 different modding attempts that all failed, but we don't remember those.
 
@@ -126,17 +126,17 @@ I doubt you need to do this since you likely already have it installed. The pack
 
 ### Reinstallation
 
-The reinstallation also serves the purpose of relocating the game files to a better directory. Using UAC-protected folders for the game or any modding tools has a risk of causing issues down the line. It is best to avoid those folders to begin with. Most Wabbajack list authors, myself included, will not provide support for people who disregard this warning and use UAC-protected folders anyway. Note that this does not include the Steam client. Additionally, Fallout New Vegas and Mod Organizer 2 should be installed on the same hard drive. Ideally, that hard drive would be an SSD to reduce loading times and eliminate stuttering. 
+The reinstallation also serves the purpose of relocating the game files to a better directory. Using `UAC-protected folders` for the game or any modding tools has a risk of causing issues down the line. It is best to avoid those folders to begin with. Most Wabbajack list authors, myself included, will not provide support for people who disregard this warning and use UAC-protected folders anyway. Note that this does not include the `Steam client`. Additionally, Fallout: New Vegas and Mod Organizer 2 should be installed on the same hard drive. Ideally, that hard drive would be an SSD to reduce loading times and eliminate stuttering. 
 
 ### Steam Library
 
-In order to prevent some confusion, I will refer to the Library in Steam as the Game Library. It is the second of four items in the top menu in the Steam client and contains a list of all your games. A Steam Library, on the other hand, is a folder on your hard drive into which Steam games are installed. Since we do not want to have files inside a UAC-protected folder, we should not install Fallout: New Vegas in the default directory. A new Steam Library is required.
+In order to prevent some confusion, I will refer to the Library in Steam as the `Game Library`. It is the second of four items in the top menu in the Steam client and contains a list of all your games. A Steam Library, on the other hand, is a folder on your hard drive into which Steam games are installed. Since we do not want to have files inside a UAC-protected folder, we should not install Fallout: New Vegas in the default directory. A new `Steam Library` is required.
 
 ### Setting the Game language to English
 
 You must do this for Wabbajack to work. If your game was previously set to non-English, make sure to verify your files on Steam after fixing it. There is no support for non-English TTW.
 
-Open the Steam Properties window, navigate to the Language tab, and select English from the dropdown menu.
+Open the `Steam Properties` window, navigate to the `Language` tab, and select `English` from the dropdown menu.
 
 # Using Wabbajack
 
@@ -150,7 +150,7 @@ The download and installation process can take a very long time, depending on yo
 
 1. Open Wabbajack.
 2. Load the Modlist from Disk.
-3. Set Old Old World to install to X:\Old Old World and download to X:\Old Old Worlds\Downloads. Your downloads folder can be on a separate drive to save space, but Wabbajack's install speed will be limited to your slowest drive. 
+3. Set Old Old World to install to `X:\Old Old World` and download to `X:\Old Old Worlds\Downloads`. Your downloads folder can be on a separate drive to save space, but Wabbajack's install speed will be limited to your slowest drive. 
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
 
@@ -160,10 +160,10 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 
 # Installing TTW
 
--   Now, after the list is fully installed, you want to create a mod in MO2 called "[No Delete] Tale of Two Wastelands".
+-   Now, after the list is fully installed, you want to create a mod in MO2 called `[No Delete] Tale of Two Wastelands`.
 -   You then want to head over to [ModPub](https://mod.pub/) and download the [TTW 3.3.2 Installer](https://mod.pub/ttw/133-tale-of-two-wastelands).
 -   Extract the downloaded archive to a folder of your choosing.
--   You then want to run the installer as Adminstrator and set the path to where the empty mod called "[No Delete] Tale of Two Wastelands" is.
+-   You then want to run the installer as Adminstrator and set the path to where the empty mod called `[No Delete] Tale of Two Wastelands` is.
 -   Then you wait for the installer. (This will take quite some time, depending on your CPU).
 
 # Manually Installed Mods
