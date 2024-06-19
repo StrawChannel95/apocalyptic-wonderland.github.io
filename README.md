@@ -296,4 +296,12 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 - Lively, same story as Jon and Total.
 - Cangar & Kvitekvist, same story (This is getting old).
 - Everyone at Scenic Route for the idea to include user comments. (I will include them once the list has actually been played by people)
-- And so many more that I just couldn't list even if I tried. Don't forget to endorse these mod authors; they deserve it.
+- Bethesda for the engine and Fallout 3.
+- Obsidian for Fallout: New Vegas.
+- RoyBatty for being the best New Vegas moddder to ever live.
+- Axonis for Vanilla UI Plus.
+- Jazzisparis for JIP NVSE.
+- YOU for reading this.
+- And so many others that I just couldn't list even if I tried. Don't forget to endorse these mod authors; they deserve it.
+
+I wish you all a happy nuclear wasteland.
