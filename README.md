@@ -11,11 +11,11 @@ A complete README for the Wabbajack TTW list "Old Old World."
   
  - [Installation](#installation)
    
-    - [Clean Installation](#clean-installation)
+    - [Clean Installation (Steam)](#clean-installation-steam)
 
-    - [INI Folders](#ini-folders)
+    - [INI Folders (Steam)](#ini-folders-steam)
 
-    - [Installing Microsoft Visual C++ Redistributable Package](#installing-the-microsoft-visual-c-redistributable-package)
+    - [Installing Microsoft Visual C++ Redistributable Package (Steam)](#installing-the-microsoft-visual-c-redistributable-package-steam)
  
  - [Steam Config](#steam-config)
     
@@ -25,8 +25,14 @@ A complete README for the Wabbajack TTW list "Old Old World."
     
     - [Setting the Game language to English](#setting-the-game-language-to-english)
 
-- [GOG Config](#gog-config)
- 
+- [GOG Installation and Config](#gog-installation-and-config)
+   
+    - [Clean Installation (GOG)](#clean-installation-steam)
+
+    - [INI Folders (GOG)](#ini-folders-steam)
+
+    - [Installing Microsoft Visual C++ Redistributable Package (GOG)](#installing-the-microsoft-visual-c-redistributable-package-steam)
+
 - [Using Wabbajack](#using-wabbajack)
   
     - [Preparations](#preparations)
@@ -132,7 +138,7 @@ A [ModPub](https://mod.pub/) account.
 
 # Installation
 
-### Clean Installation
+### Clean Installation (Steam)
 
 **If you use GOG, then please skip to the [GOG Config](#gog-config) section of the README.**
 
@@ -142,7 +148,7 @@ In order to ensure that your Fallout: New Vegas and Fallout 3 installations are 
 -   Navigate to your Steam directory.
 -   If there is still a Fallout: New Vegas and Fallout 3 folder there, delete it.
 
-### INI Folders
+### INI Folders (Steam)
 
 More Fallout-related files are located inside the so-called `INI folder`, which needs to be cleaned out as well. It contains your save games as well as the game’s INI files and, if you modded Fallout: New Vegas before, NVSE plugin logs.
 
@@ -151,7 +157,7 @@ More Fallout-related files are located inside the so-called `INI folder`, which 
 -   Delete everything inside the Fallout: New Vegas and Fallout 3 folders.
 
 
-### Installing the Microsoft Visual C++ Redistributable Package
+### Installing the Microsoft Visual C++ Redistributable Package (Steam)
 
 I doubt you need to do this since you likely already have it installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under `Visual Studio 2015, 2017, and 2019`. Here is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
@@ -171,9 +177,21 @@ You must do this for Wabbajack to work. If your game was previously set to non-E
 
 Open the `Steam Properties` window, navigate to the `Language` tab, and select `English` from the dropdown menu.
 
-# GOG Config
+# GOG Installation and Config
 
-Inside the game folders of both Fallout 3 and New Vegas, there will be a file known as `unins000`. Run it, and it will activate the uninstaller, completely uninstall the game, and then reinstall it from GOG. (Make sure to delete any extra INI files in Documents:\My Games:\Fallout3 and Documents:\My Games:\FalloutNV).
+### Clean Installation (GOG)
+
+Inside the game folders of both Fallout 3 and New Vegas, there will be a file known as `unins000`. Run it, and it will activate the uninstaller, it completely uninstall the game, and then you to reinstall it from GOG.
+
+### INI Folders (GOG)
+
+More Fallout-related files are located inside the so-called `INI folder`, which needs to be cleaned out as well. It contains your save games as well as the game’s INI files and, if you modded Fallout: New Vegas before, NVSE plugin logs.
+
+-   Navigate to the INI folder; this is found under Documents/My Games.
+-   If you have an ongoing vanilla playthrough, back up the Saves folder.
+-   Delete everything inside the Fallout: New Vegas and Fallout 3 folders.
+
+### Installing the Microsoft Visual C++ Redistributable Package (GOG)
 
 I doubt you need to do this since you likely already have it installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under `Visual Studio 2015, 2017, and 2019`. Here is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
