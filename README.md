@@ -27,11 +27,11 @@ A complete README for the Wabbajack TTW list "Old Old World."
 
 - [GOG Installation and Config](#gog-installation-and-config)
    
-    - [Clean Installation (GOG)](#clean-installation-steam)
+    - [Clean Installation (GOG)](#clean-installation-gog)
 
-    - [INI Folders (GOG)](#ini-folders-steam)
+    - [INI Folders (GOG)](#ini-folders-gog)
 
-    - [Installing Microsoft Visual C++ Redistributable Package (GOG)](#installing-the-microsoft-visual-c-redistributable-package-steam)
+    - [Installing Microsoft Visual C++ Redistributable Package (GOG)](#installing-the-microsoft-visual-c-redistributable-package-gog)
 
 - [Using Wabbajack](#using-wabbajack)
   
