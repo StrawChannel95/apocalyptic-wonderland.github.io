@@ -140,7 +140,7 @@ Open the `Steam Properties` window, navigate to the `Language` tab, and select `
 
 ### Clean Installation (GOG)
 
-Inside the game folders of both Fallout 3 and New Vegas, there will be a file known as `unins000`. Run it, and it will activate the uninstaller, it completely uninstall the game, and then you to reinstall it from GOG.
+Inside the game folders of both Fallout 3 and New Vegas, there will be a file known as `unins000`. Run it, and it will activate the uninstaller, it completely uninstall the game, and then you have to reinstall it from GOG.
 
 ### INI Folders (GOG)
 
