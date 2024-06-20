@@ -202,7 +202,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 -   Now, after the list is fully installed, you want to create a mod in MO2 called `[No Delete] Tale of Two Wastelands` by right-clicking, hovering over the `All Mods` prompt, and then press on `Create empty mod inside`, and then you should name it `[No Delete] Tale of Two Wastelands`.
 -   You then want to head over to [ModPub](https://mod.pub/) and download the [TTW 3.3.2 Installer](https://mod.pub/ttw/133-tale-of-two-wastelands).
 -   Extract the downloaded archive to a folder of your choosing.
--   You then want to run the installer as Adminstrator and set the path to both Fallout 3 and New Vegas, where the empty mod called `[No Delete] Tale of Two Wastelands` is. You can find it by heading to where you installed MO2, go to the `mods` file, and finally go to the file named `[No Delete] Tale of Two Wastelands`.
+-   You then want to run the installer as Adminstrator and set the path to both Fallout 3 and New Vegas, where the empty mod called `[No Delete] Tale of Two Wastelands` is. You can find it by heading to where you installed MO2, going to the `mods` file, and finally going to the file named `[No Delete] Tale of Two Wastelands`.
 -   Then you wait for the installer (This will take from 30 minutes to 3 hours).
 
 # Manually Installed Mods
