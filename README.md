@@ -175,6 +175,8 @@ Open the `Steam Properties` window, navigate to the `Language` tab, and select `
 
 Inside the game folders of both Fallout 3 and New Vegas, there will be a file known as `unins000`. Run it, and it will activate the uninstaller, completely uninstall the game, and then reinstall it from GOG. (Make sure to delete any extra INI files in Documents:\My Games:\Fallout3 and Documents:\My Games:\FalloutNV).
 
+I doubt you need to do this since you likely already have it installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under `Visual Studio 2015, 2017, and 2019`. Here is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+
 _This section is not verifiable; I have written it from word of mouth. If someone knows the rest of the steps that GOG users have to take, please DM me at StrawChannel95 on Discord._
 
 # Using Wabbajack
