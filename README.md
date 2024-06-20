@@ -199,11 +199,11 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 
 # Installing TTW
 
--   Now, after the list is fully installed, you want to create a mod in MO2 called `[No Delete] Tale of Two Wastelands` by right-clicking, hovering over the `All Mods` prompt, and then press on `Create empty mod inside', and then you should name it `[No Delete] Tale of Two Wastelands`.
--   You then want to head over to [ModPub](https://mod.pub/) and download the [TTW 3.3.2 Installer](https://mod.pub/ttw/133-tale-of-two-wastelands).
--   Extract the downloaded archive to a folder of your choosing.
--   You then want to run the installer as Adminstrator and set the path to where the empty mod called `[No Delete] Tale of Two Wastelands` is.
--   Then you wait for the installer (This will take from 30 minutes to 3 hours).
+-   Now, after the list is fully installed, you want to create a mod in MO2 called `[No Delete] Tale of Two Wastelands` by right-clicking, hovering over the `All Mods` prompt, and then press on `Create empty mod inside`, and then you should name it `[No Delete] Tale of Two Wastelands`.
+-   You then want to head over to [ModPub](https://mod.pub/) and download the [TTW 3.3.2 Installer](https://mod.pub/ttw/133-tale-of-two-wastelands).
+-   Extract the downloaded archive to a folder of your choosing.
+-   You then want to run the installer as Adminstrator and set the path to where the empty mod called `[No Delete] Tale of Two Wastelands` is.
+-   Then you wait for the installer (This will take from 30 minutes to 3 hours).
 
 # Manually Installed Mods
 -   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and simply drag and drop the 3 files on the right that you just downloaded into the main mod menu that is on the left.
