@@ -1,66 +1,36 @@
 # Old Old World
 A complete README for the Wabbajack TTW list "Old Old World."
  
- - [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list)
- 
- - [What is Wabbajack](#what-is-wabbajack)
- 
- - [Old Old World Features](#old-old-world-features)
-
- - [Requirements](#requirements)
-  
- - [Installation](#installation)
-   
-    - [Clean Installation (Steam)](#clean-installation-steam)
-
+-   [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list)                                                         
+-   [What is Wabbajack](#what-is-wabbajack)                                                                                                                        
+-   [Old Old World Features](#old-old-world-features)
+-   [Requirements](#requirements)
+-   [Installation](#installation)
+-   [Clean Installation (Steam)](#clean-installation-steam)
     - [INI Folders (Steam)](#ini-folders-steam)
-
     - [Installing Microsoft Visual C++ Redistributable Package (Steam)](#installing-the-microsoft-visual-c-redistributable-package-steam)
- 
  - [Steam Config](#steam-config)
-    
     - [Reinstallation](#reinstallation)
-
     - [Steam Library](#steam-library)
-    
     - [Setting the Game language to English](#setting-the-game-language-to-english)
-
 - [GOG Installation and Config](#gog-installation-and-config)
-   
     - [Clean Installation (GOG)](#clean-installation-gog)
-
     - [INI Folders (GOG)](#ini-folders-gog)
-
     - [Installing Microsoft Visual C++ Redistributable Package (GOG)](#installing-the-microsoft-visual-c-redistributable-package-gog)
-
 - [Using Wabbajack](#using-wabbajack)
-  
     - [Preparations](#preparations)
-    
     - [Downloading and Installing](#downloading-and-installing)
-  
     - [Problems with Wabbajack](#problems-with-wabbajack)
- 
  - [Installing TTW](#installing-ttw)
- 
  - [Manually Installed Mods](#manually-installed-mods)
- 
  - [Post-Installation](#post-installation)
-
  - [Q&A](#qa)
- 
  - [Where to Ask for Support](#where-to-ask-for-support)
-  
-   - [Don't Ask on the Wabbajack Server](#dont-ask-in-the-wabbajack-server)
-
+   - [Don't Ask on the Wabbajack Server](#dont-ask-on-the-wabbajack-server)
    - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)
-   
    - [Ask in My Discord Server](#ask-in-my-discord-server) 
- 
 - [Updating](#updating)
- 
 - [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
-
 - [Credits](#credits)
 
 # The Why
@@ -87,21 +57,13 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 **This isn't a complete list. This list just has some of the highlights. I will leave it to you to find the rest of the hundreds of features that this list adds.**
 
 -   Old Old World makes use of the Root Builder MO2 plugin, which ensures the game installation folder doesn't get modified.
-
 -   A complete UI overhaul thanks to [Vanilla UI Plus](https://www.nexusmods.com/newvegas/mods/80642](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)) by [Axonis](https://www.moddb.com/members/axonis).
-
 -   A tweaks menu, featuring a full selection of engine fixes and personal tweaks, thanks to [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347) by [lStewieAl](https://next.nexusmods.com/profile/lStewieAl/about-me?gameId=130). 
-
 -   A full suite of graphical improvements thanks to [NVVR](https://salamand3r.fail/new-vegas-visual-renewal) by [Salamand3r](https://next.nexusmods.com/profile/5al4mand3r/about-me?gameId=130).
-
 -   Custom patching exclusive to the list.
-
 -   An extraordinary amount of gameplay tweaks and improvements thanks to [Xilandro](https://next.nexusmods.com/profile/Xilandro/mods?gameId=130), [Sweet6Shooter](https://next.nexusmods.com/profile/Sweet6Shooter/about-me?gameId=130), and many more people I couldn't remember.
-
 -   Lore-friendly, hard, and includes a cluster of new content. (I will leave you to find the new content).
-
 -   Old Old World supports both `Steam` and `GOG` stores.
-
 -   Old Old World does all this while having no NSFW. (This is a Fallout game; gore is everywhere).
 
 # Requirements
@@ -113,11 +75,8 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 My specs are the following:
 
 - RTX 4090.
-
 - Intel 13900K.
-
 - 256GB of DDR5.
-
 - TTW running on an SSD.
 
 I capped the FPS to 60 using the [Special K](https://www.special-k.info/) program (I don't use any of its other features), and the game is very smooth with minimal crashes. Again, if you want to increase performance, please ask in the support channel, and I personally will not be able to help you.
@@ -227,9 +186,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 
 # Manually Installed Mods
 -   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and simply drag and drop the 3 files on the right that you just downloaded into the main mod menu that is on the left.
-
 -   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to drag and drop it to the left.
-
 -   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description). You want to press the `Manual Download` button. After it's done downloading, you want to extract the archive to where your Fallout: New Vegas is located (Put it in the normal game folder and do not put it in the data folder). After that, you want to run `FNVpatch.exe` as Adminstrator. It should say "FalloutNV Patched."
 
 # Post-Installation
