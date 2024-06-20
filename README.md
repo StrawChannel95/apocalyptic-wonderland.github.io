@@ -223,7 +223,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 -   You then want to head over to [ModPub](https://mod.pub/) and download the [TTW 3.3.2 Installer](https://mod.pub/ttw/133-tale-of-two-wastelands).
 -   Extract the downloaded archive to a folder of your choosing.
 -   You then want to run the installer as Adminstrator and set the path to both Fallout 3 and New Vegas, where the empty mod called `[No Delete] Tale of Two Wastelands` is. You can find it by heading to where you installed MO2, going to the `mods` file, and finally going to the file named `[No Delete] Tale of Two Wastelands`.
--   Then you wait for the installer (This will approximately take betwen 45 minutes and 3 hours).
+-   Then you wait for the installer (this will take some time); this time may even slow down if you have other processes running; it will be slower. It is also CPU-bound, so if you have a good CPU, it will be faster. (This will approximately take between 45 minutes and 3 hours).
 
 # Manually Installed Mods
 -   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and simply drag and drop the 3 files on the right that you just downloaded into the main mod menu that is on the left.
