@@ -206,11 +206,11 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 -   Then you wait for the installer (This will take from 30 minutes to 3 hours).
 
 # Manually Installed Mods
--   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and simply drag and drop the 3 files on the right that you just downloaded into the main mod menu that is on the left.
+-   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and simply drag and drop the 3 files on the right that you just downloaded into the main mod menu that is on the left.
 
--   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to drag and drop it to the left.
+-   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to drag and drop it to the left.
 
--   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description). You want to press the `Manual Download` button. After it's done downloading, you want to extract the archive to where your Fallout: New Vegas is located (Put it in the normal game folder and do not put it in the data folder). After that, you want to run `FNVpatch.exe` as Adminstrator. It should say "FalloutNV Patched."
+-   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description). You want to press the `Manual Download` button. After it's done downloading, you want to extract the archive to where your Fallout: New Vegas is located (Put it in the normal game folder and do not put it in the data folder). After that, you want to run `FNVpatch.exe` as Adminstrator. It should say "FalloutNV Patched."
 
 # Post-Installation
 
