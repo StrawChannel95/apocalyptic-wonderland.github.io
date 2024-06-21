@@ -297,6 +297,7 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 - Vish for Viva New Vegas.
 - Biggie for his amazing guides.
 - NMC for his awesome texture work.
+- Hitman and Rockbiter for the best animation mods on Nexus.
 - Sweet6Shooter for the perks and gameplay.
 - Bale for his Physically Based series.
 - JanuarySnow for being an amazing, kind, and helping person.
