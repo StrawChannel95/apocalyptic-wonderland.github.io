@@ -1,6 +1,8 @@
-# Old Old World
-A complete README for the Wabbajack TTW list "Old Old World."
+<p align=center>StrawChannel95 is proud to present:</p>
+
+# <p align=center>**Old Old World**</p>
  
+
 -   [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list)                                                         
 -   [What is Wabbajack](#what-is-wabbajack)                                                                                                                        
 -   [Old Old World Features](#old-old-world-features)
@@ -32,6 +34,11 @@ A complete README for the Wabbajack TTW list "Old Old World."
 - [Updating](#updating)
 - [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
 - [Credits](#credits)
+
+>[!CAUTION]
+>**Trigger Warning:**
+>
+>Some of the content in Old Old World contains difficult and distressing psychosocial topics, including self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
 
 # The Why
 **This segment is entirely optional to read. These are just the events leading up to the creation of Old Old World.**
@@ -68,7 +75,9 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 # Requirements
 
-**I cannot provide support for different specifications and setups. I do not know how to improve FPS on other devices. Do not ask me about it. You can, however, ask on the support server, but no matter what you have, you need either Windows 10 or Windows 11.**
+> [!Note]
+>
+>**I cannot provide support for different specifications and setups. I do not know how to improve FPS on other devices. Do not ask me about it. You can, however, ask on the support server, but no matter what you have, you need either Windows 10 or Windows 11.**
 
 ### Specifications
 
