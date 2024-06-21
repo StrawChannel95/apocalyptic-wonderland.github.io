@@ -8,7 +8,7 @@
 -   [Old Old World Features](#old-old-world-features)
 -   [Requirements](#requirements)
 -   [Installation](#installation)
-    - [Clean Installation] (Steam)(#clean-installation-steam)
+    - [Clean Installation(Steam)](#clean-installation-steam)
     - [INI Folders (Steam)](#ini-folders-steam)
     - [Installing Microsoft Visual C++ Redistributable Package (Steam)](#installing-the-microsoft-visual-c-redistributable-package-steam)
  - [Steam Config](#steam-config)
