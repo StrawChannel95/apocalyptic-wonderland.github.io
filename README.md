@@ -213,11 +213,11 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest number of threads and, thus, the fastest speed, it is advised to have the working folder on an SSD. You can have the Old Old World and Downloads folders on separate drives without issue, aside from being limited by the slowest drive during Wabbajack installation. Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated, regardless of your account status.
 
-1. Open Wabbajack.
-2. Load the Modlist from Disk.
-3. Set Old Old World to install to `X:\Old Old World` and download to `X:\Old Old Worlds\Downloads`. Your downloads folder can be on a separate drive to save space, but Wabbajack's install speed will be limited to your slowest drive. 
-4. Click the Go/Begin button.
-5. Wait for Wabbajack to finish.
+-  Open Wabbajack.
+-  Load the Modlist from Disk.
+-  Set Old Old World to install to `X:\Old Old World` and download to `X:\Old Old Worlds\Downloads`. Your downloads folder can be on a separate drive to save space, but Wabbajack's install speed will be limited to your slowest drive. 
+-  Click the Go/Begin button.
+-  Wait for Wabbajack to finish.
 
 ### Problems with Wabbajack
 
