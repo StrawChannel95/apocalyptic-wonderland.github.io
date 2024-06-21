@@ -75,7 +75,7 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 # Requirements
 
-> [!Note]
+> [!Important]
 >
 >**I cannot provide support for different specifications and setups. I do not know how to improve FPS on other devices. Do not ask me about it. You can, however, ask on the support server, but no matter what you have, you need either Windows 10 or Windows 11.**
 
@@ -163,7 +163,9 @@ More Fallout-related files are located inside the so-called `INI folder`, which 
 
 I doubt you need to do this since you likely already have it installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under `Visual Studio 2015, 2017, and 2019`. Here is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
-_This section is not verifiable; I have written it from word of mouth. If someone knows the rest of the steps that GOG users have to take, please DM me at StrawChannel95 on Discord._
+> [!Note]
+>
+>_This section is not verifiable; I have written it from word of mouth. If someone knows the rest of the steps that GOG users have to take, please DM me at StrawChannel95 on Discord._
 
 # Using Wabbajack
 
