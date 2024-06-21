@@ -292,6 +292,7 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 
 # Credits
 - The NVSE team for NVSE and xNVSE.
+- The Tale of Two Wastelands team for TTW.
 - lStewieAl for the amazing lStewieAl's Tweaks mod.
 - Salamand3r for NVVR.
 - Vish for Viva New Vegas.
