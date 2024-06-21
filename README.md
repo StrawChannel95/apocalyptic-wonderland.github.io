@@ -303,7 +303,7 @@ Q: Is the list appropriate for a person who has never played Fallout before?
 	
 A: Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.
 
-Q: ow do I find Uranium Fever's Keybinds?
+Q: How do I find Old Old World's Keybinds?
 	
 A: Press K in the pause menu.
 
