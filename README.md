@@ -198,6 +198,55 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 -   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to drag and drop it to the left.
 -   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description). You want to press the `Manual Download` button. After it's done downloading, you want to extract the archive to where your Fallout: New Vegas is located (Put it in the normal game folder and do not put it in the data folder). After that, you want to run `FNVpatch.exe` as Adminstrator. It should say "FalloutNV Patched."
 
+### Disable Base Address Randomization 
+> [!Tip]
+> This step can prevent unforeseen crashes.
+
+- Open `Windows Security` from the `Start Menu`.
+- Open A`pp & Browser Control` in the left sidebar.
+- Open `Exploit Protection Settings` under `Exploit Protection`.
+- Set `Force Randomization for Images (Mandatory ASLR`) to `Use Default (Off)`.
+
+### Creating Exclusions
+> [!tip]
+> This process prevents windows from blocking MO2 and associated mod files from loading.
+ 
+- Open `Windows Security`.
+- Open `Virus & Threat Protection`.
+- Click `Manage Settings` under `Virus & Threat Protection Settings`.
+- Scroll down and select `Add or Remove Exclusions` under `Exclusions`.
+- Select the `Uranium Fever Installation` location.
+- Add another exclusion for the `Wabbajack Installation` location.
+- This process will also need to be done for any third-party antivirus.
+  
+### Disabling Steam Overlay
+> [!tip]
+> This process disables Steam Overlay, which has been known to cause crashes and worsen performance. 
+ 
+- Navigate to your `steam folder` (the same folder where your steam.exe is).
+- Right click `GameOverlayRenderer.dll` and open properties.
+- Open the `security tab` and click `edit`.
+- Click the `Deny` option under `Read & Execute` for every user.
+- Click `Apply`, then `Yes`.
+- In the same folder, right click `SteamOverlayVulkanLayer.dll` and open `properties`.
+- Open the `security tab` and click `edit`.
+- Click the `Deny` option under `Read & Execute` for every user.
+- Click `Apply`, then `Yes`.
+
+### RivaTuner Statistics Server (RTSS)
+> [!tip]
+> RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 70 FPS is less jarring to the user than fluctuating between 60 to 100 FPS rapidly. This also prevents the timescale desync that can occur if you surpass your monitors refresh rate.
+
+- Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
+- Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
+- Press the green `Add` button and select `FalloutNV.exe`.
+- Set `Application Detection Level` to `Low`.
+- Set `Framerate Limit` to `59.95`.
+	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure your Framerate Limit is > 0.05 LOWER than your monitors refresh rate.
+- Enter settings using the `Setup` button.
+- Enable `Passive Waiting`.
+- Set `Framerate Limiter` to Front `Edge Sync`.
+
 # Post-Installation
 
 ### Running the Game
