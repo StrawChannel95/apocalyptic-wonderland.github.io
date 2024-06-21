@@ -15,12 +15,14 @@
     - [Reinstallation](#reinstallation)
     - [Steam Library](#steam-library)
     - [Setting the Game language to English](#setting-the-game-language-to-english)
+    - [Disabling Steam Overlay](#disabling-steam-overlay)
 - [GOG Installation and Config](#gog-installation-and-config)
     - [Clean Installation (GOG)](#clean-installation-gog)
     - [INI Folders (GOG)](#ini-folders-gog)
     - [Installing Microsoft Visual C++ Redistributable Package (GOG)](#installing-the-microsoft-visual-c-redistributable-package-gog)
 - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
+    - [Disabling Base Address Randomization](#disabling-base-address-randomization)
     - [Downloading and Installing](#downloading-and-installing)
     - [Problems with Wabbajack](#problems-with-wabbajack)
  - [Installing TTW](#installing-ttw)
@@ -186,7 +188,7 @@ I doubt you need to do this since you likely already have it installed. The pack
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in X:\Wabbajack.
 
-### Disable Base Address Randomization
+### Disabling Base Address Randomization
 
 - Open `Windows Security` from the `Start Menu`.
 - Open A`pp & Browser Control` in the left sidebar.
@@ -199,7 +201,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 - Open `Virus & Threat Protection`.
 - Click `Manage Settings` under `Virus & Threat Protection Settings`.
 - Scroll down and select `Add or Remove Exclusions` under `Exclusions`.
-- Select the `Uranium Fever Installation` location.
+- Select the `Old Old World` location.
 - Add another exclusion for the `Wabbajack Installation` location.
 - This process will also need to be done for any third-party antivirus.
 
@@ -229,19 +231,17 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 
 ### Cyberware 2281
 
--   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and click on the mods on the right, you'll then want to name all 3 files with a `[No Delete]` before them and click on `Replace`.
+-   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and click on the mods on the right, you'll then want to name all 3 files with a `[No Delete]` before them and then once you click on `OK` then `Replace`.
 
 ### Stash Organizer
 
--   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] Stash Organizer`.
+-   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] Stash Organizer`, you then want to click on `OK` then `Replace`
 
 ### FNV 4GB Patcher
 
 -   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description). You want to press the `Manual Download` button. After it's done downloading, you want to extract the archive to where your Fallout: New Vegas is located (Put it in the normal game folder and do not put it in the data folder). After that, you want to run `FNVpatch.exe` as Adminstrator. It should say "FalloutNV Patched."
 
 # Post-Installation
-
-### Running the Game
 
 Select the Old Old World option from the dropdown menu and launch the game. If everything works, congratulations! You can now play the list; if you can't, then head into the [Q&A](#qa) section.
 
