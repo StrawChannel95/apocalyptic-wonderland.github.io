@@ -23,6 +23,7 @@
 - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
     - [Disabling Base Address Randomization](#disabling-base-address-randomization)
+    - [Creating Exclusions](#creating-exclusions)
     - [Downloading and Installing](#downloading-and-installing)
     - [Problems with Wabbajack](#problems-with-wabbajack)
  - [Installing TTW](#installing-ttw)
