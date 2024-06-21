@@ -72,6 +72,7 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 -   Lore-friendly, hard, and includes a cluster of new content. (I will leave you to find the new content).
 -   Old Old World supports both `Steam` and `GOG` stores.
 -   Old Old World does all this while having no NSFW. (This is a Fallout game; gore is everywhere).
+-   There are still hundreds of other features I haven't mentioned. The only way to find out is to play for yourself.
 
 # Requirements
 
@@ -145,6 +146,18 @@ You must do this for Wabbajack to work. If your game was previously set to non-E
 
 Open the `Steam Properties` window, navigate to the `Language` tab, and select `English` from the dropdown menu.
 
+### Disabling Steam Overlay
+
+- Navigate to your `steam folder` (the same folder where your steam.exe is).
+- Right click `GameOverlayRenderer.dll` and open properties.
+- Open the `security tab` and click `edit`.
+- Click the `Deny` option under `Read & Execute` for every user.
+- Click `Apply`, then `Yes`.
+- In the same folder, right click `SteamOverlayVulkanLayer.dll` and open `properties`.
+- Open the `security tab` and click `edit`.
+- Click the `Deny` option under `Read & Execute` for every user.
+- Click `Apply`, then `Yes`.
+
 # GOG Installation and Config
 
 ### Clean Installation (GOG)
@@ -173,6 +186,23 @@ I doubt you need to do this since you likely already have it installed. The pack
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in X:\Wabbajack.
 
+### Disable Base Address Randomization
+
+- Open `Windows Security` from the `Start Menu`.
+- Open A`pp & Browser Control` in the left sidebar.
+- Open `Exploit Protection Settings` under `Exploit Protection`.
+- Set `Force Randomization for Images (Mandatory ASLR`) to `Use Default (Off)`.
+
+### Creating Exclusions
+
+- Open `Windows Security`.
+- Open `Virus & Threat Protection`.
+- Click `Manage Settings` under `Virus & Threat Protection Settings`.
+- Scroll down and select `Add or Remove Exclusions` under `Exclusions`.
+- Select the `Uranium Fever Installation` location.
+- Add another exclusion for the `Wabbajack Installation` location.
+- This process will also need to be done for any third-party antivirus.
+
 ### Downloading and Installing
 
 The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest number of threads and, thus, the fastest speed, it is advised to have the working folder on an SSD. You can have the Old Old World and Downloads folders on separate drives without issue, aside from being limited by the slowest drive during Wabbajack installation. Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated, regardless of your account status.
@@ -199,55 +229,6 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 -   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and simply drag and drop the 3 files on the right that you just downloaded into the main mod menu that is on the left.
 -   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to drag and drop it to the left.
 -   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description). You want to press the `Manual Download` button. After it's done downloading, you want to extract the archive to where your Fallout: New Vegas is located (Put it in the normal game folder and do not put it in the data folder). After that, you want to run `FNVpatch.exe` as Adminstrator. It should say "FalloutNV Patched."
-
-### Disable Base Address Randomization 
-> [!Tip]
-> This step can prevent unforeseen crashes.
-
-- Open `Windows Security` from the `Start Menu`.
-- Open A`pp & Browser Control` in the left sidebar.
-- Open `Exploit Protection Settings` under `Exploit Protection`.
-- Set `Force Randomization for Images (Mandatory ASLR`) to `Use Default (Off)`.
-
-### Creating Exclusions
-> [!tip]
-> This process prevents windows from blocking MO2 and associated mod files from loading.
- 
-- Open `Windows Security`.
-- Open `Virus & Threat Protection`.
-- Click `Manage Settings` under `Virus & Threat Protection Settings`.
-- Scroll down and select `Add or Remove Exclusions` under `Exclusions`.
-- Select the `Uranium Fever Installation` location.
-- Add another exclusion for the `Wabbajack Installation` location.
-- This process will also need to be done for any third-party antivirus.
-  
-### Disabling Steam Overlay
-> [!tip]
-> This process disables Steam Overlay, which has been known to cause crashes and worsen performance. 
- 
-- Navigate to your `steam folder` (the same folder where your steam.exe is).
-- Right click `GameOverlayRenderer.dll` and open properties.
-- Open the `security tab` and click `edit`.
-- Click the `Deny` option under `Read & Execute` for every user.
-- Click `Apply`, then `Yes`.
-- In the same folder, right click `SteamOverlayVulkanLayer.dll` and open `properties`.
-- Open the `security tab` and click `edit`.
-- Click the `Deny` option under `Read & Execute` for every user.
-- Click `Apply`, then `Yes`.
-
-### RivaTuner Statistics Server (RTSS)
-> [!tip]
-> RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 70 FPS is less jarring to the user than fluctuating between 60 to 100 FPS rapidly. This also prevents the timescale desync that can occur if you surpass your monitors refresh rate.
-
-- Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
-- Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
-- Press the green `Add` button and select `FalloutNV.exe`.
-- Set `Application Detection Level` to `Low`.
-- Set `Framerate Limit` to `59.95`.
-	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure your Framerate Limit is > 0.05 LOWER than your monitors refresh rate.
-- Enter settings using the `Setup` button.
-- Enable `Passive Waiting`.
-- Set `Framerate Limiter` to Front `Edge Sync`.
 
 # Post-Installation
 
@@ -300,6 +281,46 @@ A: Missing assets are caused by having an incorrect TTW setup. See the [Installi
 Q: I get this weird message in-game about a script overwrite?
 
 A: You need to make sure YUPTTW is enabled in MO2 and directly underneath the main ESMS in the plugin load order, as shown in the instructions.
+
+Q: I am crashing, what can I do to fix it?
+
+A: Post your crashlog in the Old Old World support channel on Discord.
+
+Q: Why are all of my downloads so slow, and eventually failing?
+	
+A: You failed to connect your nexus account to your wabbajack. Open the settings cogwheel in Wabbajack and log into your Nexus account.
+
+Q: Is the list appropriate for a person who has never played Fallout before?
+	
+A: Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.
+
+Q: ow do I find Uranium Fever's Keybinds?
+	
+A: Press K in the pause menu.
+
+Q: Why do I have to manually install TTW and Stash Organizer?
+	
+A: Modpub does not allow automated Wabbajack downloading.
+
+Q: Why do I have to click to install Vanilla UI + and Vanilla UI Extension?
+	
+A: The auto download feature on ModDb is extremely unreliable, requiring this step to be manual.
+
+Q: Can I keep my own modded setup if I play Old Old World?
+	
+A: Yes. Old Old World is entirely self contained through the use of MO2. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs) the installation will still work and will not interfere with your other modded setup as long as you run both Mod Organzizers seperetely.
+
+Q: Doesn't Ragdolls cause crashes?
+	
+A: No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
+
+Q: Can I start in the Mojave Wasteland?
+	
+A: No.
+
+Q: Can I install Old Old World with vortex?
+	
+A: No. Wabbajack is inherently incompatible with vortex.
 
 Q: I get no DLC messages. Are they installed correctly?
 
