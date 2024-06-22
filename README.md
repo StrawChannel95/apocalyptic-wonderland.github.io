@@ -51,6 +51,7 @@
    - [Ask in My Discord Server](#ask-in-my-discord-server) 
 - [Updating](#updating)
 - [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
+- [Modding Resources](#modding-resources)
 - [Credits](#credits)
 
 # The Why
