@@ -3,52 +3,52 @@
 # <p align=center>**Old Old World**</p>
  
 
--   [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list)                                                         
--   [What is Wabbajack](#what-is-wabbajack)                                                                                                                        
--   [Old Old World Features](#old-old-world-features)
-    - [UI](#ui)
-    - [Balance](#balance)
-    - [Functions](#functions)
-    - [Comprehensive Overhauls](#comprehensive-overhauls)
-    - [Dialogue Overhauls](#dialogue-overhauls)
-    - [NPC & Enemy Overhauls](#npc--enemy-overhauls)
-    - [Content](#content)
-    - [Sound](#sound)
-    - [Animations & Visuals](#animations--visuals)
--   [Requirements](#requirements)
-    - [Specifications](#specifications)
-    - [Steam/GOG Requirements](#steamgog-requirements)
-    - [Extra Requirements](#extra-requirements)
--   [Installation](#installation)
-    - [File Path Setup](#file-path-setup)
-    - [Clean Installation (Steam)](#clean-installation-steam)
-    - [INI Folders (Steam)](#ini-folders-steam)
- - [Steam Config](#steam-config)
-    - [Reinstallation](#reinstallation)
-    - [Steam Library](#steam-library)
-    - [Setting the Game language to English](#setting-the-game-language-to-english)
-    - [Disabling Steam Overlay](#disabling-steam-overlay)
+-   [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list) 
+-   [What is Wabbajack](#what-is-wabbajack) 
+-   [Old Old World Features](#old-old-world-features)
+    - [UI](#ui)
+    - [Balance](#balance)
+    - [Functions](#functions)
+    - [Comprehensive Overhauls](#comprehensive-overhauls)
+    - [Dialogue Overhauls](#dialogue-overhauls)
+    - [NPC & Enemy Overhauls](#npc--enemy-overhauls)
+    - [Content](#content)
+    - [Sound](#sound)
+    - [Animations & Visuals](#animations--visuals)
+-   [Requirements](#requirements)
+    - [Specifications](#specifications)
+    - [Steam/GOG Requirements](#steamgog-requirements)
+    - [Extra Requirements](#extra-requirements)
+-   [Installation](#installation)
+    - [File Path Setup](#file-path-setup)
+    - [Clean Installation (Steam)](#clean-installation-steam)
+    - [INI Folders (Steam)](#ini-folders-steam)
+ - [Steam Config](#steam-config)
+    - [Reinstallation](#reinstallation)
+    - [Steam Library](#steam-library)
+    - [Setting the Game language to English](#setting-the-game-language-to-english)
+    - [Disabling Steam Overlay](#disabling-steam-overlay)
 - [GOG Installation and Config](#gog-installation-and-config)
-    - [Clean Installation (GOG)](#clean-installation-gog)
-    - [INI Folders (GOG)](#ini-folders-gog)
+    - [Clean Installation (GOG)](#clean-installation-gog)
+    - [INI Folders (GOG)](#ini-folders-gog)
 - [Using Wabbajack](#using-wabbajack)
-    - [Preparations](#preparations)
-    - [Disabling Base Address Randomization](#disabling-base-address-randomization)
-    - [Creating Exclusions](#creating-exclusions)
-    - [Downloading and Installing](#downloading-and-installing)
-    - [Problems with Wabbajack](#problems-with-wabbajack)
- - [Installing TTW](#installing-ttw)
- - [Manually Installed Mods](#manually-installed-mods)
-    - [Cyberware 2281](#cyberware-2281)
-    - [The Golden Archive](#the-golden-archive)
-    - [Stash Organizer](#stash-organizer)
-    - [FNV 4GB Patcher](#fnv-4gb-patcher)
- - [Post-Installation](#post-installation)
- - [Q&A](#qa)
- - [Where to Ask for Support](#where-to-ask-for-support)
-   - [Don't Ask on the Wabbajack Server](#dont-ask-on-the-wabbajack-server)
-   - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)
-   - [Ask in My Discord Server](#ask-in-my-discord-server) 
+    - [Preparations](#preparations)
+    - [Disabling Base Address Randomization](#disabling-base-address-randomization)
+    - [Creating Exclusions](#creating-exclusions)
+    - [Downloading and Installing](#downloading-and-installing)
+    - [Problems with Wabbajack](#problems-with-wabbajack)
+ - [Installing TTW](#installing-ttw)
+ - [Manually Installed Mods](#manually-installed-mods)
+    - [Cyberware 2281](#cyberware-2281)
+    - [The Golden Archive](#the-golden-archive)
+    - [Stash Organizer](#stash-organizer)
+    - [FNV 4GB Patcher](#fnv-4gb-patcher)
+ - [Post-Installation](#post-installation)
+ - [Q&A](#qa)
+ - [Where to Ask for Support](#where-to-ask-for-support)
+   - [Don't Ask on the Wabbajack Server](#dont-ask-on-the-wabbajack-server)
+   - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)
+   - [Ask in My Discord Server](#ask-in-my-discord-server) 
 - [Updating](#updating)
 - [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
 - [Modding Resources](#modding-resources)
@@ -74,7 +74,7 @@ This is it: the full story. Of course, I had like 14 different modding attempts 
 >[!CAUTION]
 >**Trigger Warning:**
 >
->Some of the content in Old Old World contains difficult and distressing psychosocial topics, including self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
+>Some of the content in Old Old World contains difficult and distressing psychosocial topics, including self-abuse, self-destructive behavior and thought, suicidal ideation, sexual assault, and distressing screams. Proceed with caution.
 
 >[!Important]
 >
@@ -87,10 +87,10 @@ Wabbajack is an automated mod list installer that works by scanning the [META fi
 - A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
 - Carefully crafted settings for every single mod inclusion.
 - Significant modernizations of the UI, HUD, and Pip-Boy.
-- Many new functionalities seamlessly integrated into the gameplay experience, with clear notation of these functions and their associated hotkeys.
+- Many new functionalities are seamlessly integrated into the gameplay experience, with clear notation of these functions and their associated hotkeys.
 - Large-scale, immersive overhauls and expansions of most locations.
 - Comprehensive, hardcore rebalancing of all gameplay aspects (including combat, physics, NPC AI, weapons, armor, aid, healing, consumables, and more), with an emphasis on greatly enhancing difficulty and cohesion.
-- Ample new items, armors, perks, quests, enemies, and creatures, all intended to further expand the authentic Fallout experience.
+- Ample new items, armor, perks, quests, enemies, and creatures, all intended to further expand the authentic Fallout experience.
 - Substantial object mesh, navmesh, collision marker, room bound, texture, and LOD optimizations with the goal of improved performance and an enhanced combat experience.
 - Extensive, full-game retexturing and reimagining of both Wastelands.
 - Dramatically overhauled lighting to improve the ambiance of both Wastelands.
@@ -98,85 +98,84 @@ Wabbajack is an automated mod list installer that works by scanning the [META fi
 - An expansive overhaul to music and the entire soundscape to promote deeper immersion.
 
 ### UI
-- Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid selection menus.
-- Item Cards - Adds new, real-time, detailed stat menus to inspected items.
-- Keybind Quick Display - Adds a customized list of pre-configured hotkeys and function descriptions for quick reference.
-- Radiation Visuals - Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
-- Simple Subtle Camera Shake - Adds subtle yet immersive camera responsiveness to injuries.
+- Quick Select: Seamlessly adds new and intuitive quick-access weapon and aid selection menus.
+- Item Cards: Adds new, real-time, detailed stat menus to inspected items.
+- Keybind Quick Display: Adds a customized list of pre-configured hotkeys and function descriptions for quick reference.
+- Radiation Visuals: Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
+- Simple Subtle Camera Shake: Adds subtle yet immersive camera responsiveness to injuries.
 
 ### Balance
-- Sweets Simple Settings - Adjusts various gameplay settings to promote a more difficult, hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
-- Harder Barter Faster Stronger (Sicko Mode) - Rebalances the economy around the barter skill, functionally creating a much more punishing economy.
-- Bullet Time - Utilized in Old Old World to completely supplant VATS, Bullet Time is a robust, AP based, time-scaling function with an emphasis on careful player aim and thoughtful decision making.
-- ADO (Armor Damage Overhaul) - Replaces the nonsensical base game armor degradation system with a design that is highly customizable and markedly more intuitive.
-- New Blood - A complete reconstruction and rebalancing of damage in its entirety. New Blood adds bleeding effects when struck by bladed weapons and formula based knockdown when hit by blunt weapons or shotgun shots.
-- Famine - A loot scarcity mod that punishes poor resource management habits and forces the player to engage with the barter and crafting systems.
-- RAD (Radiation Is Actually Dangerous) - A hardcore overhaul to radiation, dehydration, hunger, and sleep deprivation, making these effects considerably more impactful 
-- Sweet Consumables - A top-to-bottom reconstruction of consumables and miscellaneous items with a focus on deliberate and thoughtful balance.
-- Aid Addon - Adds 16 new, hardcore healing items and new survival healing options.
-- Sweet Healing Systems - A comprehensive overhaul and rebalancing of doctors, sleep, endurance, infirmary based healing and radiation removal, doctor radiation removal, radiation dispersal over time, infirmary detox, and addiction removal.
-- SPARE (Sweet Part and Ammo Rebalance and Expansion) - A complete rebalancing of the ammo crafting system, with cohesive breakdown recipes, battery-based energy cell recharging, explosives crafting and breakdown, added ammo types, a consistent naming scheme, a transition to vendor sold boxes of ammo, and economy improvements.
-- SWEEP (Sweet Weapon Enhancement and Expansion Package) - A complete rebalance of weapons intended to create a cohesive and balanced system with more gradual weapon progression.
-- SDDS (Sweet Dynamic Detection System) - Enhances NPCs ability to detect the player at longer distances, functionally nerfing sniping.
-- Simple AI Merge - A long-term collection of AI improvements made by one of the game’s leading engine experts. This mod makes combat far more engaging.
-- Immersive Recoil 2.0 - Adds realistic recoil to guns, making combat far more challenging.
-- Immersive Recoil NPC - Adds a recoil-like mechanic to NPCs, greatly improving the flow of combat.
-- Weapon Jamming Tweaks - Adjusts weapon jamming to foster a more hardcore experience. Fixes several jam related bugs, and adds a new jam clearing function.
-- STARS (Sweet's Total Armor Rework System) - A comprehensive rebalancing of the entire armor suite. Also seamlessly integrates a large collection of the best modded armor retextures and additions.
-- Sweet Perk Overhaul - A complete rebalancing and reimagining of all base game perks, with the goal of making every single perk situationally enticing.
-- Sweet 6 Shooter Perks - A seamless and immersive addition of 99 perks and 22 traits, with the goal of making appealing perks available for all different weapon and armor build types.
+- Sweets Simple Settings: Adjusts various gameplay settings to promote a more difficult, hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
+- Harder Barter Faster Stronger (Sicko Mode): Rebalances the economy around the barter skill, functionally creating a much more punishing economy.
+- Bullet Time: Utilized in Old Old World to completely supplant VATS, Bullet Time is a robust, AP based, time-scaling function with an emphasis on careful player aim and thoughtful decision-making.
+- ADO (Armor Damage Overhaul) replaces the nonsensical base game armor degradation system with a design that is highly customizable and markedly more intuitive.
+- New Blood: A complete reconstruction and rebalancing of damage in its entirety. New Blood adds bleeding effects when struck by bladed weapons and a formula-based knockdown when hit by blunt weapons or shotgun shots.
+- Famine: A loot scarcity mod that punishes poor resource management habits and forces the player to engage with the barter and crafting systems.
+- RAD (Radiation Is Actually Dangerous) is a hardcore overhaul to radiation, dehydration, hunger, and sleep deprivation, making these effects considerably more impactful. 
+- Sweet Consumables: A top-to-bottom reconstruction of consumables and miscellaneous items with a focus on deliberate and thoughtful balance.
+- Aid Addon: Adds 16 new, hardcore healing items and new survival healing options.
+- Sweet Healing Systems: A comprehensive overhaul and rebalancing of doctors, sleep, endurance, infirmary-based healing and radiation removal, doctor radiation removal, radiation dispersal over time, infirmary detox, and addiction removal.
+- SPARE (Sweet Part and Ammo Rebalance and Expansion): A complete rebalancing of the ammo crafting system, with cohesive breakdown recipes, battery-based energy cell recharging, explosives crafting and breakdown, added ammo types, a consistent naming scheme, a transition to vendor-sold boxes of ammo, and economy improvements.
+- SWEEP (Sweet Weapon Enhancement and Expansion Package): A complete rebalance of weapons intended to create a cohesive and balanced system with more gradual weapon progression.
+- SDDS (Sweet Dynamic Detection System): Enhances NPCs ability to detect the player at longer distances, functionally nerfing sniping.
+- Simple AI Merge: A long-term collection of AI improvements made by one of the game’s leading engine experts. This mod makes combat far more engaging.
+- Immersive Recoil 2.0 adds realistic recoil to guns, making combat far more challenging.
+- Immersive Recoil NPC: Adds a recoil-like mechanic to NPCs, greatly improving the flow of combat.
+- Weapon Jamming Tweaks: Adjusts weapon jamming to foster a more hardcore experience. Fixes several jam-related bugs and adds a new jam-clearing function.
+- STARS (Sweet's Total Armor Rework System): A comprehensive rebalancing of the entire armor suite. It also seamlessly integrates a large collection of the best modded armor retextures and additions.
+- Sweet Perk Overhaul: A complete rebalancing and reimagining of all base game perks, with the goal of making every single perk situationally enticing.
+- Sweet 6 Shooter Perks: A seamless and immersive addition of 99 perks and 22 traits, with the goal of making appealing perks available for all different weapon and armor build types.
 
 ### Functions
-- Bad Touch - Adds consequences to exposure to environmental hazards, such as fire, electricity, cacti, broken glass, toxic sludge pools, poisonous gas, and radioactive goo.
-- BURN (Hardcore Fire Effects) - Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive based weaponry.
-- Forced Entry - Allows the player to bypass locks by attacking them. This makes the player choose between using different scarce resources, lockpicks or ammo and weapon condition.
-- Universal Water Bottling - Allows the player to fill empty bottles or canteens from any water source. This facilitates harsher H2O consumption settings and consequences, while also adding scarce resources to ameliorate said hardcore needs.
-- Camping - Allows the player to carry a sleeping bag and campfire that can be dropped anywhere for quick use.
-- Immersive Minigames - Real-time, character-skill based replacements for hacking and lockpicking, with an emphasis on resource management.
-- B42 Quickthrow - Adds a new, modernized weapon throwing mechanic, further promoting the use of throwables.
-- Stash Organizer - A customizable framework to configure automatic organization of stored items.
-- Purchase Items on Display - Allows purchase of items directly off of shelves in shops, rather than bartering directly with vendors. Most mods included in Old Old World have items specifically placed and balanced for use with this mod.
+- Bad Touch: Adds consequences to exposure to environmental hazards such as fire, electricity, cacti, broken glass, toxic sludge pools, poisonous gas, and radioactive goo.
+- BURN (Hardcore Fire Effects): Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive-based weaponry.
+- Forced Entry: Allows the player to bypass locks by attacking them. This makes the player choose between using different scarce resources, lockpicks or ammo, and weapon conditions.
+- Universal Water Bottling: Allows the player to fill empty bottles or canteens from any water source. This facilitates harsher H2O consumption settings and consequences, while also adding scarce resources to ameliorate said hardcore needs.
+- Immersive Minigames: Real-time, character-skill-based replacements for hacking and lockpicking, with an emphasis on resource management.
+- B42 Quickthrow: Adds a new, modernized weapon throwing mechanic, further promoting the use of throwables.
+- Stash Organizer: A customizable framework to configure automatic organization of stored items.
+- Purchase Items on Display: This allows the purchase of items directly off of shelves in shops rather than bartering directly with vendors. Most mods included in Old Old World have items specifically placed and balanced for use with this mod.
 
 ### Comprehensive Overhauls
-- Functional Post Game Ending - Adds a fully functional post-game world to the game. You will no longer be brought to the credits after beating the game.
-- MoreMojave - Adds many new, intense, and carefully balanced locations at sparser areas of the Mojave Wasteland.
-- Uncut Wasteland - Restores a massive amount of scenery, items, and NPCs that were patched out of the game following release.
-- The Living Desert - Adds hundreds of NPCs and scripted events to the Mojave Wasteland, further fleshing out the Fallout universe.
-- Sweet Pain - Adds many intense and unique locations throughout the game, all packed with lore and excitement.
-- Mojave Raiders - A complete overhaul and diversification of the many Raider factions of the Mojave Wasteland.
-- AGE (Anchorage Gameplay Expansion) - A complete overhaul of the Anchorage DLC including rebalancing, new gear, new weapons, new enemies, new encounters, and new boss fights. Heavily inspired by Call of Duty, Doom Eternal, and Half-Life, though with an emphasis on full-game cohesion and lore-friendliness.
-- DMT (Dead Money Tweaks) - A complete overhaul of the Dead Money DLC including rebalancing, new gear, new weapons, and new enemies. Intended to be a pseudo-RPG-survival horror experience inspired by Resident Evil, though with focus on full-game cohesion and lore-friendliness.
-- EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to comprehensively rebalance nearly all aspects of both Wastelands, affecting many weapons, armors, locations, quests, encounters, creatures, companions, NPCs, loot, crafting, vendors, SPECIAL stats, perks, and karma.
+- Functional Post Game Ending: Adds a fully functional post-game world to the game. You will no longer be brought to the credits after beating the game.
+- MoreMojave: Adds many new, intense, and carefully balanced locations at sparser areas of the Mojave Wasteland.
+- Uncut Wasteland: Restores a massive amount of scenery, items, and NPCs that were patched out of the game following release.
+- The Living Desert adds hundreds of NPCs and scripted events to the Mojave Wasteland, further fleshing out the Fallout universe.
+- Sweet Pain: Adds many intense and unique locations throughout the game, all packed with lore and excitement.
+- Mojave Raiders: A complete overhaul and diversification of the many Raider factions of the Mojave Wasteland.
+- AGE (Anchorage Gameplay Expansion): A complete overhaul of the Anchorage DLC, including rebalancing, new gear, new weapons, new enemies, new encounters, and new boss fights. Heavily inspired by Call of Duty, Doom Eternal, and Half-Life, though with an emphasis on full-game cohesion and lore-friendliness.
+- DMT (Dead Money Tweaks): A complete overhaul of the Dead Money DLC, including rebalancing, new gear, new weapons, and new enemies. It is intended to be a pseudo-RPG survival horror experience inspired by Resident Evil, though with a focus on full-game cohesion and lore-friendliness.
+- EDGE (Early Decisions and Gameplay Enhancement): A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though it has since been expanded to comprehensively rebalance nearly all aspects of both Wastelands, affecting many weapons, armors, locations, quests, encounters, creatures, companions, NPCs, loot, crafting, vendors, SPECIAL stats, perks, and karma.
 
 ### Dialogue Overhauls
-- Brave New World - A near complete professional revoicing of voice lines throughout the Mojave Wasteland, including more than 7,000 lines of dialogue.
-- Dialogue & Interaction Expansion Overhaul - A comprehensive overhaul of player dialogue and interaction choices.
+- Brave New World: A near-complete professional revoicing of voice lines throughout the Mojave Wasteland, including more than 7,000 lines of dialogue.
+- Dialogue & Interaction Expansion Overhaul: A comprehensive overhaul of player dialogue and interaction choices.
 
 ### NPC & Enemy Overhauls
-- Companion Characteristics - Provides gameplay quirks derived from companion personality traits.
-- Mojave Wildlife - Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the Mojave Wasteland.
+- Companion Characteristics: Provides gameplay quirks derived from companion personality traits.
+- Mojave Wildlife: Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the Mojave Wasteland.
 
 ### Content
-- Autumn Leaves - A DLC-sized quest mod delving into a centuries-old library inhabited by sentient machines. Contains over 2,000 professionally voiced lines, 8 new quests, around 10 hours of gameplay, multiple different endings, and an original soundtrack.
-- Havasu Blues - A DLC-sized quest mod featuring an irradiated survival experience in the territory surrounding Lake Havasu City. Includes more than 60 professionally voiced characters, 28 new quests, around 10 hours of gameplay, and an entirely new world space.
-- 3DNPCs - Two expansive content mods, each focused on expanding its respective Wasteland. The first adds 15 quests, 8 companions, many background NPCs, and a radio station to the Capital Wasteland. The second adds 5 quests, 3 companions, and many background NPCs to the Mojave Wasteland.
-- Vegas Elysium Perk Pack - A perk and trait pack that introduces a new cabinet and flaw systems, inspired by the game Disco Elysium. These new systems typically take the form of the player having a conflicting thought that initially provides a debuff, though after meeting certain criteria (coming across specific items, encounters, or taking a certain action enough times), the player is able to internalize the “answer” to the thought, ultimately providing a substantial buff. The text prompts in this mod are typically very colorful, adding a great deal of depth and fun to the game.
+- Autumn Leaves is a DLC-sized quest mod delving into a centuries-old library inhabited by sentient machines. It contains over 2,000 professionally voiced lines, 8 new quests, around 10 hours of gameplay, multiple different endings, and an original soundtrack.
+- Havasu Blues is a DLC-sized quest mod featuring an irradiated survival experience in the territory surrounding Lake Havasu City. Includes more than 60 professionally voiced characters, 28 new quests, around 10 hours of gameplay, and an entirely new world space.
+- 3DNPCs: Two expansive content mods, each focused on expanding its respective Wasteland. The first adds 15 quests, 8 companions, many background NPCs, and a radio station to the Capital Wasteland. The second adds 5 quests, 3 companions, and many background NPCs to the Mojave Wasteland.
+- Vegas Elysium Perk Pack: A perk and trait pack that introduces a new cabinet and flaw systems, inspired by the game Disco Elysium. These new systems typically take the form of the player having a conflicting thought that initially provides a debuff, though after meeting certain criteria (coming across specific items, encounters, or taking a certain action enough times), the player is able to internalize the “answer” to the thought, ultimately providing a substantial buff. The text prompts in this mod are typically very colorful, adding a great deal of depth and fun to the game.
 
 ### Sound
-- ATMOS Ambience Overhaul - A massive modernization of the ambient soundscapes of both Wastelands.
-- Passive Combat Music Tweaked - Delays combat music until certain conditions have been met, preventing the player from being prematurely notified that they were spotted by enemies.
+- ATMOS Ambience Overhaul: A massive modernization of the ambient soundscapes of both Wastelands.
+- Passive Combat Music Tweaked: Delays combat music until certain conditions have been met, preventing the player from being prematurely notified that they were spotted by enemies.
 
 ### Animations & Visuals
-- 3rd Person Camera Overhaul - Adds modernized camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed out customizable camera positioning.
-- Armed to the Teeth Redux - Allows the player to holster 4 weapons on their body at once.
-- Titans of the New West 2.0 - A complete reimagining and retexturing of power armor to achieve a much more heavy and imposing aesthetic. Also including many new features, animations, and sound effects.
-- B42 Optics - Seamlessly adds dual-render scopes into the game.
-- B42 True Learning - Adds contextual lean when aiming out from corners.
-- Enhanced Movement - A complete movement overhaul and expansion, featuring bug fixes, diagonal movement, enhanced sprinting, enhanced sneaking, animated prone framework, and new animations.
-- Modern Stagger Animations - A complete replacement for stagger animations made via motion capture. Greatly enhances the flow of combat.
-- Simple Attack Reactions - Adds animations to NPCs in response to being injured. Greatly enhances the flow of combat.
+- 3rd Person Camera Overhaul: Adds modernized camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed-out customizable camera positioning.
+- Armed to the Teeth Redux: Allows the player to holster 4 weapons on their body at once.
+- Titans of the New West 2.0: A complete reimagining and retexturing of power armor to achieve a much more heavy and imposing aesthetic. Also including many new features, animations, and sound effects.
+- B42 Optics seamlessly adds dual-render scopes into the game.
+- B42 True Learning: Adds contextual lean when aiming out from corners.
+- Enhanced Movement: A complete movement overhaul and expansion, featuring bug fixes, diagonal movement, enhanced sprinting, enhanced sneaking, an animated prone framework, and new animations.
+- Modern Stagger Animations: A complete replacement for stagger animations made via motion capture. Greatly enhances the flow of combat.
+- Simple Attack Reactions: Adds animations to NPCs in response to being injured. Greatly enhances the flow of combat.
 - Ragdolls & Death Throes - Dramatically improves ragdoll behavior to create more realistic pain and death animations.
-- Desert Natural Weathers - A complete overhaul of the weathers of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weathers.
+- Desert Natural Weathers: A complete overhaul of the weathers of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weathers.
 
 # Requirements
 
@@ -263,7 +262,7 @@ Open the `Steam Properties` window, navigate to the `Language` tab, and select `
 
 ### Disabling Steam Overlay
 
-- Navigate to your `steam folder` (the same folder where your steam.exe is).
+- Navigate to your 'steam folder` (the same folder where your steam.exe is).
 - Right click `GameOverlayRenderer.dll` and open properties.
 - Open the `security tab` and click `edit`.
 - Click the `Deny` option under `Read & Execute` for every user.
@@ -277,7 +276,7 @@ Open the `Steam Properties` window, navigate to the `Language` tab, and select `
 
 ### Clean Installation (GOG)
 
-Inside the game folders of both Fallout 3 and New Vegas, there will be a file known as `unins000`. Run it, and it will activate the uninstaller, it completely uninstall the game, and then you have to reinstall it from GOG.
+Inside the game folders of both Fallout 3 and New Vegas, there will be a file known as `unins000`. Run it, and it will activate the uninstaller; it will completely uninstall the game, and then you have to reinstall it from GOG.
 
 ### INI Folders (GOG)
 
@@ -318,41 +317,41 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest number of threads and, thus, the fastest speed, it is advised to have the working folder on an SSD. You can have the Old Old World and Downloads folders on separate drives without issue, aside from being limited by the slowest drive during Wabbajack installation. Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated, regardless of your account status.
 
--  Open Wabbajack.
--  Load the Modlist from Disk.
--  Set Old Old World to install to `X:\Old Old World` and download to `X:\Old Old Worlds\downloads`.
--  Click the Go/Begin button.
--  Wait for Wabbajack to finish.
+-  Open Wabbajack.
+-  Load the Modlist from Disk.
+-  Set Old Old World to install to `X:\Old Old World` and download to `X:\Old Old Worlds\downloads`.
+-  Click the Go/Begin button.
+-  Wait for Wabbajack to finish.
 
 ### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. If you do not see an installation failure warning, do not worry about it. If you feel like Wabbajack is stuck or a download is hanging, just restart Wabbajack; it will pick up from exactly where you left off. Please rerun Wabbajack at least twice and try to manually download the file from Nexus first before posting about a failed download. Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Installation](#installation) section, if you own it on GOG, go back to the [GOG Config](#gog-config) section.
+There are a lot of different scenarios where Wabbajack will produce an error. If you do not see an installation failure warning, do not worry about it. If you feel like Wabbajack is stuck or a download is hanging, just restart Wabbajack; it will pick up from exactly where you left off. Please rerun Wabbajack at least twice and try to manually download the file from Nexus first before posting about a failed download. Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Installation](#installation) section; if you own it on GOG, go back to the [GOG Config](#gog-config) section.
 
 # Installing TTW
 
--   Now, after the list is fully installed, you want to create a mod in MO2 called `[No Delete] Tale of Two Wastelands` by right-clicking, hovering over the `All Mods` prompt, and then pressing on `Create empty mod inside`, and then you should name it `[No Delete] Tale of Two Wastelands`.
--   You then want to head over to [ModPub](https://mod.pub/) and download the [TTW 3.3.2 Installer](https://mod.pub/ttw/133-tale-of-two-wastelands).
--   Extract the downloaded archive to a folder of your choosing.
--   You then want to run the installer as Adminstrator and set the path to both Fallout 3 and New Vegas, where the empty mod called `[No Delete] Tale of Two Wastelands` is. You can find it by heading to where you installed MO2, going to the `mods` file, and finally going to the file named `[No Delete] Tale of Two Wastelands`.
--   Then you wait for the installer (this will take some time); this time will take more time if you have other processes running in the background. It is also CPU-bound, so if you have a good CPU, it will be faster. (This will approximately take between 45 minutes and 3 hours).
+-   Now, after the list is fully installed, you want to create a mod in MO2 called `[No Delete] Tale of Two Wastelands` by right-clicking, hovering over the `All Mods` prompt, and then pressing on `Create empty mod inside`, and then you should name it `[No Delete] Tale of Two Wastelands`.
+-   You then want to head over to [ModPub](https://mod.pub/) and download the [TTW 3.3.2 Installer](https://mod.pub/ttw/133-tale-of-two-wastelands).
+-   Extract the downloaded archive to a folder of your choosing.
+-   You then want to run the installer as Administrator and set the path to both Fallout 3 and New Vegas, where the empty mod called `[No Delete] Tale of Two Wastelands` is. You can find it by heading to where you installed MO2, going to the `mods` file, and finally going to the file named `[No Delete] Tale of Two Wastelands`.
+-   Then you wait for the installer (this will take some time); this time will take more time if you have other processes running in the background. It is also CPU-bound, so if you have a good CPU, it will be faster. (This will approximately take between 45 minutes and 3 hours).
 
 # Manually Installed Mods
 
 ### Cyberware 2281
 
--   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and click on the mods on the right, you'll then want to name all 3 files with a `[No Delete]` before them and then once you click on `OK` then `Replace`.
+-   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and click on the mods on the right. You'll then want to name all 3 files with a `[No Delete]` before them, and then once you click on 'OK', then `Replace`.
 
 ### The Golden Archive
 
--   [The Golden Archive](https://mod.pub/falloutnv/122/files). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] The Golden Archive`, you then want to click on `OK` then `Replace`
+-   [The Golden Archive](https://mod.pub/falloutnv/122/files). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] The Golden Archive', and you then want to click on `OK` then 'Replace'.
 
 ### Stash Organizer
 
--   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] Stash Organizer`, you then want to click on `OK` then `Replace`
+-   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] Stash Organizer', and you then want to click on `OK` then 'Replace'.
 
 ### FNV 4GB Patcher
 
--   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description). You want to press the `Manual Download` button. After it's done downloading, you want to extract the archive to where your Fallout: New Vegas is located (Put it in the normal game folder and do not put it in the data folder). After that, you want to run `FNVpatch.exe` as Adminstrator. It should say "FalloutNV Patched."
+-   [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description). You want to press the `Manual Download` button. After it's done downloading, you want to extract the archive to where your Fallout: New Vegas is located (Put it in the normal game folder and do not put it in the data folder). After that, you want to run `FNVpatch.exe` as Adminstrator. It should say "FalloutNV Patched."
 
 # Post-Installation
 
@@ -404,40 +403,40 @@ Q: I get this weird message in-game about a script overwrite?
 
 A: You need to make sure YUPTTW is enabled in MO2 and directly underneath the main ESMS in the plugin load order, as shown in the instructions.
 
-Q: I am crashing, what can I do to fix it?
+Q: I am crashing; what can I do to fix it?
 
 A: Post your crashlog in the Old Old World support channel on Discord.
 
-Q: Why are all of my downloads so slow, and eventually failing?
-	
+Q: Why are all of my downloads so slow and eventually failing?
+    
 A: You failed to connect your Nexus account to your Wabbajack. Open the settings cogwheel in Wabbajack and log into your Nexus account.
 
 Q: Is the list appropriate for a person who has never played Fallout before?
-	
+    
 A: Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.
 
 Q: How do I find Old Old World's Keybinds?
-	
+    
 A: Press K in the pause menu.
 
 Q: Why do I have to manually install TTW and Stash Organizer?
-	
+    
 A: Modpub does not allow automated Wabbajack downloading.
 
 Q: Can I keep my own modded setup if I play Old Old World?
-	
-A: Yes. Old Old World is entirely self contained through the use of MO2. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs) the installation will still work and will not interfere with your other modded setup as long as you run both Mod Organizers seperetely.
+    
+A: Yes. Old Old World is entirely self-contained through the use of MO2. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs), the installation will still work and will not interfere with your other modded setup as long as you run both Mod Organizers separately.
 
 Q: Doesn't Ragdolls cause crashes?
-	
+    
 A: No. The original version of Ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
 
 Q: Can I start in the Mojave Wasteland?
-	
-A: Yes. To start in the Mojave Wasteland, select "just a memory" when prompted "Is this now, or just a memory?" immediately after leaving the vault.
+    
+A: Yes. To start in the Mojave Wasteland, select "just a memory" when prompted, "Is this now, or just a memory?" immediately after leaving the vault.
 
 Q: Can I install Old Old World with Vortex?
-	
+    
 A: No. Wabbajack is inherently incompatible with Vortex.
 
 Q: I get no DLC messages. Are they installed correctly?
@@ -479,8 +478,8 @@ Old Old World updates are based on a [Semantic Versioning](https://en.wikipedia.
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
 Generally speaking: 
-- Full x.0 (2.0, 3.0, etc) updates requires a new game.  
-- Major x.x (2.1, 2.2, etc) updates requires a new game.  
+- Full x.0 (2.0, 3.0, etc) updates require a new game.  
+- Major x.x (2.1, 2.2, etc) updates require a new game.  
 - Minor x.x.x (2.1.1, 2.1.2) updates can be applied to an ongoing playthrough.
 
 # How to Keep Extra Mods After Updating
@@ -495,15 +494,15 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 >
 > If you want to install mods on top of this list, these are some good resources to follow.
 
--   [Wabbajack Wiki]((https://wiki.wabbajack.org/index.html))
--   [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html)
--   [The Best of Times](https://thebestoftimes.moddinglinked.com/index.html)
--   [Wasteland Survival Guide](https://wastelandsurvivalguide.github.io/)
--   [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal)
--   [The Basics of xEdit](https://moddinglinked.com/xedit.html)
--   [The Method](https://moddinglinked.com/themethod.html)
+-   [Wabbajack Wiki]((https://wiki.wabbajack.org/index.html))
+-   [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html)
+-   [The Best of Times](https://thebestoftimes.moddinglinked.com/index.html)
+-   [Wasteland Survival Guide](https://wastelandsurvivalguide.github.io/)
+-   [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal)
+-   [The Basics of xEdit](https://moddinglinked.com/xedit.html)
+-   [The Method](https://moddinglinked.com/themethod.html)
 
-Once you know and understand the depths and meanings behind these resources, you can start modding the list. Or you can ignore my advice and have a broken game because you forgot to patch something, your choice.
+Once you know and understand the depths and meanings behind these resources, you can start modding the list. Or you can ignore my advice and have a broken game because you forgot to patch something—your choice.
 
 # Credits
 - The NVSE team for NVSE and xNVSE.
@@ -531,7 +530,7 @@ Once you know and understand the depths and meanings behind these resources, you
 - SpringHeelJon, same story.
 - Lively, same story as Jon and Total.
 - Cangar & Kvitekvist, same story (This is getting old).
-- The Uranium Fever team because I---C'mon, this is seriously getting old.
+- The Uranium Fever team, because, c'mon, this is seriously getting old.
 - Everyone at Scenic Route for the idea to include user comments. (I will include them once the list has actually been played by people).
 - Apoapse for founding Scenic Route Games and being the lead of Librum.
 - Bethesda for the engine and Fallout 3.
