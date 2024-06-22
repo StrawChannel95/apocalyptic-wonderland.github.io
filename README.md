@@ -424,10 +424,6 @@ Q: Why do I have to manually install TTW and Stash Organizer?
 	
 A: Modpub does not allow automated Wabbajack downloading.
 
-Q: Why do I have to click to install Vanilla UI + and Vanilla UI Extension?
-	
-A: The auto download feature on ModDb is extremely unreliable, requiring this step to be manual.
-
 Q: Can I keep my own modded setup if I play Old Old World?
 	
 A: Yes. Old Old World is entirely self contained through the use of MO2. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs) the installation will still work and will not interfere with your other modded setup as long as you run both Mod Organzizers seperetely.
@@ -535,6 +531,7 @@ Once you know and understand the depths and meanings behind these resources, you
 - SpringHeelJon, same story.
 - Lively, same story as Jon and Total.
 - Cangar & Kvitekvist, same story (This is getting old).
+- The Uranium Fever team because I---C'mon, this is seriously getting old.
 - Everyone at Scenic Route for the idea to include user comments. (I will include them once the list has actually been played by people).
 - Apoapse for founding Scenic Route Games and being the lead of Librum.
 - Bethesda for the engine and Fallout 3.
