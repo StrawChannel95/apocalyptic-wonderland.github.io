@@ -23,7 +23,6 @@
     - [File Path Setup](#file-path-setup)
     - [Clean Installation (Steam)](#clean-installation-steam)
     - [INI Folders (Steam)](#ini-folders-steam)
-    - [Installing Microsoft Visual C++ Redistributable Package (Steam)](#installing-the-microsoft-visual-c-redistributable-package-steam)
  - [Steam Config](#steam-config)
     - [Reinstallation](#reinstallation)
     - [Steam Library](#steam-library)
@@ -32,7 +31,6 @@
 - [GOG Installation and Config](#gog-installation-and-config)
     - [Clean Installation (GOG)](#clean-installation-gog)
     - [INI Folders (GOG)](#ini-folders-gog)
-    - [Installing Microsoft Visual C++ Redistributable Package (GOG)](#installing-the-microsoft-visual-c-redistributable-package-gog)
 - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
     - [Disabling Base Address Randomization](#disabling-base-address-randomization)
@@ -245,11 +243,6 @@ More Fallout-related files are located inside the so-called `INI folder`, which 
 -   Navigate to the INI folder; this is found under Documents/My Games.
 -   If you have an ongoing vanilla playthrough, back up the Saves folder.
 -   Delete everything inside the Fallout: New Vegas and Fallout 3 folders.
-
-
-### Installing the Microsoft Visual C++ Redistributable Package (Steam)
-
-I doubt you need to do this since you likely already have it installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under `Visual Studio 2015, 2017, and 2019`. Here is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
 # Steam Config
 
@@ -498,6 +491,22 @@ Generally speaking: 
 When updating, any additional mods you have installed on top of Old Old World will be deleted. Your downloads folder will not be touched!
 
 If you wish for Wabbajack to ignore any additional mods you've installed, rename them to say `[NoDelete]` at the beginning of the name.
+
+# Modding Resources
+
+>[!Note]
+>
+> If you want to install mods on top of this list, these are some good resources to follow.
+
+-   [Wabbajack Wiki]((https://wiki.wabbajack.org/index.html))
+-   [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html)
+-   [The Best of Times](https://thebestoftimes.moddinglinked.com/index.html)
+-   [Wasteland Survival Guide](https://wastelandsurvivalguide.github.io/)
+-   [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal)
+-   [The Basics of xEdit](https://moddinglinked.com/xedit.html)
+-   [The Method](https://moddinglinked.com/themethod.html)
+
+Once you know and understand the depths and meanings behind these resources, you can start modding the list. Or you can ignore my advice and have a broken game because you forgot to patch something, your choice.
 
 # Credits
 - The NVSE team for NVSE and xNVSE.
