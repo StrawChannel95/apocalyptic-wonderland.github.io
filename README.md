@@ -218,8 +218,7 @@ A [ModPub](https://mod.pub/) account.
 - Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
 - Create a folder named `Modding`, then open it.
 - Create a folder named `Wabbajack`.
-- Create another folder named `Old Old World`, then open it.
-- Create a folder named `downloads`.
+- Create another folder named `Old Old World`.
 
 ### Clean Installation (Steam)
 
