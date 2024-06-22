@@ -410,7 +410,7 @@ A: Post your crashlog in the Old Old World support channel on Discord.
 
 Q: Why are all of my downloads so slow, and eventually failing?
 	
-A: You failed to connect your nexus account to your wabbajack. Open the settings cogwheel in Wabbajack and log into your Nexus account.
+A: You failed to connect your Nexus account to your Wabbajack. Open the settings cogwheel in Wabbajack and log into your Nexus account.
 
 Q: Is the list appropriate for a person who has never played Fallout before?
 	
@@ -426,11 +426,11 @@ A: Modpub does not allow automated Wabbajack downloading.
 
 Q: Can I keep my own modded setup if I play Old Old World?
 	
-A: Yes. Old Old World is entirely self contained through the use of MO2. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs) the installation will still work and will not interfere with your other modded setup as long as you run both Mod Organzizers seperetely.
+A: Yes. Old Old World is entirely self contained through the use of MO2. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs) the installation will still work and will not interfere with your other modded setup as long as you run both Mod Organizers seperetely.
 
 Q: Doesn't Ragdolls cause crashes?
 	
-A: No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
+A: No. The original version of Ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
 
 Q: Can I start in the Mojave Wasteland?
 	
