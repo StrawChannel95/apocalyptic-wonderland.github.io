@@ -16,6 +16,9 @@
     - [Sound](#sound)
     - [Animations & Visuals](#animations--visuals)
 -   [Requirements](#requirements)
+    - [Specifications](#specifications)
+    - [Steam/GOG Requirements](#steamgog-requirements)
+    - [Extra Requirements](#extra-requirements)
 -   [Installation](#installation)
     - [Clean Installation (Steam)](#clean-installation-steam)
     - [INI Folders (Steam)](#ini-folders-steam)
@@ -68,13 +71,16 @@ I didn't know [Stock Game](https://wiki.wabbajack.org/modlist_author_documentati
 
 This is it: the full story. Of course, I had like 14 different modding attempts that all failed, but we don't remember those.
 
-> [!Important]
->
->**From here, you cannot skip any segments; if I see you asking about something addressed in this README, well, let's not talk about that.**
+
 
 # What is Wabbajack?
 
-Wabbajack is an automated modlist installer that works by scanning the [META files](https://wiki.wabbajack.org/modlist_author_documentation/Meta%20Files.html) of MO2 Downloads so that it can download the mods on the user's device without redistributing any assets of said mods. This is needed because in the world of Bethesda modding, no clear permissions have been set for mods, each mod can have radically different permissions. That's why things like modpacks, or modlists, as we call them, didn't come until later down the line.
+
+>[!Important]
+>
+>From here, you cannot skip any segments; they're all in chronological order.
+
+Wabbajack is an automated mod list installer that works by scanning the [META files](https://wiki.wabbajack.org/modlist_author_documentation/Meta%20Files.html) of MO2 Downloads so that it can download the mods on the user's device without redistributing any assets of said mods. This is needed because in the world of Bethesda modding, no clear permissions have been set for mods, each mod can have radically different permissions. That's why things like modpacks, or modlists, as we call them, didn't come until later down the line.
 
 # Old Old World Features
 
@@ -189,7 +195,7 @@ My specs are the following:
 
 I capped the FPS to 60 using the [Special K](https://www.special-k.info/) program (I don't use any of its other features), and the game is very smooth with minimal crashes. Again, if you want to increase performance, please ask in the support channel, and I personally will not be able to help you.
 
-### Steam/GOG requirements
+### Steam/GOG Requirements
 
 A legal copy of Fallout 3 with all DLCs from either [Steam](https://store.steampowered.com/app/22370/Fallout_3_Game_of_the_Year_Edition/) or [GOG](https://www.gog.com/en/game/fallout_3_game_of_the_year_edition).
 
