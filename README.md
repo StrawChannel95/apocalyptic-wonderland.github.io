@@ -18,7 +18,7 @@
 -   [Requirements](#requirements)
     - [Specifications](#specifications)
     - [Steam/GOG Requirements](#steamgog-requirements)
-    - [Site Requirements](#site-requirements)
+    - [Extra Requirements](#extra-requirements)
 -   [Installation](#installation)
     - [File Path Setup](#file-path-setup)
     - [Clean Installation (Steam)](#clean-installation-steam)
@@ -217,10 +217,6 @@ A [ModPub](https://mod.pub/) account.
 [DirectX Runtime Libraries](https://www.microsoft.com/en-us/download/details.aspx?id=8109).
 
 [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.302-windows-x64-installer).
-
-### DirectX Runtime Libraries
-
-
 
 # Installation
 
