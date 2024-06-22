@@ -18,7 +18,7 @@
 -   [Requirements](#requirements)
     - [Specifications](#specifications)
     - [Steam/GOG Requirements](#steamgog-requirements)
-    - [Extra Requirements](#extra-requirements)
+    - [Site Requirements](#site-requirements)
 -   [Installation](#installation)
     - [File Path Setup](#file-path-setup)
     - [Clean Installation (Steam)](#clean-installation-steam)
@@ -204,7 +204,7 @@ A legal copy of Fallout: New Vegas with all DLCs from either [Steam](https://sto
 
 **(I cannot provide support for any other version, including the PCR version)**
 
-### Extra Requirements
+### Site Requirements
 
 A [Nexus Mods](https://nexusmods.com) account (Premium is not necessary but recommended for automated downloads).
 
