@@ -6,6 +6,15 @@
 -   [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list)                                                         
 -   [What is Wabbajack](#what-is-wabbajack)                                                                                                                        
 -   [Old Old World Features](#old-old-world-features)
+    - [UI](#ui)
+    - [Balance](#balance)
+    - [Functions](#functions)
+    - [Comprehensive Overhauls](#comprehensive-overhauls)
+    - [Dialogue Overhauls](#dialogue-overhauls)
+    - [NPC & Enemy Overhauls](#npc--enemy-overhauls)
+    - [Content](#content)
+    - [Sound](#sound)
+    - [Animations & Visuals](#animations--visuals)
 -   [Requirements](#requirements)
 -   [Installation](#installation)
     - [Clean Installation (Steam)](#clean-installation-steam)
@@ -59,7 +68,9 @@ I didn't know [Stock Game](https://wiki.wabbajack.org/modlist_author_documentati
 
 This is it: the full story. Of course, I had like 14 different modding attempts that all failed, but we don't remember those.
 
-**From here, you cannot skip any segments; if I see you asking about something addressed in this README, well, let's not talk about that.**
+> [!Important]
+>
+>**From here, you cannot skip any segments; if I see you asking about something addressed in this README, well, let's not talk about that.**
 
 # What is Wabbajack?
 
@@ -67,18 +78,99 @@ Wabbajack is an automated modlist installer that works by scanning the [META fil
 
 # Old Old World Features
 
-**This isn't a complete list. This list just has some of the highlights. I will leave it to you to find the rest of the hundreds of features that this list adds.**
+- A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
+- Carefully crafted settings for every single mod inclusion.
+- Significant modernizations of the UI, HUD, and Pip-Boy.
+- Many new functionalities seamlessly integrated into the gameplay experience, with clear notation of these functions and their associated hotkeys.
+- Large-scale, immersive overhauls and expansions of most locations.
+- Comprehensive, hardcore rebalancing of all gameplay aspects (including combat, physics, NPC AI, weapons, armor, aid, healing, consumables, and more), with an emphasis on greatly enhancing difficulty and cohesion.
+- Ample new items, armors, perks, quests, enemies, and creatures, all intended to further expand the authentic Fallout experience.
+- Substantial object mesh, navmesh, collision marker, room bound, texture, and LOD optimizations with the goal of improved performance and an enhanced combat experience.
+- Extensive, full-game retexturing and reimagining of both Wastelands.
+- Dramatically overhauled lighting to improve the ambiance of both Wastelands.
+- Countless new animations to improve gameplay flow, engagement, and believability.
+- An expansive overhaul to music and the entire soundscape to promote deeper immersion.
 
--   Old Old World makes use of the Root Builder MO2 plugin, which ensures the game installation folder doesn't get modified.
--   A complete UI overhaul thanks to [Vanilla UI Plus](https://www.nexusmods.com/newvegas/mods/80642](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)) by [Axonis](https://www.moddb.com/members/axonis).
--   A tweaks menu, featuring a full selection of engine fixes and personal tweaks, thanks to [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347) by [lStewieAl](https://next.nexusmods.com/profile/lStewieAl/about-me?gameId=130). 
--   A full suite of graphical improvements thanks to [NVVR](https://salamand3r.fail/new-vegas-visual-renewal) by [Salamand3r](https://next.nexusmods.com/profile/5al4mand3r/about-me?gameId=130).
--   Custom patching exclusive to the list.
--   An extraordinary amount of gameplay tweaks and improvements thanks to [Xilandro](https://next.nexusmods.com/profile/Xilandro/mods?gameId=130), [Sweet6Shooter](https://next.nexusmods.com/profile/Sweet6Shooter/about-me?gameId=130), and many more people I couldn't remember.
--   Lore-friendly, hard, and includes a cluster of new content. (I will leave you to find the new content).
--   Old Old World supports both `Steam` and `GOG` stores.
--   Old Old World does all this while having no NSFW. (This is a Fallout game; gore is everywhere).
--   There are still hundreds of other features I haven't mentioned. The only way to find out is to play for yourself.
+### UI
+- Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid selection menus.
+- Item Cards - Adds new, real-time, detailed stat menus to inspected items.
+- Keybind Quick Display - Adds a customized list of pre-configured hotkeys and function descriptions for quick reference.
+- Radiation Visuals - Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
+- Simple Subtle Camera Shake - Adds subtle yet immersive camera responsiveness to injuries.
+
+### Balance
+- Sweets Simple Settings - Adjusts various gameplay settings to promote a more difficult, hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
+- Harder Barter Faster Stronger (Sicko Mode) - Rebalances the economy around the barter skill, functionally creating a much more punishing economy.
+- Bullet Time - Utilized in Old Old World to completely supplant VATS, Bullet Time is a robust, AP based, time-scaling function with an emphasis on careful player aim and thoughtful decision making.
+- ADO (Armor Damage Overhaul) - Replaces the nonsensical base game armor degradation system with a design that is highly customizable and markedly more intuitive.
+- New Blood - A complete reconstruction and rebalancing of damage in its entirety. New Blood adds bleeding effects when struck by bladed weapons and formula based knockdown when hit by blunt weapons or shotgun shots.
+- Famine - A loot scarcity mod that punishes poor resource management habits and forces the player to engage with the barter and crafting systems.
+- RAD (Radiation Is Actually Dangerous) - A hardcore overhaul to radiation, dehydration, hunger, and sleep deprivation, making these effects considerably more impactful 
+- Sweet Consumables - A top-to-bottom reconstruction of consumables and miscellaneous items with a focus on deliberate and thoughtful balance.
+- Aid Addon - Adds 16 new, hardcore healing items and new survival healing options.
+- Sweet Healing Systems - A comprehensive overhaul and rebalancing of doctors, sleep, endurance, infirmary based healing and radiation removal, doctor radiation removal, radiation dispersal over time, infirmary detox, and addiction removal.
+- SPARE (Sweet Part and Ammo Rebalance and Expansion) - A complete rebalancing of the ammo crafting system, with cohesive breakdown recipes, battery-based energy cell recharging, explosives crafting and breakdown, added ammo types, a consistent naming scheme, a transition to vendor sold boxes of ammo, and economy improvements.
+- SWEEP (Sweet Weapon Enhancement and Expansion Package) - A complete rebalance of weapons intended to create a cohesive and balanced system with more gradual weapon progression.
+- SDDS (Sweet Dynamic Detection System) - Enhances NPCs ability to detect the player at longer distances, functionally nerfing sniping.
+- Simple AI Merge - A long-term collection of AI improvements made by one of the game’s leading engine experts. This mod makes combat far more engaging.
+- Immersive Recoil 2.0 - Adds realistic recoil to guns, making combat far more challenging.
+- Immersive Recoil NPC - Adds a recoil-like mechanic to NPCs, greatly improving the flow of combat.
+- Weapon Jamming Tweaks - Adjusts weapon jamming to foster a more hardcore experience. Fixes several jam related bugs, and adds a new jam clearing function.
+- STARS (Sweet's Total Armor Rework System) - A comprehensive rebalancing of the entire armor suite. Also seamlessly integrates a large collection of the best modded armor retextures and additions.
+- Sweet Perk Overhaul - A complete rebalancing and reimagining of all base game perks, with the goal of making every single perk situationally enticing.
+- Sweet 6 Shooter Perks - A seamless and immersive addition of 99 perks and 22 traits, with the goal of making appealing perks available for all different weapon and armor build types.
+
+### Functions
+- Bad Touch - Adds consequences to exposure to environmental hazards, such as fire, electricity, cacti, broken glass, toxic sludge pools, poisonous gas, and radioactive goo.
+- BURN (Hardcore Fire Effects) - Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive based weaponry.
+- Forced Entry - Allows the player to bypass locks by attacking them. This makes the player choose between using different scarce resources, lockpicks or ammo and weapon condition.
+- Universal Water Bottling - Allows the player to fill empty bottles or canteens from any water source. This facilitates harsher H2O consumption settings and consequences, while also adding scarce resources to ameliorate said hardcore needs.
+- Camping - Allows the player to carry a sleeping bag and campfire that can be dropped anywhere for quick use.
+- Immersive Minigames - Real-time, character-skill based replacements for hacking and lockpicking, with an emphasis on resource management.
+- B42 Quickthrow - Adds a new, modernized weapon throwing mechanic, further promoting the use of throwables.
+- Stash Organizer - A customizable framework to configure automatic organization of stored items.
+- Purchase Items on Display - Allows purchase of items directly off of shelves in shops, rather than bartering directly with vendors. Most mods included in Old Old World have items specifically placed and balanced for use with this mod.
+
+### Comprehensive Overhauls
+- Functional Post Game Ending - Adds a fully functional post-game world to the game. You will no longer be brought to the credits after beating the game.
+- MoreMojave - Adds many new, intense, and carefully balanced locations at sparser areas of the Mojave Wasteland.
+- Uncut Wasteland - Restores a massive amount of scenery, items, and NPCs that were patched out of the game following release.
+- The Living Desert - Adds hundreds of NPCs and scripted events to the Mojave Wasteland, further fleshing out the Fallout universe.
+- Sweet Pain - Adds many intense and unique locations throughout the game, all packed with lore and excitement.
+- Mojave Raiders - A complete overhaul and diversification of the many Raider factions of the Mojave Wasteland.
+- AGE (Anchorage Gameplay Expansion) - A complete overhaul of the Anchorage DLC including rebalancing, new gear, new weapons, new enemies, new encounters, and new boss fights. Heavily inspired by Call of Duty, Doom Eternal, and Half-Life, though with an emphasis on full-game cohesion and lore-friendliness.
+- DMT (Dead Money Tweaks) - A complete overhaul of the Dead Money DLC including rebalancing, new gear, new weapons, and new enemies. Intended to be a pseudo-RPG-survival horror experience inspired by Resident Evil, though with focus on full-game cohesion and lore-friendliness.
+- EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to comprehensively rebalance nearly all aspects of both Wastelands, affecting many weapons, armors, locations, quests, encounters, creatures, companions, NPCs, loot, crafting, vendors, SPECIAL stats, perks, and karma.
+
+### Dialogue Overhauls
+- Brave New World - A near complete professional revoicing of voice lines throughout the Mojave Wasteland, including more than 7,000 lines of dialogue.
+- Dialogue & Interaction Expansion Overhaul - A comprehensive overhaul of player dialogue and interaction choices.
+
+### NPC & Enemy Overhauls
+- Companion Characteristics - Provides gameplay quirks derived from companion personality traits.
+- Mojave Wildlife - Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the Mojave Wasteland.
+
+### Content
+- Autumn Leaves - A DLC-sized quest mod delving into a centuries-old library inhabited by sentient machines. Contains over 2,000 professionally voiced lines, 8 new quests, around 10 hours of gameplay, multiple different endings, and an original soundtrack.
+- Havasu Blues - A DLC-sized quest mod featuring an irradiated survival experience in the territory surrounding Lake Havasu City. Includes more than 60 professionally voiced characters, 28 new quests, around 10 hours of gameplay, and an entirely new world space.
+- 3DNPCs - Two expansive content mods, each focused on expanding its respective Wasteland. The first adds 15 quests, 8 companions, many background NPCs, and a radio station to the Capital Wasteland. The second adds 5 quests, 3 companions, and many background NPCs to the Mojave Wasteland.
+- Vegas Elysium Perk Pack - A perk and trait pack that introduces a new cabinet and flaw systems, inspired by the game Disco Elysium. These new systems typically take the form of the player having a conflicting thought that initially provides a debuff, though after meeting certain criteria (coming across specific items, encounters, or taking a certain action enough times), the player is able to internalize the “answer” to the thought, ultimately providing a substantial buff. The text prompts in this mod are typically very colorful, adding a great deal of depth and fun to the game.
+
+### Sound
+- ATMOS Ambience Overhaul - A massive modernization of the ambient soundscapes of both Wastelands.
+- Passive Combat Music Tweaked - Delays combat music until certain conditions have been met, preventing the player from being prematurely notified that they were spotted by enemies.
+
+### Animations & Visuals
+- 3rd Person Camera Overhaul - Adds modernized camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed out customizable camera positioning.
+- Armed to the Teeth Redux - Allows the player to holster 4 weapons on their body at once.
+- Titans of the New West 2.0 - A complete reimagining and retexturing of power armor to achieve a much more heavy and imposing aesthetic. Also including many new features, animations, and sound effects.
+- B42 Optics - Seamlessly adds dual-render scopes into the game.
+- B42 True Learning - Adds contextual lean when aiming out from corners.
+- Enhanced Movement - A complete movement overhaul and expansion, featuring bug fixes, diagonal movement, enhanced sprinting, enhanced sneaking, animated prone framework, and new animations.
+- Modern Stagger Animations - A complete replacement for stagger animations made via motion capture. Greatly enhances the flow of combat.
+- Simple Attack Reactions - Adds animations to NPCs in response to being injured. Greatly enhances the flow of combat.
+- Ragdolls & Death Throes - Dramatically improves ragdoll behavior to create more realistic pain and death animations.
+- Desert Natural Weathers - A complete overhaul of the weathers of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weathers.
 
 # Requirements
 
@@ -329,11 +421,11 @@ A: No. The original version of ragdolls did cause crashes. The replacement plugi
 
 Q: Can I start in the Mojave Wasteland?
 	
-A: No.
+A: Yes. To start in the Mojave Wasteland, select "just a memory" when prompted "Is this now, or just a memory?" immediately after leaving the vault.
 
-Q: Can I install Old Old World with vortex?
+Q: Can I install Old Old World with Vortex?
 	
-A: No. Wabbajack is inherently incompatible with vortex.
+A: No. Wabbajack is inherently incompatible with Vortex.
 
 Q: I get no DLC messages. Are they installed correctly?
 
