@@ -20,6 +20,7 @@
     - [Steam/GOG Requirements](#steamgog-requirements)
     - [Extra Requirements](#extra-requirements)
 -   [Installation](#installation)
+    - [File Path Setup](#file-path-setup)
     - [Clean Installation (Steam)](#clean-installation-steam)
     - [INI Folders (Steam)](#ini-folders-steam)
     - [Installing Microsoft Visual C++ Redistributable Package (Steam)](#installing-the-microsoft-visual-c-redistributable-package-steam)
@@ -41,6 +42,7 @@
  - [Installing TTW](#installing-ttw)
  - [Manually Installed Mods](#manually-installed-mods)
     - [Cyberware 2281](#cyberware-2281)
+    - [The Golden Archive](#the-golden-archive)
     - [Stash Organizer](#stash-organizer)
     - [FNV 4GB Patcher](#fnv-4gb-patcher)
  - [Post-Installation](#post-installation)
@@ -210,6 +212,14 @@ A [Nexus Mods](https://nexusmods.com) account (Premium is not necessary but reco
 A [ModPub](https://mod.pub/) account.
 
 # Installation
+
+### File Path Setup
+
+- Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
+- Create a folder named `Modding`, then open it.
+- Create a folder named `Wabbajack`.
+- Create another folder named `Old Old World`, then open it.
+- Create a folder named `downloads`.
 
 ### Clean Installation (Steam)
 
