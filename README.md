@@ -55,11 +55,6 @@
 - [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
 - [Credits](#credits)
 
->[!CAUTION]
->**Trigger Warning:**
->
->Some of the content in Old Old World contains difficult and distressing psychosocial topics, including self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
-
 # The Why
 **This segment is entirely optional to read. These are just the events leading up to the creation of Old Old World.**
 
@@ -77,6 +72,10 @@ This is it: the full story. Of course, I had like 14 different modding attempts 
 
 # What is Wabbajack?
 
+>[!CAUTION]
+>**Trigger Warning:**
+>
+>Some of the content in Old Old World contains difficult and distressing psychosocial topics, including self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
 
 >[!Important]
 >
