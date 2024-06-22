@@ -225,7 +225,8 @@ A [ModPub](https://mod.pub/) account.
 - Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
 - Create a folder named `Modding`, then open it.
 - Create a folder named `Wabbajack`.
-- Create another folder named `Old Old World`.
+- Create another folder named `Old Old World` then open it.
+- Create a folder named `downloads`.
 
 ### Clean Installation (Steam)
 
@@ -325,7 +326,7 @@ The download and installation process can take a very long time, depending on yo
 
 -  Open Wabbajack.
 -  Load the Modlist from Disk.
--  Set Old Old World to install to `X:\Old Old World` and download to `X:\Old Old Worlds\Downloads`. Your downloads folder can be on a separate drive to save space, but Wabbajack's install speed will be limited to your slowest drive. 
+-  Set Old Old World to install to `X:\Old Old World` and download to `X:\Old Old Worlds\downloads`.
 -  Click the Go/Begin button.
 -  Wait for Wabbajack to finish.
 
@@ -349,7 +350,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 
 ### The Golden Archive
 
--   [The Golden Archive](https://mod.pub/falloutnv/122/files).  Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] The Golden Archive`, you then want to click on `OK` then `Replace`
+-   [The Golden Archive](https://mod.pub/falloutnv/122/files). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] The Golden Archive`, you then want to click on `OK` then `Replace`
 
 ### Stash Organizer
 
