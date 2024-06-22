@@ -346,7 +346,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 
 ### The Golden Archive
 
-[The Golden Archive](https://mod.pub/falloutnv/122/files).  Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] The Golden Archive`, you then want to click on `OK` then `Replace`
+-   [The Golden Archive](https://mod.pub/falloutnv/122/files).  Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] The Golden Archive`, you then want to click on `OK` then `Replace`
 
 ### Stash Organizer
 
