@@ -293,7 +293,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 ### Disabling Base Address Randomization
 
 - Open `Windows Security` from the `Start Menu`.
-- Open A`pp & Browser Control` in the left sidebar.
+- Open `App & Browser Control` in the left sidebar.
 - Open `Exploit Protection Settings` under `Exploit Protection`.
 - Set `Force Randomization for Images (Mandatory ASLR`) to `Use Default (Off)`.
 
