@@ -210,6 +210,18 @@ A [Nexus Mods](https://nexusmods.com) account (Premium is not necessary but reco
 
 A [ModPub](https://mod.pub/) account.
 
+### Extra Requirements
+
+[Every Visual C++ Redistributable Package](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one).
+
+[DirectX Runtime Libraries](https://www.microsoft.com/en-us/download/details.aspx?id=8109).
+
+[.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.302-windows-x64-installer).
+
+### DirectX Runtime Libraries
+
+
+
 # Installation
 
 ### File Path Setup
@@ -283,10 +295,6 @@ More Fallout-related files are located inside the so-called `INI folder`, which 
 -   Navigate to the INI folder; this is found under Documents/My Games.
 -   If you have an ongoing vanilla playthrough, back up the Saves folder.
 -   Delete everything inside the Fallout: New Vegas and Fallout 3 folders.
-
-### Installing the Microsoft Visual C++ Redistributable Package (GOG)
-
-I doubt you need to do this since you likely already have it installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under `Visual Studio 2015, 2017, and 2019`. Here is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
 > [!Note]
 >
