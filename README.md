@@ -373,7 +373,8 @@ A: I felt that the mods made the DLCs better and more enjoyable while still not 
 
 Q: The intro of Fallout 3 is weird!
 
-A: I know there is minor clipping, and the cart that holds you doesn't move. I will try finding a fix. Also, TTW Quickstart is enabled, so you should not be able to see this.
+A: I know there is minor clipping, and the cart that holds you doesn't move. I will try finding a fix. Also, TTW Quickstart is enabled, so you should not be able 
+to see this.
 
 Q: The white screens that say "X Years Later" are not there.
 
@@ -401,47 +402,49 @@ A: Missing assets are caused by having an incorrect TTW setup. See the [Installi
 
 Q: I get this weird message in-game about a script overwrite?
 
-A: You need to make sure YUPTTW is enabled in MO2 and directly underneath the main ESMS in the plugin load order, as shown in the instructions.
+A: You need to make sure YUPTTW is enabled in MO2 and directly underneath the main ESMs in the plugin load order, as shown in the instructions.
 
 Q: I am crashing; what can I do to fix it?
 
-A: Post your crashlog in the Old Old World support channel on Discord.
+A: Post your crashlog in the Old Old World support channel on Discord.                                                                                             
 
-Q: Why are all of my downloads so slow and eventually failing?
-    
-A: You failed to connect your Nexus account to your Wabbajack. Open the settings cogwheel in Wabbajack and log into your Nexus account.
+Q: Why are all of my downloads so slow and eventually failing?                                                                                                     
 
-Q: Is the list appropriate for a person who has never played Fallout before?
-    
-A: Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.
+A: You failed to connect your Nexus account to your Wabbajack. Open the settings cogwheel in Wabbajack and log into your Nexus account.                            
 
-Q: How do I find Old Old World's Keybinds?
-    
-A: Press K in the pause menu.
+Q: Is the list appropriate for a person who has never played Fallout before?                                                                                       
 
-Q: Why do I have to manually install TTW and Stash Organizer?
-    
-A: Modpub does not allow automated Wabbajack downloading.
+A: Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.                                                                        
 
-Q: Can I keep my own modded setup if I play Old Old World?
-    
-A: Yes. Old Old World is entirely self-contained through the use of MO2. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs), the installation will still work and will not interfere with your other modded setup as long as you run both Mod Organizers separately.
+Q: How do I find Old Old World's Keybinds?                                                                                                                         
 
-Q: Doesn't Ragdolls cause crashes?
-    
-A: No. The original version of Ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
+A: Press K in the pause menu.                                                                                                                                      
 
-Q: Can I start in the Mojave Wasteland?
-    
-A: Yes. To start in the Mojave Wasteland, select "just a memory" when prompted, "Is this now, or just a memory?" immediately after leaving the vault.
+Q: Why do I have to manually install TTW and Stash Organizer?                                                                                                      
 
-Q: Can I install Old Old World with Vortex?
-    
-A: No. Wabbajack is inherently incompatible with Vortex.
+A: Modpub does not allow automated Wabbajack downloading.                                                                                                          
+
+Q: Can I keep my own modded setup if I play Old Old World?                                                                                                         
+
+A: Yes. Old Old World is entirely self-contained through the use of MO2. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, 
+and all DLCs), the installation will still work and will not interfere with your other modded setup as long as you run both Mod Organizers separately.             
+
+Q: Doesn't Ragdolls cause crashes?                                                                                                                                 
+
+A: No. The original version of Ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.                           
+
+Q: Can I start in the Mojave Wasteland?                                                                                                                            
+
+A: Yes. To start in the Mojave Wasteland, select "just a memory" when prompted, "Is this now, or just a memory?" immediately after leaving the vault.              
+
+Q: Can I install Old Old World with Vortex?                                                                                                                        
+
+A: No. Wabbajack is inherently incompatible with Vortex.                                                                                                           
 
 Q: I get no DLC messages. Are they installed correctly?
 
-A: Yes, the list has a mod that delays the DLCs and does not spam you with the message boxes at the beginning of the game. Just explore the game normally, and you will stumble on them.
+A: Yes, the list has a mod that delays the DLCs and does not spam you with the message boxes at the beginning of the game. Just explore the game normally, and you 
+will stumble on them.
 
 Q: My saves have disappeared!
 
@@ -449,11 +452,13 @@ A: The list uses profile-specific saving. They are located in the directory wher
 
 Q: I can't ALT-TAB? It just crashes or freezes.
 
-A: Without going too deep into technicalities, this is intentional when not using DXVK and Flip mode as outlined in the guide. Old Old World's default mode is DX9 and Fullscreen, with improved RAM management from the mod NVTF. One of these RAM improvements makes ALT-TABbing impossible in this mode.
+A: Without going too deep into technicalities, this is intentional when not using DXVK and Flip mode as outlined in the guide. Old Old World's default mode is DX9 
+and Fullscreen, with improved RAM management from the mod NVTF. One of these RAM improvements makes ALT-TABbing impossible in this mode.
 
 Q: Is "{INSERT MOD NAME HERE}" compatible with the list?
 
-A: Short answer. If you have to ask, then no. Long answer: If you know your way around XEdit and can see what I have done in regards to patching the list for consistency, then absolutely.
+A: Short answer. If you have to ask, then no. Long answer: If you know your way around XEdit and can see what I have done in regards to patching the list for 
+consistency, then absolutely.
 
 # Where to Ask for Support
 
