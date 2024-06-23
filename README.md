@@ -499,7 +499,7 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 >
 > If you want to install mods on top of this list, these are some good resources to follow.
 
--   [Wabbajack Wiki]((https://wiki.wabbajack.org/index.html))
+-   [Wabbajack Wiki](https://wiki.wabbajack.org/index.html)
 -   [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html)
 -   [The Best of Times](https://thebestoftimes.moddinglinked.com/index.html)
 -   [Wasteland Survival Guide](https://wastelandsurvivalguide.github.io/)
