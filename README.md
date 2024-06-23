@@ -23,7 +23,7 @@
    - [File Path Setup](#file-path-setup)                                                                                                                         
    - [Clean Installation (Steam)](#clean-installation-steam)                                                                                                     
    - [INI Folders (Steam)](#ini-folders-steam)                                                                                                                   
- - [Steam Config](#steam-config)                                                                                                                                   
+-   [Steam Config](#steam-config)                                                                                                                                  
    - [Reinstallation](#reinstallation)                                                                                                                           
    - [Steam Library](#steam-library)                                                                                                                             
    - [Setting the Game language to English](#setting-the-game-language-to-english)                                                                               
