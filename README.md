@@ -3,57 +3,56 @@
 # <p align=center>**Old Old World**</p>
  
 
--   [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list)
--   [What is Wabbajack](#what-is-wabbajack) 
--   [Old Old World Features](#old-old-world-features)                                                                                                              
-   - [UI](#ui)                                                                                                                                                   
-   - [Balance](#balance)                                                                                                                                         
-   - [Functions](#functions)                                                                                                                                     
-   - [Comprehensive Overhauls](#comprehensive-overhauls)                                                                                                         
-   - [Dialogue Overhauls](#dialogue-overhauls)                                                                                                                   
-   - [NPC & Enemy Overhauls](#npc--enemy-overhauls)                                                                                                              
-   - [Content](#content)                                                                                                                                         
-   - [Sound](#sound)                                                                                                                                             
-   - [Animations & Visuals](#animations--visuals)                                                                                                                
--   [Requirements](#requirements)                                                                                                                                  
-   - [Specifications](#specifications)                                                                                                                           
-   - [Steam/GOG Requirements](#steamgog-requirements)                                                                                                            
-   - [Extra Requirements](#extra-requirements)                                                                                                                   
--   [Installation](#installation)                                                                                                                                  
-   - [File Path Setup](#file-path-setup)                                                                                                                         
-   - [Clean Installation (Steam)](#clean-installation-steam)                                                                                                     
-   - [INI Folders (Steam)](#ini-folders-steam)                                                                                                                   
+-   [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list)
+-   [What is Wabbajack](#what-is-wabbajack) 
+-   [Old Old World Features](#old-old-world-features)                                                                                                              
+    - [UI](#ui)                                                                                                                                                   
+    - [Balance](#balance)                                                                                                                                         
+    - [Functions](#functions)                                                                                                                                     
+    - [Comprehensive Overhauls](#comprehensive-overhauls)                                                                                                         
+    - [Dialogue Overhauls](#dialogue-overhauls)                                                                                                                   
+    - [NPC & Enemy Overhauls](#npc--enemy-overhauls)                                                                                                              
+    - [Content](#content)                                                                                                                                         
+    - [Sound](#sound)                                                                                                                                             
+    - [Animations & Visuals](#animations--visuals)                                                                                                                
+-   [Requirements](#requirements)                                                                                                                                  
+    - [Specifications](#specifications)                                                                                                                           
+    - [Steam/GOG Requirements](#steamgog-requirements)                                                                                                            
+    - [Extra Requirements](#extra-requirements)                                                                                                                   
+-   [Installation](#installation)                                                                                                                                  
+    - [File Path Setup](#file-path-setup)                                                                                                                         
+    - [Clean Installation (Steam)](#clean-installation-steam)                                                                                                     
+    - [INI Folders (Steam)](#ini-folders-steam)                                                                                                                   
 -   [Steam Config](#steam-config)                                                                                                                                  
-   - [Reinstallation](#reinstallation)                                                                                                                           
-   - [Steam Library](#steam-library)                                                                                                                             
-   - [Setting the Game language to English](#setting-the-game-language-to-english)                                                                               
-   - [Disabling Steam Overlay](#disabling-steam-overlay)                                                                                                         
-- [GOG Installation and Config](#gog-installation-and-config)                                                                                                      
-   - [Clean Installation (GOG)](#clean-installation-gog)                                                                                                         
-   - [INI Folders (GOG)](#ini-folders-gog)                                                                                                                       
-- [Using Wabbajack](#using-wabbajack)                                                                                                                              
-   - [Preparations](#preparations)                                                                                                                               
-   - [Disabling Base Address Randomization](#disabling-base-address-randomization)                                                                               
-   - [Creating Exclusions](#creating-exclusions)                                                                                                                 
-   - [Downloading and Installing](#downloading-and-installing)                                                                                                   
-   - [Problems with Wabbajack](#problems-with-wabbajack)                                                                                                         
-- [Installing TTW](#installing-ttw)                                                                                                                              
-- [Manually Installed Mods](#manually-installed-mods)                                                                                                            
-   -  [Cyberware 2281](#cyberware-2281)                                                                                                                            
-   -  [The Golden Archive](#the-golden-archive)                                                                                                                    
-   -  [Stash Organizer](#stash-organizer)                                                                                                                          
-   -  [FNV 4GB Patcher](#fnv-4gb-patcher)                                                                                                                          
-- [Post-Installation](#post-installation)                                                                                                                        
--  [Q&A](#qa)                                                                                                                                                     
--  [Where to Ask for Support](#where-to-ask-for-support)                                                                                                          
-   - [Don't Ask on the Wabbajack Server](#dont-ask-on-the-wabbajack-server)                                                                                       
-   - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)                                                                         
-   - [Ask in My Discord Server](#ask-in-my-discord-server)                                                                                                        
--  [Updating](#updating)                                                                                                                                           
--  [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)                                                                                 
--  [Modding Resources](#modding-resources)                                                                                                                         
--  [Credits](#credits)                                                                                                                                              
-
+    - [Reinstallation](#reinstallation)                                                                                                                           
+    - [Steam Library](#steam-library)                                                                                                                             
+    - [Setting the Game language to English](#setting-the-game-language-to-english)                                                                               
+    - [Disabling Steam Overlay](#disabling-steam-overlay)                                                                                                         
+-   [GOG Installation and Config](#gog-installation-and-config)                                                                                                    
+    - [Clean Installation (GOG)](#clean-installation-gog)                                                                                                         
+    - [INI Folders (GOG)](#ini-folders-gog)                                                                                                                       
+-   [Using Wabbajack](#using-wabbajack)                                                                                                                            
+    - [Preparations](#preparations)                                                                                                                               
+    - [Disabling Base Address Randomization](#disabling-base-address-randomization)                                                                               
+    - [Creating Exclusions](#creating-exclusions)                                                                                                                 
+    - [Downloading and Installing](#downloading-and-installing)                                                                                                   
+    - [Problems with Wabbajack](#problems-with-wabbajack)                                                                                                         
+-   [Installing TTW](#installing-ttw)                                                                                                                              
+-   [Manually Installed Mods](#manually-installed-mods)                                                                                                            
+    -  [Cyberware 2281](#cyberware-2281)                                                                                                                           
+    -  [The Golden Archive](#the-golden-archive)                                                                                                                   
+    -  [Stash Organizer](#stash-organizer)                                                                                                                         
+    -  [FNV 4GB Patcher](#fnv-4gb-patcher)                                                                                                                         
+-   [Post-Installation](#post-installation)                                                                                                                        
+-   [Q&A](#qa)                                                                                                                                                     
+-   [Where to Ask for Support](#where-to-ask-for-support)                                                                                                          
+    - [Don't Ask on the Wabbajack Server](#dont-ask-on-the-wabbajack-server)                                                                                       
+    - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)                                                                         
+    - [Ask in My Discord Server](#ask-in-my-discord-server)                                                                                                        
+-   [Updating](#updating)                                                                                                                                          
+-   [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)                                                                                
+-   [Modding Resources](#modding-resources)                                                                                                                        
+-   [Credits](#credits)                                                                                                                                              
 # The Why
 **This segment is entirely optional to read. These are just the events leading up to the creation of Old Old World.**
 
@@ -71,11 +70,6 @@ This is it: the full story. Of course, I had like 14 different modding attempts 
 
 # What is Wabbajack?
 
->[!CAUTION]
->**Trigger Warning:**
->
->Some of the content in Old Old World contains difficult and distressing psychosocial topics, including self-abuse, self-destructive behavior and thought, suicidal ideation, sexual assault, and distressing screams. Proceed with caution.
-
 >[!Important]
 >
 >From here, you cannot skip any segments; they're all in chronological order.
@@ -83,6 +77,10 @@ This is it: the full story. Of course, I had like 14 different modding attempts 
 Wabbajack is an automated mod list installer that works by scanning the [META files](https://wiki.wabbajack.org/modlist_author_documentation/Meta%20Files.html) of MO2 Downloads so that it can download the mods on the user's device without redistributing any assets of said mods. This is needed because in the world of Bethesda modding, no clear permissions have been set for mods, each mod can have radically different permissions. That's why things like modpacks, or modlists, as we call them, didn't come until later down the line.
 
 # Old Old World Features
+>[!CAUTION]
+>**Trigger Warning:**
+>
+>Some of the content in Old Old World contains difficult and distressing psychosocial topics, including self-abuse, self-destructive behavior and thought, suicidal ideation, sexual assault, and distressing screams. Proceed with caution.
 
 - A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
 - Carefully crafted settings for every single mod inclusion.
@@ -495,7 +493,7 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 
 # Modding Resources
 
->[!Note]
+>[!Tip]
 >
 > If you want to install mods on top of this list, these are some good resources to follow.
 
@@ -535,7 +533,7 @@ Once you know and understand the depths and meanings behind these resources, you
 - SpringHeelJon, same story.
 - Lively, same story as Jon and Total.
 - Cangar & Kvitekvist, same story (This is getting old).
-- The Uranium Fever team, because, c'mon, this is seriously getting old.
+- The Uranium Fever team, because... c'mon, this is seriously getting old.
 - Everyone at Scenic Route for the idea to include user comments. (I will include them once the list has actually been played by people).
 - Apoapse for founding Scenic Route Games and being the lead of Librum.
 - Bethesda for the engine and Fallout 3.
