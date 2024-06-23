@@ -337,15 +337,15 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 
 ### Cyberware 2281
 
--   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and click on the mods on the right. You'll then want to name all 3 files with a `[No Delete]` before them, and then once you click on 'OK', then `Replace`.
+-   [Cyberware 2281 and all patches](https://mod.pub/falloutnv/15-cyberware-2281). Go on ModPub and download the mods by pressing the `MO2 Download` button for the main Cyberware 2281 mod, the TTW 3.3 patch, and the B42 Quickthrow Patch. You can then open up MO2 and click on the mods on the right. You'll then want to name all 3 files with a `[No Delete]` before them, and then once you click on `OK`, then `Replace`.
 
 ### The Golden Archive
 
--   [The Golden Archive](https://mod.pub/falloutnv/122/files). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] The Golden Archive', and you then want to click on `OK` then 'Replace'.
+-   [The Golden Archive](https://mod.pub/falloutnv/122/files). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] The Golden Archive`, and you then want to click on `OK` then `Replace`.
 
 ### Stash Organizer
 
--   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] Stash Organizer', and you then want to click on `OK` then 'Replace'.
+-   [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer). Go on ModPub and download the mod by pressing the `MO2 Download` button. You will then find the file on the right; you want to name it `[No Delete] Stash Organizer`, and you then want to click on `OK` then `Replace`.
 
 ### FNV 4GB Patcher
 
