@@ -226,7 +226,7 @@ A [ModPub](https://mod.pub/) account.
 
 ### Clean Installation (Steam)
 
-**If you use GOG, then please skip to the [GOG Config](#gog-config) section of the README.**
+**If you use GOG, then please skip to the [GOG Installation and Config](#gog-installation-and-config) section of the README.**
 
 In order to ensure that your Fallout: New Vegas and Fallout 3 installations are pristine and vanilla, we are going to completely re-install the game. This is especially important if you have modded the game previously, as left-over files might interfere with your installation. If you never modded Fallout: New Vegas and Fallout 3 and/or never installed other Wabbajack lists, you may skip this step. However, I still recommend you verify the game files through Steam in that case.
 
