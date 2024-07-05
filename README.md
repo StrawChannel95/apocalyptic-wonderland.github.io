@@ -452,7 +452,7 @@ A: The list uses profile-specific saving. They are located in the directory wher
 Q: I can't ALT-TAB? It just crashes or freezes.
 
 A: Without going too deep into technicalities, this is intentional when not using DXVK and Flip mode as outlined in the guide. Old Old World's default mode is DX9 
-and Fullscreen, with improved RAM management from the mod NVTF. One of these RAM improvements makes ALT-TABbing impossible in this mode.
+and Fullscreen, with improved RAM management from the mod NVTF. One of these RAM improvements makes ALT-TABing impossible in this mode.
 
 Q: Is "{INSERT MOD NAME HERE}" compatible with the list?
 
