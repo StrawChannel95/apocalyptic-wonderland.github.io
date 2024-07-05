@@ -261,7 +261,7 @@ Open the `Steam Properties` window, navigate to the `Language` tab, and select `
 
 ### Disabling Steam Overlay
 
-- Navigate to your 'steam folder` (the same folder where your steam.exe is).
+- Navigate to your Steam root folder (the same folder where your steam.exe is).
 - Right click `GameOverlayRenderer.dll` and open properties.
 - Open the `security tab` and click `edit`.
 - Click the `Deny` option under `Read & Execute` for every user.
