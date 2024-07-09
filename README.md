@@ -324,7 +324,7 @@ The download and installation process can take a very long time, depending on yo
 
 ### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. If you do not see an installation failure warning, do not worry about it. If you feel like Wabbajack is stuck or a download is hanging, just restart Wabbajack; it will pick up from exactly where you left off. Please rerun Wabbajack at least twice and try to manually download the file from Nexus first before posting about a failed download. Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Installation](#installation) section; if you own it on GOG, go back to the [GOG Config](#gog-config) section.
+There are a lot of different scenarios where Wabbajack will produce an error. If you do not see an installation failure warning, do not worry about it. If you feel like Wabbajack is stuck or a download is hanging, just restart Wabbajack; it will pick up from exactly where you left off. Please rerun Wabbajack at least twice and try to manually download the file from Nexus first before posting about a failed download. Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Installation](#steam-config) section; if you own it on GOG, go back to the [GOG Config and Installation](#gog-config-and-installation) section.
 
 # Installing TTW
 
