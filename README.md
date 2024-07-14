@@ -33,13 +33,13 @@
     - [INI Folders (GOG)](#ini-folders-gog)                                                                                                                       
 -   [Using Wabbajack](#using-wabbajack)                                                                                                                            
     - [Preparations](#preparations)                                                                                                                               
-      - [Disabling Base Address Randomization](#disabling-base-address-randomization)                                                                              
-      - [Creating Exclusions](#creating-exclusions)                                                                                                                
-      - [Downloading and Installing](#downloading-and-installing)                                                                                                  
-      - [Problems with Wabbajack](#problems-with-wabbajack)                                                                                                        
--   [Installing TTW](#installing-ttw)                                                                                                                              
--   [Manually Installed Mods](#manually-installed-mods)                                                                                                            
-    -  [Cyberware 2281](#cyberware-2281)                                                                                                                           
+      - [Disabling Base Address Randomization](#disabling-base-address-randomization)
+      - [Creating Exclusions](#creating-exclusions)
+    - [Downloading and Installing](#downloading-and-installing)
+      - [Problems with Wabbajack](#problems-with-wabbajack)
+-   [Installing TTW](#installing-ttw)
+-   [Manually Installed Mods](#manually-installed-mods)
+    -  [Cyberware 2281](#cyberware-2281)
     -  [The Golden Archive](#the-golden-archive)                                                                                                                   
     -  [Stash Organizer](#stash-organizer)                                                                                                                         
     -  [FNV 4GB Patcher](#fnv-4gb-patcher)                                                                                                                         
@@ -296,14 +296,14 @@ More Fallout-related files are located inside the so-called `INI folder`, which 
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in X:\Wabbajack.
 
-### Disabling Base Address Randomization
+#### Disabling Base Address Randomization
 
 - Open `Windows Security` from the `Start Menu`.
 - Open `App & Browser Control` in the left sidebar.
 - Open `Exploit Protection Settings` under `Exploit Protection`.
 - Set `Force Randomization for Images (Mandatory ASLR`) to `Use Default (Off)`.
 
-### Creating Exclusions
+#### Creating Exclusions
 
 - Open `Windows Security`.
 - Open `Virus & Threat Protection`.
@@ -362,7 +362,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 >
 > Special K is the recommended option for NVIDIA graphics card users. RTSS is not able to configure flip and interop appropriately, which causes a large amount of memory related crashes. AMD graphics card users **WILL NOT** be able to launch the game if following this section instead of the following [RTSS section](#rivatuner-statistics-server-rtss)
 
-### RivaTuner Statistics Server (RTSS)
+#### RivaTuner Statistics Server (RTSS)
 
 - Install and launch [RTTS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download).
 - Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
@@ -375,7 +375,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 - Optionally enable `On-Screen Display Support` and use the `X,Y Coordinate Buttons` at the bottom to adjust On-Screen FPS display location.
 - Minimize RTSS back to the System Tray.
 
-### Special K
+#### Special K
 
 - Navigate to the NVIDIA app settings and `turn off NVIDIA overlay`, as the overlay will cause a black screen if used alongside Special K.
 - Download the [Special K](https://sk-data.special-k.info/SpecialK.7z) program.
