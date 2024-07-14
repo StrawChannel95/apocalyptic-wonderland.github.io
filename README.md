@@ -383,7 +383,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 - Open the SpecialK folder.
 - Rename `SpecialK32.dll` to `dinput8.dll`.
 - Move the newly renamed `dinput8.dll` into the `Root` folder.
-- Download the [Viva New Vegas Preconfigured Settings Archive](https://performance.moddinglinked.com/files/sk.zip)
+- Download the [Viva New Vegas Preconfigured Settings Archive](https://performance.moddinglinked.com/files/sk.zip).
 - Extract the newly downloaded `SK.zip` into the `Root` folder.
 - Launch Old Old World.
 - Select `Yes` when prompted to enable DXVK support/vulkan bridge, then relaunch the game.
