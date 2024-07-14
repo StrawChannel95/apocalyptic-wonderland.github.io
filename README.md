@@ -2,7 +2,6 @@
 
 # <p align=center>**Old Old World**</p>
  
-
 -   [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list)
 -   [What is Wabbajack](#what-is-wabbajack) 
 -   [Old Old World Features](#old-old-world-features)                                                                                                              
@@ -26,25 +25,28 @@
     - [INI Folders (Steam)](#ini-folders-steam)                                                                                                                   
 -   [Steam Config](#steam-config)                                                                                                                                  
     - [Reinstallation](#reinstallation)                                                                                                                           
-    - [Steam Library](#steam-library)                                                                                                                             
-    - [Setting the Game language to English](#setting-the-game-language-to-english)                                                                               
-    - [Disabling Steam Overlay](#disabling-steam-overlay)                                                                                                         
+      - [Steam Library](#steam-library)                                                                                                                            
+      - [Setting the Game language to English](#setting-the-game-language-to-english)                                                                              
+      - [Disabling Steam Overlay](#disabling-steam-overlay)                                                                                                        
 -   [GOG Installation and Config](#gog-installation-and-config)                                                                                                    
     - [Clean Installation (GOG)](#clean-installation-gog)                                                                                                         
     - [INI Folders (GOG)](#ini-folders-gog)                                                                                                                       
 -   [Using Wabbajack](#using-wabbajack)                                                                                                                            
     - [Preparations](#preparations)                                                                                                                               
-    - [Disabling Base Address Randomization](#disabling-base-address-randomization)                                                                               
-    - [Creating Exclusions](#creating-exclusions)                                                                                                                 
-    - [Downloading and Installing](#downloading-and-installing)                                                                                                   
-    - [Problems with Wabbajack](#problems-with-wabbajack)                                                                                                         
+      - [Disabling Base Address Randomization](#disabling-base-address-randomization)                                                                              
+      - [Creating Exclusions](#creating-exclusions)                                                                                                                
+      - [Downloading and Installing](#downloading-and-installing)                                                                                                  
+      - [Problems with Wabbajack](#problems-with-wabbajack)                                                                                                        
 -   [Installing TTW](#installing-ttw)                                                                                                                              
 -   [Manually Installed Mods](#manually-installed-mods)                                                                                                            
     -  [Cyberware 2281](#cyberware-2281)                                                                                                                           
     -  [The Golden Archive](#the-golden-archive)                                                                                                                   
     -  [Stash Organizer](#stash-organizer)                                                                                                                         
     -  [FNV 4GB Patcher](#fnv-4gb-patcher)                                                                                                                         
--   [Post-Installation](#post-installation)                                                                                                                        
+-   [Post-Installation](#post-installation)
+    - [Capping FPS](#capping-fps)
+      - [RivaTuner Statistics Server (RTTS)](#rivatuner-statistics-server-rtss)                                                                                    
+      - [Special K](#special-k)                           
 -   [Q&A](#qa)                                                                                                                                                     
 -   [Where to Ask for Support](#where-to-ask-for-support)                                                                                                          
     - [Don't Ask on the Wabbajack Server](#dont-ask-on-the-wabbajack-server)                                                                                       
@@ -55,6 +57,7 @@
 -   [Modding Resources](#modding-resources)                                                                                                                        
 -   [Credits](#credits)                                                                                                                                              
 # The Why
+
 **This segment is entirely optional to read. These are just the events leading up to the creation of Old Old World.**
 
 I was addicted to seeing New Vegas and TTW modding videos on YouTube. I loved creators such as [Mutant Mods](https://www.youtube.com/@Mutant_Mods/), [Mortyyyy](https://www.youtube.com/@Mortyyyy01) and [DarkPopulous](https://www.youtube.com/@Darkpopulous). I saw their modded setups and admired them. I thought to myself, "Can't I make a modlist that takes all the best parts from their load orders?" 
@@ -66,8 +69,6 @@ Now, one Reddit user known as [xBlue69](https://www.reddit.com/user/xblue555x/) 
 I didn't know [Stock Game](https://wiki.wabbajack.org/modlist_author_documentation/Keeping%20the%20Game%20Folder%20clean.html#stock-game), [Rootbuilder](https://wiki.wabbajack.org/modlist_author_documentation/Keeping%20the%20Game%20Folder%20clean.html#rootbuilder) and so many other things. They set me on the right path, and I continued. I eventually found Salamand3r's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) guide, which then led me to the [Wasteland Survival Guide](https://wastelandsurvivalguide.github.io/). This guide is the [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html) of TTW modding. Amazing. I love it. I used it, and then I came back for the texture guide. After that, I began browsing [Additions](https://wastelandsurvivalguide.github.io/docs/additions), adding mods as I went. I then added [STARS](https://wastelandsurvivalguide.github.io/docs/stars), downloaded a LOT of extra mods, merged like 25 ESPs using [zEdit](https://github.com/z-edit/zedit/releases), and finally generated some LOD using [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-114-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/). That was the last piece of the puzzle. I was ready to make a list. Of course, I still had to setup this README and my [Discord server](https://discord.gg/ez3dsBub8Q) before I published it, so I had to wait a little longer. In the meantime, I made some patches using [xEdit](https://www.nexusmods.com/newvegas/mods/34703) by following [Biggie Boss'](https://www.youtube.com/@biggie_boss) guide on patching ESPs (love you, Biggie!).
 
 This is it: the full story. Of course, I had like 14 different modding attempts that all failed, but we don't remember those.
-
-
 
 # What is Wabbajack?
 
@@ -354,7 +355,45 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 
 # Post-Installation
 
-Select the Old Old World option from the dropdown menu and launch the game. If everything works, congratulations! You can now play the list; if you can't, then head into the [Q&A](#qa) section.
+### Capping FPS
+
+> [!Important]
+> RTSS is the recommended option for AMD graphics card users. Special K lacks compatibility with the combination of AMD graphics cards and DXVK. NVIDIA graphics card users **WILL** have memory related crashes if following this section instead of the [Special K section](#special-k).
+>
+> Special K is the recommended option for NVIDIA graphics card users. RTSS is not able to configure flip and interop appropriately, which causes a large amount of memory related crashes. AMD graphics card users **WILL NOT** be able to launch the game if following this section instead of the following [RTSS section](#rivatuner-statistics-server-rtss)
+
+### RivaTuner Statistics Server (RTSS)
+
+- Install and launch [RTTS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download).
+- Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
+- Press the green `Add` button and select `FalloutNV.exe` from the `Root` folder.
+- Set `Application Detection Level` to `Low`.
+- Set `Framerate Limit` to `59.95`.
+- Enter settings using the `Setup` button.
+- Scroll down and enable `Passive Waiting`.
+- Set `Framerate Limiter` to `Front Edge Sync`.
+- Optionally enable `On-Screen Display Support` and use the `X,Y Coordinate Buttons` at the bottom to adjust On-Screen FPS display location.
+- Minimize RTSS back to the System Tray.
+
+### Special K
+
+- Navigate to the NVIDIA app settings and `turn off NVIDIA overlay`, as the overlay will cause a black screen if used alongside Special K.
+- Download the [Special K](https://sk-data.special-k.info/SpecialK.7z) program.
+- Extract the downloaded archive into your downloads folder.
+- Open the SpecialK folder.
+- Rename `SpecialK32.dll` to `dinput8.dll`.
+- Move the newly renamed `dinput8.dll` into the `Root` folder.
+- Download the [Viva New Vegas Preconfigured Settings Archive](https://performance.moddinglinked.com/files/sk.zip)
+- Extract the newly downloaded `SK.zip` into the `Root` folder.
+- Launch Old Old World.
+- Select `Yes` when prompted to enable DXVK support/vulkan bridge, then relaunch the game.
+- Press `Ctrl + Shift + Backspace` to enter the `Special K Control Panel`.
+- Under the `Framerate Limiter`, click the `Enable Framerate Limit` checkbox.
+- Right click the bar next to Framerate Limit (the one that specifies FPS and says `(Limit Engaged)`, NOT the graph).
+- Select your monitors refresh rate.
+- Click `Advanced` and select `Latent Sync (VSYNC -off-) mode`.
+- Double Left Click on the bar and type in 59.995, and press `enter`.
+- For instructions on configuring Latent Sync, enabling V-Sync or Variable Refresh Rate, please reference the [Special K section of Wall's Performance Guide](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters), though this is beyond the scope of Old Old World's configuration.
 
 # Q&A
 
