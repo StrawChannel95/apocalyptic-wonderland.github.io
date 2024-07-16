@@ -464,8 +464,7 @@ A: Modpub does not allow automated Wabbajack downloading.
 
 Q: Can I keep my own modded setup if I play Old Old World?                                                                                                         
 
-A: Yes. Old Old World is entirely self-contained through the use of MO2. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, 
-and all DLCs), the installation will still work and will not interfere with your other modded setup as long as you run both Mod Organizers separately.             
+A: Yes. Old Old World is entirely self-contained through the use of MO2 Profiles. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs), the installation will still work and will not interfere with your other modded setup as long as you run the Old Old World profile and other separately.             
 
 Q: Doesn't Ragdolls cause crashes?                                                                                                                                 
 
