@@ -192,7 +192,7 @@ My specs are the following:
 - 256GB of DDR5.
 - TTW running on an SSD.
 
-I capped the FPS to 60 using the [Special K](https://www.special-k.info/) program (I don't use any of its other features), and the game is very smooth with minimal crashes. Again, if you want to increase performance, please ask in the support channel, and I personally will not be able to help you.
+If you want to increase performance, please ask in the support channel, and I personally will not be able to help you.
 
 ### Steam/GOG Requirements
 
