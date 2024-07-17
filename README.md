@@ -217,6 +217,8 @@ A [ModPub](https://mod.pub/) account.
 
 [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.302-windows-x64-installer).
 
+The latest driver versions for your GPU ([NVIDIA](https://www.nvidia.com/download/index.aspx), [Intel](https://www.intel.com/content/www/us/en/search.html#sort=relevancy&f:downloadtype=[Drivers]&f:@tabfilter=[Downloads]&f:@stm_10385_en=[Graphics]), [AMD](https://www.amd.com/en/support/download/drivers.html)).
+
 # Installation
 
 ### File Path Setup
