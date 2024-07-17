@@ -226,7 +226,6 @@ The latest driver versions for your GPU ([NVIDIA](https://www.nvidia.com/downloa
 - Create a folder named `Modding`, then open it.
 - Create a folder named `Wabbajack`.
 - Create another folder named `Old Old World` then open it.
-- Create a folder named `downloads`.
 
 ### Generating INI Files
 
@@ -598,3 +597,104 @@ Once you know and understand the depths and meanings behind these resources, you
 - And so many others that I just couldn't list even if I tried. Don't forget to endorse these mod authors; they deserve it.
 
 I wish you all a happy nuclear wasteland.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FUCK YOU, SINITAR.
