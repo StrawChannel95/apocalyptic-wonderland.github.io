@@ -20,7 +20,7 @@
     - [Site Requirements](#site-requirements)                                                                                                            
     - [Extra Requirements](#extra-requirements)                                                                                                                   
 -   [Installation](#installation)                                                                                                                                  
-    - [File Path Setup](#file-path-setup)                                                                                                                         
+    - [File Path Setup](#file-path-setup)                                                                                                                        
     - [Clean Installation (Steam)](#clean-installation-steam)                                                                                                     
     - [INI Folders (Steam)](#ini-folders-steam)                                                                                                                   
 -   [Steam Config](#steam-config)                                                                                                                                  
@@ -46,7 +46,8 @@
 -   [Post-Installation](#post-installation)
     - [Capping FPS](#capping-fps)
       - [RivaTuner Statistics Server (RTTS)](#rivatuner-statistics-server-rtss)                                                                                    
-      - [Special K](#special-k)                           
+      - [Special K](#special-k)
+    - [Generating INI Files](#generating-ini-files)                          
 -   [Q&A](#qa)                                                                                                                                                     
 -   [Where to Ask for Support](#where-to-ask-for-support)                                                                                                          
     - [Don't Ask on the Wabbajack Server](#dont-ask-on-the-wabbajack-server)                                                                                       
@@ -394,6 +395,15 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 - Click `Advanced` and select `Latent Sync (VSYNC -off-) mode`.
 - Double Left Click on the bar and type in 59.995, and press `enter`.
 - For instructions on configuring Latent Sync, enabling V-Sync or Variable Refresh Rate, please reference the [Special K section of Wall's Performance Guide](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters), though this is beyond the scope of Old Old World's configuration.
+
+### Generating INI Files
+
+- Launch Fallout: New Vegas from Steam/GOG.
+- Click `OK` when prompted with `Detecting Video Hardware`.
+- Close the launcher.
+- Launch Fallout 3 from Steam/GOG.
+- Click `OK` when prompted with `Detecting Video Hardware`.
+- Close the launcher.
 
 # Q&A
 
