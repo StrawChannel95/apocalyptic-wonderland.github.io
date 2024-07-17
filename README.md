@@ -201,7 +201,7 @@ A legal copy of Fallout 3 with all DLCs from either [Steam](https://store.steamp
 
 A legal copy of Fallout: New Vegas with all DLCs from either [Steam](https://store.steampowered.com/sub/13435/) or [GOG](https://www.gog.com/en/game/fallout_new_vegas_ultimate_edition).
 
-**(I cannot provide support for any other version, the Cut German version and the Epic Games version can be used provided you install [DepotDownloader](https://github.com/SteamRE/DepotDownloader) to get the international executable for the German version, and the [Epic Games Patcher](https://www.nexusmods.com/newvegas/mods/81281) for the Epic Games version, the PCR, Micrososft Store and Gamepass versions are completely unsupported)**
+**(I cannot provide support for any other version, the Cut German version and the Epic Games version can be used provided you install [DepotDownloader](https://github.com/SteamRE/DepotDownloader) to get the international executable for the German version, and the [Epic Games Patcher](https://www.nexusmods.com/newvegas/mods/81281) for the Epic Games version, the PCR, Microsoft Store and Gamepass versions are completely unsupported)**
 
 ### Site Requirements
 
