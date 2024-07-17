@@ -528,7 +528,7 @@ If this Old Old World receives an update, please check the Changelog before doin
 
 Old Old World updates are based on a [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning) system.
 
-Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+Updating is like installing. You only have to make sure that you select the same path and tick the `overwrite existing Modlist` button.
 
 Generally speaking: 
 - Full x.0 (2.0, 3.0, etc) updates require a new game.  
