@@ -106,7 +106,7 @@ Wabbajack is an automated mod list installer that works by scanning the [META fi
 - Simple Subtle Camera Shake: Adds subtle yet immersive camera responsiveness to injuries.
 
 ### Balance
-- Sweets Simple Settings: Adjusts various gameplay settings to promote a more difficult, hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
+- Sweet's Simple Settings: Adjusts various gameplay settings to promote a more difficult, hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
 - Harder Barter Faster Stronger (Sicko Mode): Rebalances the economy around the barter skill, functionally creating a much more punishing economy.
 - Bullet Time: Utilized in Old Old World to completely supplant VATS, Bullet Time is a robust, AP based, time-scaling function with an emphasis on careful player aim and thoughtful decision-making.
 - ADO (Armor Damage Overhaul) replaces the nonsensical base game armor degradation system with a design that is highly customizable and markedly more intuitive.
