@@ -170,7 +170,6 @@ Wabbajack is an automated mod list installer that works by scanning the [META fi
 - 3rd Person Camera Overhaul: Adds modernized camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed-out customizable camera positioning.
 - Armed to the Teeth Redux: Allows the player to holster 4 weapons on their body at once.
 - Titans of the New West 2.0: A complete reimagining and retexturing of power armor to achieve a much more heavy and imposing aesthetic. Also including many new features, animations, and sound effects.
-- B42 Optics seamlessly adds dual-render scopes into the game.
 - B42 True Learning: Adds contextual lean when aiming out from corners.
 - Enhanced Movement: A complete movement overhaul and expansion, featuring bug fixes, diagonal movement, enhanced sprinting, enhanced sneaking, an animated prone framework, and new animations.
 - Modern Stagger Animations: A complete replacement for stagger animations made via motion capture. Greatly enhances the flow of combat.
