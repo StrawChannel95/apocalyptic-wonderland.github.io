@@ -540,6 +540,10 @@ When updating, any additional mods you have installed on top of Old Old World wi
 
 If you wish for Wabbajack to ignore any additional mods you've installed, rename them to say `[NoDelete]` at the beginning of the name.
 
+# How to Submit Bug Reports and/or Feature Requests
+
+Head over to [this](https://github.com/StrawChannel95/Old-Old-World/tree/main/.github/ISSUE_TEMPLATE) section of the Old Old World Github and you'll find a template for both feature requests and bug reports, you can also just ask on Discord.
+
 # Modding Resources
 
 >[!Tip]
