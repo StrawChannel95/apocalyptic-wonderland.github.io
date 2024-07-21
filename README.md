@@ -54,7 +54,8 @@
     - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)                                                                         
     - [Ask in My Discord Server](#ask-in-my-discord-server)                                                                                                        
 -   [Updating](#updating)                                                                                                                                          
--   [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)                                                                                
+-   [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
+-   [How to Submit Bug Reports and/or Feature Requests](#how-to-submit-bug-reports-andor-feature-requests)                                                                              
 -   [Modding Resources](#modding-resources)                                                                                                                        
 -   [Credits](#credits)                                                                                                                                              
 # The Why
