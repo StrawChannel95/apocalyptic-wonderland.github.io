@@ -263,7 +263,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 > [!Important]
 > RTSS is the recommended option for AMD graphics card users. Special K lacks compatibility with the combination of AMD graphics cards and DXVK. NVIDIA graphics card users **WILL** have memory related crashes if following this section instead of the [Special K section](#special-k).
 >
-> Special K is the recommended option for NVIDIA graphics card users. RTSS is not able to configure flip and interop appropriately, which causes a large amount of memory related crashes. AMD graphics card users **WILL NOT** be able to launch the game if following this section instead of the following [RTSS section](#rivatuner-statistics-server-rtss)
+> Special K is the recommended option for NVIDIA graphics card users. RTSS is not able to configure flip and interop appropriately, which causes a large amount of memory related crashes. AMD graphics card users **WILL NOT** be able to launch the game if following this section instead of the following [RTSS section](#rivatuner-statistics-server-rtss).
 
 #### RivaTuner Statistics Server (RTSS)
 
