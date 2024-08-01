@@ -11,7 +11,7 @@
     - [Extra Requirements](#extra-requirements)                                                                                                                   
 -   [Installation](#installation)                                                                                                                                  
     - [File Path Setup](#file-path-setup)
-    - [Generating INI Files](#generating-ini-files)                                                                                                                      
+    - [Generating INI Files](#generating-ini-files)                                                                                                                
     - [Clean Installation (Steam)](#clean-installation-steam)                                                                                                     
     - [INI Folders (Steam)](#ini-folders-steam)                                                                                                                   
 -   [Steam Config](#steam-config)                                                                                                                                  
@@ -478,7 +478,7 @@ Once you know and understand the depths and meanings behind these resources, you
 - SpringHeelJon, same story.
 - Lively, same story as Jon and Total.
 - Cangar & Kvitekvist, same story (This is getting old).
-- The Uranium Fever team, because... c'mon, this is seriously getting old.
+- The Uranium Fever team for providing some of their own custom patches. (Thanks Kam!)
 - Everyone at Scenic Route for the idea to include user comments. (I will include them once the list has actually been played by people).
 - Apoapse for founding Scenic Route Games and being the lead of Librum.
 - Bethesda for the engine and Fallout 3.
