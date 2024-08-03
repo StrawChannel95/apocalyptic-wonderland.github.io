@@ -41,9 +41,6 @@
 -   [Q&A](#qa)                                                                                                                                                     
 -   [Important Info](#important-info)
     - [Where to Ask for Support](#where-to-ask-for-support)                                                                                                           
-      - [Don't Ask on the Wabbajack Server](#dont-ask-on-the-wabbajack-server)                                                                                       
-      - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)                                                                         
-      - [Ask in My Discord Server](#ask-in-my-discord-server)-   
     - [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
     - [How to Submit Bug Reports and/or Feature Requests](#how-to-submit-bug-reports-andor-feature-requests)                                                                              
     - [Adding Extra Mods](#adding-extra-mods)                                                                                                                        
@@ -396,17 +393,11 @@ consistency, then absolutely.
 
 ## Where to Ask for Support
 
-### Don't Ask on the Wabbajack Server
+Don't ask on the Wabbajack server, they cannot help you; they will tell you to head over and ask the modlist author (me).
 
-They cannot help you; they will tell you to head over and ask the modlist author (me).
+Don't DM me or anyone else regarding the list, Ask in the support channels; more people see it, and it makes my life easier.
 
-### Don't DM Me or Anyone Regarding the List
-
-Ask in the support channels; more people see it, and it makes my life easier.
-
-### Ask in My Discord Server
-
-Here is the [link](https://discord.gg/ez3dsBub8Q) (there is also one in [The Why](#the-why) section and another one in the [Q&A](#qa) section).
+Please ask in my Discord server, here is the [link](https://discord.gg/ez3dsBub8Q) (there is also one in [The Why](#the-why) section and another one in the [Q&A](#qa) section).
 
 ## How to Keep Extra Mods After Updating
 
@@ -444,8 +435,6 @@ Generally speaking: 
 - Full x.0 (2.0, 3.0, etc) updates require a new game.  
 - Major x.x (2.1, 2.2, etc) updates require a new game.  
 - Minor x.x.x (2.1.1, 2.1.2) updates can be applied to an ongoing playthrough.
-
-
 
 Once you know and understand the depths and meanings behind these resources, you can start modding the list. Or you can ignore my advice and have a broken game because you forgot to patch something—your choice.
 
