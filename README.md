@@ -1,6 +1,6 @@
 <p align=center>StrawChannel95 is proud to present:</p>
 
-# <p align=center>**Old Old World**</p>
+# <p align=center>**Apocalyptic Wonderland**</p>
  
 -   [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list)
 -   [What is Wabbajack](#what-is-wabbajack)                                                                                                                
@@ -118,7 +118,7 @@ The latest driver versions for your GPU ([NVIDIA](https://www.nvidia.com/downloa
 - Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
 - Create a folder named `Modding`, then open it.
 - Create a folder named `Wabbajack`.
-- Create another folder named `Old Old World` then open it.
+- Create another folder named `Apocalyptic Wonderland` then open it.
 
 ### Generating INI Files
 
@@ -218,7 +218,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 ### Downloading and Installing
 
-The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest number of threads and, thus, the fastest speed, it is advised to have the working folder on an SSD. You can have the Old Old World and Downloads folders on separate drives without issue, aside from being limited by the slowest drive during Wabbajack installation. Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated, regardless of your account status.
+The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest number of threads and, thus, the fastest speed, it is advised to have the working folder on an SSD. You can have the Apocalyptic Wonderland and Downloads folders on separate drives without issue, aside from being limited by the slowest drive during Wabbajack installation. Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated, regardless of your account status.
 
 -  Open Wabbajack.
 -  Load the Modlist from Disk.
@@ -232,7 +232,6 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 
 # Installing TTW
 
--   Now, after the list is fully installed, you want to create a mod in MO2 called `[No Delete] Tale of Two Wastelands` by right-clicking, hovering over the `All Mods` prompt, and then pressing on `Create empty mod inside`, and then you should name it `[No Delete] Tale of Two Wastelands`.
 -   You then want to head over to [ModPub](https://mod.pub/) and download the [TTW 3.3.2 Installer](https://mod.pub/ttw/133-tale-of-two-wastelands).
 -   Extract the downloaded archive to a folder of your choosing.
 -   You then want to run the installer as Administrator and set the path to both Fallout 3 and New Vegas, you then want to se the installation folder as the empty mod called `[No Delete] Tale of Two Wastelands`. You can find it by heading to where you installed MO2, going to the `mods` file, and finally going to the file named `[No Delete] Tale of Two Wastelands`, you then want to double-click while hovering the file and you want to copy the file path at the top.
@@ -296,7 +295,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 - Select your monitors refresh rate.
 - Click `Advanced` and select `Latent Sync (VSYNC -off-) mode`.
 - Double Left Click on the bar and type in 59.995, and press `enter`.
-- For instructions on configuring Latent Sync, enabling V-Sync or Variable Refresh Rate, please reference the [Special K section of Wall's Performance Guide](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters), though this is beyond the scope of Old Old World's configuration.
+- For instructions on configuring Latent Sync, enabling V-Sync or Variable Refresh Rate, please reference the [Special K section of Wall's Performance Guide](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters), though this is beyond the scope of Apocalyptic Wonderland's configuration.
 
 # Q&A
 
@@ -311,15 +310,6 @@ A: The list requires you to download and install TTW separately. Reread the [Ins
 Q: Why are the DLCs so different?
 
 A: I felt that the mods made the DLCs better and more enjoyable while still not taking away anything from the vanilla aesthetic.
-
-Q: The intro of Fallout 3 is weird!
-
-A: I know there is minor clipping, and the cart that holds you doesn't move. I will try finding a fix. Also, TTW Quickstart is enabled, so you should not be able 
-to see this.
-
-Q: The white screens that say "X Years Later" are not there.
-
-A: I know, another thing I'll have to fix. Also, TTW Quickstart is enabled by default, so you just disabled it. Yes, if you ask this question on Discord, I'll not respond.
 
 Q: Are your DMs open?
 
@@ -416,9 +406,9 @@ Here is the [link](https://discord.gg/ez3dsBub8Q) (there is also one in [The Why
 
 # Updating
 
-If this Old Old World receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
+If Apocalyptic Wonderland receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
-Old Old World updates are based on a [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning) system.
+Apocalyptic Wonderland's updates are based on a [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning) system.
 
 Updating is like installing. You only have to make sure that you select the same path and tick the `overwrite existing Modlist` button.
 
@@ -429,13 +419,13 @@ Generally speaking: 
 
 # How to Keep Extra Mods After Updating
 
-When updating, any additional mods you have installed on top of Old Old World will be deleted. Your downloads folder will not be touched!
+When updating, any additional mods you have installed on top of Apocalyptic Wonderland will be deleted. Your downloads folder will not be touched!
 
 If you wish for Wabbajack to ignore any additional mods you've installed, rename them to say `[NoDelete]` at the beginning of the name.
 
 # How to Submit Bug Reports and/or Feature Requests
 
-Head over to [this](https://github.com/StrawChannel95/Old-Old-World/tree/main/.github/ISSUE_TEMPLATE) section of the Old Old World Github and you'll find a template for both feature requests and bug reports, you can also just ask on Discord.
+Head over to [this](https://github.com/StrawChannel95/Old-Old-World/tree/main/.github/ISSUE_TEMPLATE) section of the Apocalyptic Wonderland Github and you'll find a template for both feature requests and bug reports, you can also just ask on Discord.
 
 # Modding Resources
 
