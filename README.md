@@ -292,7 +292,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 - Select `Yes` when prompted to enable DXVK support/vulkan bridge, then relaunch the game.
 - Press `Ctrl + Shift + Backspace` to enter the `Special K Control Panel`.
 - Under the `Framerate Limiter`, click the `Enable Framerate Limit` checkbox.
-- Right click the bar next to Framerate Limit (the one that specifies FPS and says `(Limit Engaged)`, NOT the graph).
+- Right click the bar next to Framerate Limit (the one that specifies FPS and says `(Limit Engaged)`, not the graph).
 - Select your monitors refresh rate.
 - Click `Advanced` and select `Latent Sync (VSYNC -off-) mode`.
 - Double Left Click on the bar and type in 59.995, and press `enter`.
