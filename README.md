@@ -47,8 +47,8 @@
     - [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
     - [How to Submit Bug Reports and/or Feature Requests](#how-to-submit-bug-reports-andor-feature-requests)                                                                              
     - [Adding Extra Mods](#adding-extra-mods)                                                                                                                        
--   [Credits](#credits)                                                                                                         
--   [Updating](#updating)                                                                                                                                          
+-   [Updating](#updating)
+-   [Credits](#credits)                                                                                                                                          
                                                                                                                                              
 # The Why
 
