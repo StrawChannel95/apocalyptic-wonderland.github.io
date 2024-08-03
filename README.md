@@ -390,7 +390,9 @@ Q: Is "{INSERT MOD NAME HERE}" compatible with the list?
 A: Short answer. If you have to ask, then no. Long answer: If you know your way around XEdit and can see what I have done in regards to patching the list for 
 consistency, then absolutely.
 
-# Where to Ask for Support
+# Important Info
+
+## Where to Ask for Support
 
 ### Don't Ask on the Wabbajack Server
 
@@ -403,6 +405,30 @@ Ask in the support channels; more people see it, and it makes my life easier.
 ### Ask in My Discord Server
 
 Here is the [link](https://discord.gg/ez3dsBub8Q) (there is also one in [The Why](#the-why) section and another one in the [Q&A](#qa) section).
+
+## How to Keep Extra Mods After Updating
+
+When updating, any additional mods you have installed on top of Apocalyptic Wonderland will be deleted. Your downloads folder will not be touched!
+
+If you wish for Wabbajack to ignore any additional mods you've installed, rename them to say `[NoDelete]` at the beginning of the name.
+
+## How to Submit Bug Reports and/or Feature Requests
+
+Head over to [this](https://github.com/StrawChannel95/Old-Old-World/tree/main/.github/ISSUE_TEMPLATE) section of the Apocalyptic Wonderland Github and you'll find a template for both feature requests and bug reports, you can also just ask on Discord.
+
+# Adding Extra Mods
+
+>[!Tip]
+>
+> Adding extra mods is completely unsupported, however, if you wish to install mods on top of this list, these are some good resources to follow.
+
+-   [Wabbajack Wiki](https://wiki.wabbajack.org/index.html)
+-   [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html)
+-   [The Best of Times](https://thebestoftimes.moddinglinked.com/index.html)
+-   [Wasteland Survival Guide](https://wastelandsurvivalguide.github.io/)
+-   [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal)
+-   [The Basics of xEdit](https://moddinglinked.com/xedit.html)
+-   [The Method](https://moddinglinked.com/themethod.html)
 
 # Updating
 
@@ -417,29 +443,7 @@ Generally speaking: 
 - Major x.x (2.1, 2.2, etc) updates require a new game.  
 - Minor x.x.x (2.1.1, 2.1.2) updates can be applied to an ongoing playthrough.
 
-# How to Keep Extra Mods After Updating
 
-When updating, any additional mods you have installed on top of Apocalyptic Wonderland will be deleted. Your downloads folder will not be touched!
-
-If you wish for Wabbajack to ignore any additional mods you've installed, rename them to say `[NoDelete]` at the beginning of the name.
-
-# How to Submit Bug Reports and/or Feature Requests
-
-Head over to [this](https://github.com/StrawChannel95/Old-Old-World/tree/main/.github/ISSUE_TEMPLATE) section of the Apocalyptic Wonderland Github and you'll find a template for both feature requests and bug reports, you can also just ask on Discord.
-
-# Modding Resources
-
->[!Tip]
->
-> If you want to install mods on top of this list, these are some good resources to follow.
-
--   [Wabbajack Wiki](https://wiki.wabbajack.org/index.html)
--   [Viva New Vegas](https://vivanewvegas.moddinglinked.com/index.html)
--   [The Best of Times](https://thebestoftimes.moddinglinked.com/index.html)
--   [Wasteland Survival Guide](https://wastelandsurvivalguide.github.io/)
--   [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal)
--   [The Basics of xEdit](https://moddinglinked.com/xedit.html)
--   [The Method](https://moddinglinked.com/themethod.html)
 
 Once you know and understand the depths and meanings behind these resources, you can start modding the list. Or you can ignore my advice and have a broken game because you forgot to patch something—your choice.
 
