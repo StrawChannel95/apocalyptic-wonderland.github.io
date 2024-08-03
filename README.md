@@ -52,7 +52,7 @@
                                                                                                                                              
 # The Why
 
-**This segment is entirely optional to read. These are just the events leading up to the creation of Old Old World.**
+**This segment is entirely optional to read. These are just the events leading up to the creation of Apocalyptic Wonderland.**
 
 I was addicted to seeing New Vegas and TTW modding videos on YouTube. I loved creators such as [Mutant Mods](https://www.youtube.com/@Mutant_Mods/), [Mortyyyy](https://www.youtube.com/@Mortyyyy01) and [DarkPopulous](https://www.youtube.com/@Darkpopulous). I saw their modded setups and admired them. I thought to myself, "Can't I make a modlist that takes all the best parts from their load orders?" 
 
