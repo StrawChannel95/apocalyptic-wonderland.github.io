@@ -39,15 +39,17 @@
       - [RivaTuner Statistics Server (RTTS)](#rivatuner-statistics-server-rtss)                                                                                    
       - [Special K](#special-k)                          
 -   [Q&A](#qa)                                                                                                                                                     
--   [Where to Ask for Support](#where-to-ask-for-support)                                                                                                          
-    - [Don't Ask on the Wabbajack Server](#dont-ask-on-the-wabbajack-server)                                                                                       
-    - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)                                                                         
-    - [Ask in My Discord Server](#ask-in-my-discord-server)                                                                                                        
+-   [Important Info](#important-info)
+    - [Where to Ask for Support](#where-to-ask-for-support)                                                                                                           
+      - [Don't Ask on the Wabbajack Server](#dont-ask-on-the-wabbajack-server)                                                                                       
+      - [Don't DM Me or Anyone Regarding the List](#dont-dm-me-or-anyone-regarding-the-list)                                                                         
+      - [Ask in My Discord Server](#ask-in-my-discord-server)-   
+    - [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
+    - [How to Submit Bug Reports and/or Feature Requests](#how-to-submit-bug-reports-andor-feature-requests)                                                                              
+    - [Adding Extra Mods](#adding-extra-mods)                                                                                                                        
+-   [Credits](#credits)                                                                                                         
 -   [Updating](#updating)                                                                                                                                          
--   [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
--   [How to Submit Bug Reports and/or Feature Requests](#how-to-submit-bug-reports-andor-feature-requests)                                                                              
--   [Modding Resources](#modding-resources)                                                                                                                        
--   [Credits](#credits)                                                                                                                                              
+                                                                                                                                             
 # The Why
 
 **This segment is entirely optional to read. These are just the events leading up to the creation of Old Old World.**
