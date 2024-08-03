@@ -338,8 +338,7 @@ A: You need to make sure YUPTTW is enabled in MO2 and directly underneath the ma
 
 Q: I am crashing; what can I do to fix it?
 
-A: Post your crashlog in the Old Old World support channel on Discord.                                                                                             
-
+A: Post your crashlog in the Apocalyptic Wonderland support channel on Discord.                                                                                             
 Q: Why are all of my downloads so slow and eventually failing?                                                                                                     
 
 A: You failed to connect your Nexus account to your Wabbajack. Open the settings cogwheel in Wabbajack and log into your Nexus account.                            
