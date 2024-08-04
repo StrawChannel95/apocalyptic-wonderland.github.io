@@ -200,7 +200,7 @@ More Fallout-related files are located inside the so-called `INI folder`, which 
 
 ### Preparations
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the Wabbajack file path that you se earlier.
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the Wabbajack file path that you set earlier.
 
 #### Disabling Base Address Randomization
 
