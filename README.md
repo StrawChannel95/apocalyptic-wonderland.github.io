@@ -70,8 +70,6 @@ This is it: the full story. Of course, I had like 14 different modding attempts 
 
 Wabbajack is an automated mod list installer that works by scanning the [META files](https://wiki.wabbajack.org/modlist_author_documentation/Meta%20Files.html) of MO2 Downloads so that it can download the mods on the user's device without redistributing any assets of said mods. This is needed because in the world of Bethesda modding, no clear permissions have been set for mods, each mod can have radically different permissions. That's why things like modpacks, or modlists, as we call them, didn't come until later down the line.
 
-
-
 # Requirements
 
 ### Specifications
