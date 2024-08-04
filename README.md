@@ -341,6 +341,7 @@ A: You need to make sure YUPTTW is enabled in MO2 and directly underneath the ma
 Q: I am crashing; what can I do to fix it?
 
 A: Post your crashlog in the Apocalyptic Wonderland support channel on Discord.                                                                                             
+
 Q: Why are all of my downloads so slow and eventually failing?                                                                                                     
 
 A: You failed to connect your Nexus account to your Wabbajack. Open the settings cogwheel in Wabbajack and log into your Nexus account.                            
@@ -349,7 +350,7 @@ Q: Is the list appropriate for a person who has never played Fallout before?
 
 A: Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.                                                                        
 
-Q: How do I find Old Old World's Keybinds?                                                                                                                         
+Q: How do I find Apocalyptic Wonderland's Keybinds?                                                                                                                         
 
 A: Press K in the pause menu.                                                                                                                                      
 
@@ -359,7 +360,7 @@ A: Modpub does not allow automated Wabbajack downloading.
 
 Q: Can I keep my own modded setup if I play Old Old World?                                                                                                         
 
-A: Yes. Old Old World is entirely self-contained through the use of MO2 Profiles. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs), the installation will still work and will not interfere with your other modded setup as long as you run the any other profiles separately.             
+A: Yes. Apocalyptic Wonderland is entirely self-contained through the use of MO2 Profiles. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs), the installation will still work and will not interfere with your other modded setup as long as you run the any other profiles separately.             
 
 Q: Doesn't Ragdolls cause crashes?                                                                                                                                 
 
@@ -369,7 +370,7 @@ Q: Can I start in the Mojave Wasteland?                                         
 
 A: Yes. To start in the Mojave Wasteland, select "just a memory" when prompted, "Is this now, or just a memory?" immediately after leaving the vault.              
 
-Q: Can I install Old Old World with Vortex?                                                                                                                        
+Q: Can I install Apocalyptic Wonderland with Vortex?                                                                                                                        
 
 A: No. Wabbajack is inherently incompatible with Vortex.                                                                                                           
 
