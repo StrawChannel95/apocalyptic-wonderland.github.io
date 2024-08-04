@@ -40,16 +40,17 @@
       - [Special K](#special-k)                          
 -   [Q&A](#qa)                                                                                                                                                     
 -   [Important Info](#important-info)
-    - [Where to Ask for Support](#where-to-ask-for-support)                                                                                                           
+    - [Where to Ask for Support](#where-to-ask-for-support)                                                                                                        
     - [How to Keep Extra Mods After Updating](#how-to-keep-extra-mods-after-updating)
-    - [How to Submit Bug Reports and/or Feature Requests](#how-to-submit-bug-reports-andor-feature-requests)                                                                              
-    - [Adding Extra Mods](#adding-extra-mods)                                                                                                                        
+    - [How to Submit Bug Reports and/or Feature Requests](#how-to-submit-bug-reports-andor-feature-requests)                                                      
+    - [Adding Extra Mods](#adding-extra-mods)                                                                                                                      
 -   [Updating](#updating)
 -   [Credits](#credits)                                                                                                                                          
                                                                                                                                              
 # The Why
 
-**This segment is entirely optional to read. These are just the events leading up to the creation of Apocalyptic Wonderland.**
+> [!note]
+> **This segment is entirely optional to read. These are just the events leading up to the creation of Apocalyptic Wonderland.**
 
 I was addicted to seeing New Vegas and TTW modding videos on YouTube. I loved creators such as [Mutant Mods](https://www.youtube.com/@Mutant_Mods/), [Mortyyyy](https://www.youtube.com/@Mortyyyy01) and [DarkPopulous](https://www.youtube.com/@Darkpopulous). I saw their modded setups and admired them. I thought to myself, "Can't I make a modlist that takes all the best parts from their load orders?" 
 
@@ -65,7 +66,7 @@ This is it: the full story. Of course, I had like 14 different modding attempts 
 
 >[!Important]
 >
->From here, you cannot skip any segments; they're all in chronological order.
+>From here on out, you cannot skip any segments; they're all in chronological order.
 
 Wabbajack is an automated mod list installer that works by scanning the [META files](https://wiki.wabbajack.org/modlist_author_documentation/Meta%20Files.html) of MO2 Downloads so that it can download the mods on the user's device without redistributing any assets of said mods. This is needed because in the world of Bethesda modding, no clear permissions have been set for mods, each mod can have radically different permissions. That's why things like modpacks, or modlists, as we call them, didn't come until later down the line.
 
