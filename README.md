@@ -213,7 +213,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 - Open `Virus & Threat Protection`.
 - Click `Manage Settings` under `Virus & Threat Protection Settings`.
 - Scroll down and select `Add or Remove Exclusions` under `Exclusions`.
-- Select the `Old Old World` location.
+- Select the `Apocalyptic Wonderland folder`.
 - Add another exclusion for the `Wabbajack Installation` location.
 - This process will also need to be done for any third-party antivirus.
 
@@ -223,7 +223,7 @@ The download and installation process can take a very long time, depending on yo
 
 -  Open Wabbajack.
 -  Load the Modlist from Disk.
--  Set Old Old World to install to `X:\Old Old World` and download to `X:\Old Old Worlds\downloads`.
+-  Set Apocalyptic Wonderland to install to the `Apocalyptic Wonderland install folder` and download to the `Apocalyptic Wonderland download folder`.
 -  Click the Go/Begin button.
 -  Wait for Wabbajack to finish.
 
