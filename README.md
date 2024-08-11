@@ -322,7 +322,6 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 Expand
 </summary>
 
-
 Q: Wabbajack tells me I'm missing a file from the game!
 
 A: Verify the game through Steam, then run it through the launcher and exit. The game must be a non-PCR version on Steam with all of the DLC, and the language must be English.
