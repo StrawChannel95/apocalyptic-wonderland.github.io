@@ -318,6 +318,9 @@ There are a lot of different scenarios where Wabbajack will produce an error. If
 - For instructions on configuring Latent Sync, enabling V-Sync or Variable Refresh Rate, please reference the [Special K section of Wall's Performance Guide](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters), though this is beyond the scope of Apocalyptic Wonderland's configuration.
 
 # Q&A
+<details><summary>
+Expand
+</summary>
 
 Q: Wabbajack tells me I'm missing a file from the game!
 
@@ -357,7 +360,7 @@ A: You need to make sure YUPTTW is enabled in MO2 and directly underneath the ma
 
 Q: I am crashing; what can I do to fix it?
 
-A: Post your crashlog in the Apocalyptic Wonderland support channel on Discord.                                                                                             
+A: Post your crashlog in the Apocalyptic Wonderland support channel on Discord.                                                                         
 
 Q: Why are all of my downloads so slow and eventually failing?                                                                                                     
 
@@ -368,7 +371,6 @@ Q: Is the list appropriate for a person who has never played Fallout before?
 A: Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.                                                                        
 
 Q: How do I find Apocalyptic Wonderland's Keybinds?                                                                                                                         
-
 A: Press K in the pause menu.                                                                                                                                      
 
 Q: Why do I have to manually install TTW and Stash Organizer?                                                                                                      
@@ -388,7 +390,6 @@ Q: Can I start in the Mojave Wasteland?                                         
 A: Yes. To start in the Mojave Wasteland, select "just a memory" when prompted, "Is this now, or just a memory?" immediately after leaving the vault.              
 
 Q: Can I install Apocalyptic Wonderland with Vortex?                                                                                                                        
-
 A: No. Wabbajack is inherently incompatible with Vortex.                                                                                                           
 
 Q: I get no DLC messages. Are they installed correctly?
@@ -407,8 +408,9 @@ and Fullscreen, with improved RAM management from the mod NVTF. One of these RAM
 
 Q: Is "{INSERT MOD NAME HERE}" compatible with the list?
 
-A: Short answer. If you have to ask, then no. Long answer: If you know your way around XEdit and can see what I have done in regards to patching the list for 
+A: Short answer. If you have to ask, then no. Long answer: If you know your way around xEdit and can see what I have done in regards to patching the list for 
 consistency, then absolutely.
+</details>
 
 # Important Info
 
