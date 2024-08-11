@@ -2,6 +2,13 @@
 
 # <p align=center>**Apocalyptic Wonderland**</p>
 
+<table stlyle="border: none;">
+<tr>
+<td><img src="https://github.com/StrawChannel95/Apocalyptic-Wonderland/blob/main/.github/WJIcon.png?raw=true" width="64px" /></td>
+<td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>
+</tr>
+</table>
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
