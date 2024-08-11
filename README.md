@@ -1,7 +1,22 @@
 <p align=center>StrawChannel95 is proud to present:</p>
 
 # <p align=center>**Apocalyptic Wonderland**</p>
- 
+
+<table stlyle="border: none;">
+<tr>
+<td><img src="https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/WJIcon.png" width="64px" /></td>
+<td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>
+</tr>
+</table>
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
 -   [The Why](#the-why) (This segment is completely optional to read; it just details how I made the list)
 -   [What is Wabbajack](#what-is-wabbajack)                                                                                                                
 -   [Requirements](#requirements)                                                                                                                                  
