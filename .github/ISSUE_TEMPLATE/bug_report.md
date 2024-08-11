@@ -13,7 +13,7 @@ If you've crashed, upload your crashlog from MO2's overwite folder.
 
 **Required: Modlist.txt**
 
-You must also include your modlist.txt from `Apocalyptic Wonderland\profiles\Apocalyptic Wonderland {VERSION NUMBER"`
+You must also include your modlist.txt from `Apocalyptic Wonderland\profiles\Apocalyptic Wonderland {VERSION NUMBER"}
 
 **Describe the bug**
 A clear and concise description of what the bug is. Failure to do this will result in the report being **closed and ignored.**
