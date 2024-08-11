@@ -137,7 +137,9 @@ The latest driver versions for your GPU ([NVIDIA](https://www.nvidia.com/downloa
 - Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
 - Create a folder named `Modding`, then open it.
 - Create a folder named `Wabbajack`.
-- Create another folder named `Apocalyptic Wonderland` then open it.
+- Create another folder named `Apocalyptic Wonderland` then open it. 
+
+[!image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Screenshot%202024-03-18%20145621.png)
 
 ### Generating INI Files
 
