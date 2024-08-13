@@ -14,7 +14,7 @@ My awesome mod suggestion at {LINK}
 I like the mod is not a good reason in my opinion
 
 **Did you try the mod? How is the gameplay with it?**
-Please provide a bit of your experience with it. Nothing crazy long but a few words would be nice, so i know what to expect.
+Please provide a bit of your experience with it. Nothing crazy long but a few words would be nice, so I know what to expect.
 
 **Did you try to add the mod to the list already?**
 This is not to remove your access to support, more to check if you maybe made a necessary patch already and so on.
