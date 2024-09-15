@@ -456,8 +456,6 @@ Generally speaking: 
 - Major x.x (2.1, 2.2, etc) updates require a new game.  
 - Minor x.x.x (2.1.1, 2.1.2) updates can be applied to an ongoing playthrough.
 
-Once you know and understand the depths and meanings behind these resources, you can start modding the list. Or you can ignore my advice and have a broken game because you forgot to patch something—your choice.
-
 # Credits
 - The NVSE team for NVSE and xNVSE.
 - The Tale of Two Wastelands team for TTW.
