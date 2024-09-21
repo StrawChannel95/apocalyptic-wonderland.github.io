@@ -1,0 +1,65 @@
+import { useState, useEffect } from 'react';
+
+export const DarkModeToggle = () => {
+  const [darkMode, setDarkMode] = useState(false);
+
+  useEffect(() => {
+    const isDarkMode = localStorage.getItem('darkMode') === 'true';
+    setDarkMode(isDarkMode);
+    document.body.classList.toggle('dark-mode', isDarkMode);
+  }, []);
+
+  const toggleDarkMode = () => {
+    const newDarkMode = !darkMode;
+    setDarkMode(newDarkMode);
+    localStorage.setItem('darkMode', newDarkMode);
+    document.body.classList.toggle('dark-mode', newDarkMode);
+  };
+
+  return (
+    <button onClick={toggleDarkMode}>
+      {darkMode ? 'Light Mode' : 'Dark Mode'}
+    </button>
+  );
+};
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>{`
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+      line-height: 1.5;
+      padding: 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    body.dark-mode {
+      background-color: #0d1117;
+      color: #c9d1d9;
+    }
+    .dark-mode a {
+      color: #58a6ff;
+    }
+    h1, h2, h3 {
+      border-bottom: 1px solid #d0d7de;
+      padding-bottom: 0.3em;
+    }
+    .dark-mode h1, .dark-mode h2, .dark-mode h3 {
+      border-bottom-color: #30363d;
+    }
+    code {
+      background-color: rgba(175,184,193,0.2);
+      padding: 0.2em 0.4em;
+      border-radius: 6px;
+    }
+    .dark-mode code {
+      background-color: rgba(110,118,129,0.4);
+    }
+  `}</style>
+</head>
+
+# Welcome to Apocalyptic Wonderland
+
+<DarkModeToggle />
+
+This is the official home for the Apocalyptic Wonderland Wabbajack list! This contains everything related to Apocalyptic Wonderland.
